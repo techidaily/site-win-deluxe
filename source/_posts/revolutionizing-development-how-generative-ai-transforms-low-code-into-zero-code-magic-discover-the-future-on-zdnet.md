@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Development: How Generative AI Transforms Low-Code Into Zero-Code Magic - Discover the Future on ZDNet"
-date: 2024-09-19 15:16:18
-updated: 2024-09-20 12:40:51
+date: 2024-09-20T16:15:13.380Z
+updated: 2024-09-23T16:09:35.557Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-deciphering-authenticity-in-your-facebook-brand-community-for-2024/"><u>[Updated] Deciphering Authenticity in Your Facebook Brand Community for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-enhanced-viewing-experience-apply-filters-on-videos/"><u>[Updated] Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-footage-insta-length-management-on-macos/"><u>[Updated] In 2024, Streamline Your Footage Insta-Length Management on macOS</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/anoemas-ultimate-guide-transforming-flv-content-into-webm-format-at-no-cost/"><u>Anoema's Ultimate Guide: Transforming FLV Content Into WebM Format at No Cost</u></a></li>
+<li><a href="https://win-special.techidaily.com/conversione-gratuita-da-rmvb-a-mp4-online-con-movavi-registrati-ora/"><u>Conversione Gratuita Da RMVB a MP4 Online Con Movavi - Registrati Ora!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/converting-m4v-files-free-of-charge-moveave-quick-and-easy-video-format-transformation/"><u>Converting M4V Files Free of Charge - Moveave: Quick and Easy Video Format Transformation</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/gratuit-mp4-aac-convertisseur-en-ligne-verification-de-la-qualite-avec-movavi/"><u>Gratuit MP4-AAC Convertisseur en Ligne - Vérification De La Qualité Avec Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-bandicam-vs-camtasia-a-comparative-review/"><u>In 2024, Bandicam Vs. Camtasia A Comparative Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-direct-transfer-solution-youtube-content-on-dailymotion-now/"><u>In 2024, Direct Transfer Solution YouTube Content on Dailymotion Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>In 2024, Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transforma-tu-archivo-webm-a-formato-mp3-gratuito-con-descarga-en-linea-movavi/"><u>Transforma Tu Archivo WEBM a Formato MP3 Gratuito Con Descarga en Línea - Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/trasforma-i-tuoi-file-audio-mpe-in-m4a-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi File Audio MPE in M4A Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
+</ul></div>
+

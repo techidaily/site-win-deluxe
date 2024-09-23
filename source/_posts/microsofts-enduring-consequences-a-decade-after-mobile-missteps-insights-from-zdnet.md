@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Enduring Consequences: A Decade After Mobile Missteps - Insights From ZDNet"
-date: 2024-09-17 20:57:18
-updated: 2024-09-20 10:27:33
+date: 2024-09-21T17:20:37.506Z
+updated: 2024-09-23T17:42:17.510Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,33 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-amplify-your-snapchat-experience-with-easy-voice-customization-for-2024/"><u>[Updated] Amplify Your Snapchat Experience with Easy Voice Customization for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-value-shooters-with-full-spherical-capture/"><u>[Updated] Best Value Shooters with Full Spherical Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems/"><u>[Updated] Uncomplicated Methodology Turning Clownfish Sounds on Windows Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-burst-to-blast-android-apps-transform-slow-motion/"><u>2024 Approved Burst to Blast Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/avinsv-movavi/"><u>線上無成本將AVI轉換為NSV - Movavi視頻編輯器</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/anoemas-ultimate-guide-transforming-flv-content-into-webm-format-at-no-cost/"><u>Anoema's Ultimate Guide: Transforming FLV Content Into WebM Format at No Cost</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/converting-m4v-files-free-of-charge-moveave-quick-and-easy-video-format-transformation/"><u>Converting M4V Files Free of Charge - Moveave: Quick and Easy Video Format Transformation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-the-traditional-turing-test-still-hold-up-exploring-current-alternatives/"><u>Does The Traditional Turing Test Still Hold Up? Exploring Current Alternatives</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-online-avs-to-mp4-converter-movavi-video-editor/"><u>Free Online AVS to MP4 Converter - Movavi Video Editor</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/gratuit-mp4-aac-convertisseur-en-ligne-verification-de-la-qualite-avec-movavi/"><u>Gratuit MP4-AAC Convertisseur en Ligne - Vérification De La Qualité Avec Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/i-migliori-8-programmi-free-per-convertire-le-foto-in-cartoni-animati-online/"><u>I Migliori 8 Programmi Free per Convertire Le Foto in Cartoni Animati Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mpegtomkv/"><u>MpegToMkvフリーウェブベースコンバータ - ムーヴァビ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-nigma-ultimate-guide-to-solving-the-black-screen-glitch-in-persona-5-strikers/"><u>Persona Nigma: Ultimate Guide to Solving the Black Screen Glitch in Persona 5 Strikers</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-syncing-your-xbox-one-controller-when-connected-to-a-pc-or-console/"><u>Step-by-Step Instructions for Syncing Your Xbox One Controller When Connected to a PC or Console</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transforma-tu-archivo-webm-a-formato-mp3-gratuito-con-descarga-en-linea-movavi/"><u>Transforma Tu Archivo WEBM a Formato MP3 Gratuito Con Descarga en Línea - Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/trasforma-i-tuoi-file-audio-mpe-in-m4a-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi File Audio MPE in M4A Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-videos-into-dollars-the-ultimate-mobile-focused-youtubers-manual-for-2e24-for-2024/"><u>Turning Videos Into Dollars The Ultimate Mobile-Focused YouTuber's Manual for 2E24 for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-f5-pro-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco F5 Pro 5G Phone Network-Ready</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-step-by-step-kinemaster-meme-creation/"><u>Your Step-by-Step KineMaster Meme Creation</u></a></li>
+</ul></div>
+

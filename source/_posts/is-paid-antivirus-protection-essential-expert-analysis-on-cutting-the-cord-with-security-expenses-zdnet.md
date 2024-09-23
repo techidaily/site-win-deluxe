@@ -1,7 +1,7 @@
 ---
 title: Is Paid Antivirus Protection Essential? Expert Analysis on Cutting the Cord with Security Expenses | ZDNET
-date: 2024-09-17 14:38:13
-updated: 2024-09-20 11:36:35
+date: 2024-09-22T17:19:32.809Z
+updated: 2024-09-23T16:06:31.504Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,33 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-collaborate-for-success-video-strategies-for-2024/"><u>[New] Collaborate for Success Video Strategies for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-educational-transformation-the-vr-revolution/"><u>[Updated] 2024 Approved Educational Transformation The VR Revolution</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-content-top-10-must-use-hashtags-on-ig-for-2024/"><u>[Updated] Elevate Your Content Top 10 Must-Use Hashtags on IG for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inaugural-vision-preservation-review-and-alternate-suggestions/"><u>[Updated] Inaugural Vision Preservation Review & Alternate Suggestions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/avinsv-movavi/"><u>線上無成本將AVI轉換為NSV - Movavi視頻編輯器</u></a></li>
+<li><a href="https://fox-info.techidaily.com/breaking-down-the-barriers-top-strategies-for-beginners-in-influencer-marketing-on-reddit-for-2024/"><u>Breaking Down the Barriers Top Strategies for Beginners in Influencer Marketing on Reddit for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-convertir-video-mp4-a-formato-wmv-sin-coste-con-herramientas-online-de-conversion-gratuita/"><u>Cómo Convertir Video MP4 a Formato WMV Sin Coste Con Herramientas Online De Conversión Gratuita</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/conversion-gratuite-de-fichiers-aac-en-format-aiff-sur-internet-tutomovavi/"><u>Conversion Gratuite De Fichiers AAC en Format AIFF Sur Internet - TutoMovavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/download-free-mcb-logo-templates/"><u>Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-video-file-conversion-using-movavi-a-step-by-step-guide-to-seamless-editing/"><u>Effortless Video File Conversion Using Movavi - A Step-by-Step Guide to Seamless Editing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/facilidad-al-dominio-de-las-presentaciones-y-slideshow-para-mac-usando-movavi/"><u>Facilidad Al Dominio De Las Presentaciones Y Slideshow Para Mac Usando Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-a60-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Itel A60 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/innovative-laptop-mainboard-leverages-risc-v-design-collaboration-with-deepcomputing-on-the-cutting-edge-jh711n-single-board-computer/"><u>Innovative Laptop Mainboard Leverages RISC-V Design: Collaboration with DeepComputing on the Cutting-Edge JH711n Single-Board Computer</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/montage-de-photos-avance-sur-mac-avec-movavi-photo-retoucher-editeur-graphique-parfait/"><u>Montage De Photos Avancé Sur Mac Avec Movavi Photo Retoucher - Éditeur Graphique Parfait</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/online-kostenlos-m4a-datei-zu-webm-konvertieren-professionelle-losung-von-movavi/"><u>Online Kostenlos M4A-Datei Zu WebM Konvertieren - Professionelle Lösung Von Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/step-by-step-enabling-screen-capture-on-macos/"><u>Step-by-Step Enabling Screen Capture on MacOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/tech-tools-for-streaming-a-detailed-overview-on-tv-recording-for-2024/"><u>Tech Tools for Streaming A Detailed Overview on TV Recording for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-ts-en-webm-en-ligne-gratuitement-un-guide-complet-avec-movavi/"><u>Transformer Des Fichiers Ts en Webm en Ligne Gratuitement : Un Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1726228169284-wmamp4-movavi/"><u>WMAファイルの無料オンラインMP4変換 - Movavi</u></a></li>
+</ul></div>
+
