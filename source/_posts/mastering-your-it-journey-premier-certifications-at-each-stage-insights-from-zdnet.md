@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your IT Journey: Premier Certifications at Each Stage - Insights From ZDNet"
-date: 2024-09-22T17:02:09.640Z
-updated: 2024-09-23T16:08:22.301Z
+date: 2024-09-22T16:11:48.547Z
+updated: 2024-09-28T04:03:50.948Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-easy-peasy-podcast-go-live-hack-for-2024/"><u>[New] Easy-Peasy Podcast Go Live Hack for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-smart-7-hd-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Smart 7 HD to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/acer-screens-banishing-blinding-flashes/"><u>Acer Screens: Banishing Blinding Flashes</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-g310-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia G310? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/boost-your-pcs-performance-with-this-under-the-radar-windows-nx-update-for-fast-unresponsive-app-management/"><u>Boost Your PC's Performance with This Under-the-Radar Windows nX Update for Fast Unresponsive App Management</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/boost-your-pcs-performance-quick-fix-with-windows-11-feature-to-terminate-sluggish-programs/"><u>Boost Your PC's Performance: Quick Fix with Windows 11 Feature to Terminate Sluggish Programs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-best-standing-workstations-expert-picks-by-zdnet/"><u>Discover the Best Standing Workstations - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-power-of-ultimate-access-setting-up-and-benefits-of-windows-11s-god-mode-explained-by-zdnet/"><u>Discover the Power of Ultimate Access: Setting Up & Benefits of Windows 11'S God Mode Explained by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-height-adjustment-for-healthier-work-habits-exclusive-deal-alert-on-a-desk-converter-at-zdnet/"><u>Effortless Height Adjustment for Healthier Work Habits - Exclusive Deal Alert on a Desk Converter at ZDNet!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-track-get-your-usb-to-rs232-driver-download-in-no-time/"><u>Fast Track: Get Your USB to RS232 Driver Download in No Time</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-rules-and-unspoken-guides-to-online-friending/"><u>Hidden Rules and Unspoken Guides to Online Friending</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-filmmaking-made-easy-pc-mac-and-smartphone-techniques/"><u>In 2024, Filmmaking Made Easy PC, Mac & Smartphone Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-review-why-microsofts-new-surface-laptop-studio-has-everyone-envy-stricken-tech-insights-from-zdnet/"><u>The Ultimate Review: Why Microsoft's New Surface Laptop Studio Has Everyone Envy-Stricken | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-5-office-desks-the-ultimate-guide-zdnet/"><u>Top 5 Office Desks : The Ultimate Guide - ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/viral-laughter-lab/"><u>Viral Laughter Lab</u></a></li>
+</ul></div>
 

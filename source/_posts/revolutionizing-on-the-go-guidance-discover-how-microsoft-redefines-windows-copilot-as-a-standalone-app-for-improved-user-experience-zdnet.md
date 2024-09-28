@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing On-the-Go Guidance: Discover How Microsoft Redefines Windows Copilot as a Standalone App for Improved User Experience | ZDNet"
-date: 2024-09-20T16:27:08.609Z
-updated: 2024-09-23T16:46:39.404Z
+date: 2024-09-21T21:12:44.026Z
+updated: 2024-09-28T07:35:06.263Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -194,5 +194,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamline-your-tech-expertise-with-io-screen-recording/"><u>[New] 2024 Approved Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-googlefication-is-transforming-and-complicating-the-world-of-pcs-insights-from-zdnet/"><u>How 'Googlefication' Is Transforming and Complicating the World of PCs – Insights From ZDNET</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-k70e-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi K70E to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/in-depth-look-microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-what-you-need-to-know/"><u>In-Depth Look: Microsoft's Latest Innovations Revealed at the Annual Surface & AI Showcase - What You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-interactive-narratives-in-text-based-rpgs-using-the-ai-capabilities-of-chatgpt/"><u>Mastering the Art of Interactive Narratives in Text-Based RPGs Using the AI Capabilities of ChatGPT</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/purchase-microsoft-office-2019-on-pcmac-at-just-under-25-immediate-discounts-available-today/"><u>Purchase Microsoft Office 2019 on PC/Mac at Just Under $25 - Immediate Discounts Available Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/r-type-final-n-pc-edition-how-to-stop-the-frustrating-crashes-for-good/"><u>R-Type Final N PC Edition: How to Stop the Frustrating Crashes for Good</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-accounts-payable-process-top-6-strategies-insights-from-the-abbyy-expert-team/"><u>Transform Your Accounts Payable Process: Top 6 Strategies - Insights From the ABBYY Expert Team</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/upcoming-fees-microsoft-announces-paid-windows-10-update-subscription-starting-year-insights-and-cost-breakdown/"><u>Upcoming Fees: Microsoft Announces Paid Windows 10 Update Subscription Starting [Year] - Insights and Cost Breakdown</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/urgent-challenge-awaits-microsoft-as-deadline-nears-for-fixing-windows-11-flaws-insights-from-zdnet/"><u>Urgent Challenge Awaits Microsoft as Deadline Nears for Fixing Windows 11 Flaws | Insights From ZDNET</u></a></li>
+</ul></div>
 

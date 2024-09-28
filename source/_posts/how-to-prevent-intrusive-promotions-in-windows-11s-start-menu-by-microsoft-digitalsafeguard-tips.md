@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Intrusive Promotions in Windows 11'S Start Menu by Microsoft | DigitalSafeguard Tips
-date: 2024-09-17T16:28:14.626Z
-updated: 2024-09-23T17:00:38.129Z
+date: 2024-09-24T17:15:42.612Z
+updated: 2024-09-28T04:49:18.167Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -200,5 +194,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-deluxe.techidaily.com/dpx-gif-movavi-dpx-gif/"><u>DPX 픽셀을 기반으로 GIF에 전환하는 Movavi의 금세공적인 온라인 DPX GIF 파이어 - 제약 없음</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elite-group-of-12-tools-for-endless-video-capture-for-2024/"><u>Elite Group of 12 Tools for Endless Video Capture for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-go-2023withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark Go (2023)with/without a PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-is-your-channels-income-regular-via-youtube/"><u>In 2024, Is Your Channel's Income Regular via YouTube?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/movavis-ultimate-guide-to-convert-flac-audio-files-at-no-cost/"><u>Movavi's Ultimate Guide to Convert FLAC Audio Files at No Cost</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/scambia-webm-con-vob-on-line-senza-costi-movavi/"><u>Scambia WebM Con VOB On-Line Senza Costi - Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-25-instagram-hashtags-to-get-likes-and-followers/"><u>Top 25 Instagram Hashtags to Get Likes and Followers</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transforma-tu-video-desde-3gp-a-mpeg-en-linea-sin-gastos-con-la-herramienta-gratuita-de-movavi/"><u>Transforma Tu Vídeo Desde 3GP a MPEG en Línea Sin Gastos Con La Herramienta Gratuita De Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-mov-en-avi-gratuitement-en-ligne-un-guide-rapide/"><u>Transformer Des Fichiers MOV en AVI Gratuitement en Ligne : Un Guide Rapide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windows-11-discover-new-apps-and-games-now/"><u>Windows 11 Discover New Apps & Games Now</u></a></li>
+</ul></div>
 

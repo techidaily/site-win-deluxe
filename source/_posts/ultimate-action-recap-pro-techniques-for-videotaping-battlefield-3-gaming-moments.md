@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Action Recap: Pro Techniques for Videotaping Battlefield 3 Gaming Moments"
-date: 2024-09-17T16:00:50.499Z
-updated: 2024-09-23T17:32:34.097Z
+date: 2024-09-24T20:52:22.790Z
+updated: 2024-09-28T00:26:28.933Z
 tags:
   - product
 categories:
@@ -60,13 +60,6 @@ Action Tutorials
 
 ![Mirillis Action! - gameplay recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Battlefield 3 game, Action! HUD will appear in the top right (default position) corner of your Battlefield 3 game displaying current game framerate in blue color. This means that Battlefield 3 game is active, Action! is connected to Battlefield 3 and ready to start gameplay recording. 
 
 ![Mirillis Action! - Battlefield 3 benchmarking](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_normal_status.jpg) 
@@ -74,6 +67,13 @@ Action Tutorials
  On the screen above Action! HUD displays current Battlefield 3 game framerate in blue color, average gameplay framerate in gray color and version of DirectX used by Battlefield 3 game, here it is DirectX 11 (DX11). 
 
  You can reset average game framerate with **F5** hotkey. To change Action! HUD position use **F7** hotkey, to hide/show HUD use **F6** hotkey. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Battlefield 3 gameplay recording
 
@@ -84,22 +84,15 @@ Action Tutorials
 ![Mirillis Action! - Battlefield 3 gameplay recording in progress](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_recording_status.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Press **F9** hotkey again to stop Battlefield 3 gameplay recording. HUD status changes showing that your gameplay recording has finished.
 
 ![Mirillis Action! - Battlefield 3 benchmarking](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_normal_status.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pause Battlefield 3 gameplay recording
 
@@ -119,13 +112,6 @@ Action Tutorials
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_playback_battlefield3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Action! HUD on Battlefield 3 gameplay recordings
 
  If you do not want to include HUD in recorded Battlefield 3 gameplay videos you must select an option: **"Do not record HUD in games and applications"**.
@@ -133,10 +119,10 @@ Action Tutorials
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Upload Battlefield 3 gameplay recordings to YouTube
@@ -146,10 +132,10 @@ Action Tutorials
 ![Mirillis Action! - Export Battlefield 3 recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_upload_to_youtube.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add webcam to Battlefield 3 gameplay recordings
@@ -158,6 +144,20 @@ Action Tutorials
 
 ![Mirillis Action! - Add webcam to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_webcam_battlefield3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add your logo to Battlefield 3 gameplay recordings
 
  To add your own logo or any other graphics to Battlefield 3 gameplay recording open main Video capture tab and make sure to enable **"Overlay graphics"** option. Select your graphics input file, set position, run Battlefield 3 and start recording to make gameplay recording with your own logo/graphics!
@@ -165,10 +165,10 @@ Action Tutorials
 ![Mirillis Action! - Add logo to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -184,5 +184,17 @@ Action Tutorials
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-newbies-guide-to-av1-codec/"><u>[New] In 2024, The Newbie's Guide to AV1 Codec</u></a></li>
+<li><a href="https://blog-min.techidaily.com/omavlift/"><u>線上提供免費的Omavlift轉播服務</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-download-atresplayer-content-on-pc-or-mac-with-the-best-free-tools/"><u>How To Download Atresplayer Content On PC or Mac With The Best Free Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/iheartradio-music-saver-directly-save-your-favorite-tracks/"><u>IHeartRadio Music Saver: Directly Save Your Favorite Tracks</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone SE (2020) Apple ID and Apple Pay</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g14-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G14 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quick-start-easily-extract-and-download-popular-pornhub-content-in-various-formats-including-mp4-mov-and-avi-with-our-step-by-step-tutorial/"><u>Quick Start: Easily Extract & Download Popular PornHub Content in Various Formats Including MP4, MOV, and AVI with Our Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quick-steps-for-fetching-dotsub-media-videocasts-and-captions/"><u>Quick Steps for Fetching DotSub Media: Videocasts and Captions</u></a></li>
+</ul></div>
 

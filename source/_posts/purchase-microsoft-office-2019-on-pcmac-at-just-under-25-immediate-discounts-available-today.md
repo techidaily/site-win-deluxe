@@ -1,7 +1,7 @@
 ---
 title: Purchase Microsoft Office 2019 on PC/Mac at Just Under $25 - Immediate Discounts Available Today!
-date: 2024-09-21T16:24:30.933Z
-updated: 2024-09-23T17:10:31.352Z
+date: 2024-09-21T02:10:44.923Z
+updated: 2024-09-28T04:01:26.181Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,16 +98,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,6 +142,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -151,13 +164,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +206,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-playbook-for-youtube-brand-development-and-expansion/"><u>[New] The Ultimate Playbook for YouTube Brand Development and Expansion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-downloads-for-mac-easy-steps-included/"><u>[Updated] Snapchat Downloads for Mac - Easy Steps Included</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-for-leveraging-ai-like-chatgpt-in-mental-wellness-coaching/"><u>Best Practices for Leveraging AI Like ChatGPT in Mental Wellness Coaching</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/complete-guide-secure-your-data-by-using-the-built-in-file-history-feature-on-windows-10-and-11-tips-from-zdnet/"><u>Complete Guide: Secure Your Data by Using the Built-In File History Feature on Windows 10 & 11 - Tips From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/defining-desires-discovering-consumer-demands-and-future-prospects-for-microsoft-surface-insights-from-zdnet/"><u>Defining Desires: Discovering Consumer Demands & Future Prospects for Microsoft Surface - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/energy-efficiency-for-gaming-consoles/"><u>Energy Efficiency for Gaming Consoles</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/get-microsoft-project-and-visio-pro-licenses-now-for-a-steal-only-20-shop-from-trusted-sources-on-zdnet-today/"><u>Get Microsoft Project and Visio Pro Licenses Now for a Steal – Only $20! Shop From Trusted Sources on ZDNET Today.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-issues-with-cracking-sound-on-your-pcs-speakers-windows-107-guide/"><u>How to Fix Audio Issues with Cracking Sound on Your PC's Speakers - Windows 10/7 Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Oppo Reno 10 Pro+ 5G?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ideal-low-impact-recording-devices-for-eco-conscious-filmmakers/"><u>Ideal Low-Impact Recording Devices for Eco-Conscious Filmmakers</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/next-phase-for-windows-an-in-depth-look-at-microsofts-new-direction-with-cloud-computing-digital-marketing-and-hardware-synergy/"><u>Next Phase for Windows: An In-Depth Look at Microsoft's New Direction with Cloud Computing, Digital Marketing & Hardware Synergy</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revolutionizing-development-how-generative-ai-transforms-low-code-into-zero-code-magic-discover-the-future-on-zdnet/"><u>Revolutionizing Development: How Generative AI Transforms Low-Code Into Zero-Code Magic - Discover the Future on ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revolutionizing-on-the-go-guidance-discover-how-microsoft-redefines-windows-copilot-as-a-standalone-app-for-improved-user-experience-zdnet/"><u>Revolutionizing On-the-Go Guidance: Discover How Microsoft Redefines Windows Copilot as a Standalone App for Improved User Experience | ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/superior-mp4-integrator-with-fb-for-2024/"><u>Superior MP4 Integrator with FB for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/switching-gears-in-computing-my-real-experience-with-microsofts-surface-duo-and-laptop-is-it-time-to-part-ways-with-the-macbook-digitaltrends/"><u>Switching Gears in Computing: My Real Experience with Microsoft's Surface Duo and Laptop - Is It Time to Part Ways with the MacBook? | DigitalTrends</u></a></li>
+</ul></div>
 

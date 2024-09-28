@@ -1,7 +1,7 @@
 ---
 title: Urgent Challenge Awaits Microsoft as Deadline Nears for Fixing Windows 11 Flaws | Insights From ZDNET
-date: 2024-09-19T16:59:00.647Z
-updated: 2024-09-23T16:11:36.551Z
+date: 2024-09-24T22:31:50.501Z
+updated: 2024-09-28T02:05:28.146Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>[New] 2024 Approved Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-niconico-stars-in-snapchat-moments/"><u>2024 Approved Niconico Stars in Snapchat Moments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridging-operating-systems-a-comprehensive-guide-to-executing-android-apps-on-windows-10/"><u>Bridging Operating Systems: A Comprehensive Guide to Executing Android Apps on Windows 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/explore-how-microsoft-is-changing-document-automation-with-their-latest-ai-copier-tool-expert-advice-for-maximizing-productivity-wired/"><u>Explore How Microsoft Is Changing Document Automation with Their Latest AI Copier Tool - Expert Advice for Maximizing Productivity | Wired</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/generative-ais-role-in-advancing-from-low-to-zero-code-development-with-a-surprising-edge-innovationblog/"><u>Generative AI's Role in Advancing From Low to Zero Code Development with a Surprising Edge | InnovationBlog</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-30-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 30 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/improving-interaction-how-microsoft-can-enhance-usability-and-satisfy-customers/"><u>Improving Interaction: How Microsoft Can Enhance Usability and Satisfy Customers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-sony-xperia-1-v-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Sony Xperia 1 V to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-your-it-journey-premier-certifications-at-each-stage-insights-from-zdnet/"><u>Mastering Your IT Journey: Premier Certifications at Each Stage - Insights From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/microsoft-continues-windows-control-panel-support-contrary-to-rumors-tech-news-today/"><u>Microsoft Continues Windows Control Panel Support, Contrary to Rumors | Tech News Today</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/microsofts-breakthrough-revelations-at-the-surface-plus-ai-showcase-coverage-on-zdnet/"><u>Microsoft's Breakthrough Revelations at the Surface Plus AI Showcase – Coverage on ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-lenovo-webcam-driver-release-improved-performance-on-windows-7-systems/"><u>New Lenovo Webcam Driver Release – Improved Performance on Windows 7 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-civilization-vi-installation-issues-on-windows-10/"><u>Resolved: Fixes for Civilization VI Installation Issues on Windows 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revive-your-aging-desktop-with-these-5-proven-tricks-for-windows-11-upgrade-most-solutions-gratis/"><u>Revive Your Aging Desktop with These 5 Proven Tricks for Windows 11 Upgrade - Most Solutions Gratis!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tales-that-transcend-leading-academies-ranked-top-8-for-2024/"><u>Tales That Transcend Leading Academies Ranked Top 8 for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unveiling-of-microsofts-windows-11-se-and-affordable-250-surface-laptop-se-targeting-educators-zdnet-update/"><u>Unveiling of Microsoft's Windows 11 SE and Affordable $250 Surface Laptop SE Targeting Educators – ZDNet Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unearthing-absent-settings-in-control-panel/"><u>Windows 11: Unearthing Absent Settings in Control Panel</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Continues Windows Control Panel Support, Contrary to Rumors | Tech News Today
-date: 2024-09-16T17:25:51.818Z
-updated: 2024-09-23T16:06:29.674Z
+date: 2024-09-26T00:44:45.547Z
+updated: 2024-09-28T07:13:42.201Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/emystifying-youtube-premium-membership-benefits-for-2024/"><u>[New] Demystifying YouTube Premium Membership Benefits for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort-for-2024/"><u>[New] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-heimdalls-eye-the-watchers-of-ragnarok-for-2024/"><u>[New] Heimdall's Eye The Watchers of Ragnarok for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-fastest-growing-youtube-channel/"><u>[Updated] 2024 Approved 8 Fastest-Growing YouTube Channel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>[Updated] In 2024, Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-take-on-the-lg-bp350-monitors-connectivity-features/"><u>2024 Approved Professional Take on the LG BP350 Monitor's Connectivity Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-identity-shielding-adding-watermark-and-logo-to-youtube-media/"><u>2024 Approved Visual Identity Shielding Adding Watermark & Logo to YouTube Media</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-12-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi 12</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/dont-miss-out-windows-11-21h222h2-support-expires-soon-update-immediately-before-its-too-late-zdnet-insider/"><u>Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expose-11-essential-trackpad-gestures-every-pro-user-should-utilize-in-depth-guide-by-zdnet/"><u>Expose 11 Essential Trackpad Gestures Every Pro User Should Utilize - In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-paid-antivirus-protection-essential-expert-analysis-on-cutting-the-cord-with-security-expenses-zdnet/"><u>Is Paid Antivirus Protection Essential? Expert Analysis on Cutting the Cord with Security Expenses | ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/july-microsoft-patch-could-trigger-bitlocker-lockout-on-windows-essential-solutions-unveiled-technews/"><u>July Microsoft Patch Could Trigger BitLocker Lockout on Windows: Essential Solutions Unveiled | TechNews</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-key-reassignment-with-microsoft-powertoys-a-comprehensive-guide/"><u>Mastering Key Reassignment with Microsoft PowerToys - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-productivity-with-the-space-saving-docking-station-now-just-44-cheaper-insights-from-zdnet/"><u>Maximize Productivity with the Space-Saving Docking Station, Now Just 44% Cheaper | Insights From ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/new-premium-services-from-microsoft-to-prolong-the-life-of-your-windows-10-devices-with-a-cost-zdnet-insights/"><u>New Premium Services From Microsoft to Prolong the Life of Your Windows 10 Devices, with a Cost | ZDNET Insights</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/no-plans-for-sudo-integration-in-windows-server-2e5-confirms-microsoft-via-zdnet/"><u>No Plans for Sudo Integration in Windows Server 2E5, Confirms Microsoft via ZDNet</u></a></li>
+<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
+</ul></div>
 

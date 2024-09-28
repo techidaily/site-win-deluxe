@@ -1,7 +1,7 @@
 ---
 title: "Top Picks From a Best Buy Expert: The Ultimate Guide to Choosing Your Perfect Windows Laptop - Insider Tips"
-date: 2024-09-17T16:59:47.975Z
-updated: 2024-09-23T16:18:34.438Z
+date: 2024-09-21T02:47:30.104Z
+updated: 2024-09-28T01:24:12.816Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,16 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +194,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-thors-odyssey-the-last-stand/"><u>[New] 2024 Approved Thor’s Odyssey The Last Stand</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-inside-instagrams-maximum-video-restriction-policy-for-2024/"><u>[New] Inside Instagram's Maximum Video Restriction Policy for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fresh-concepts-for-youtube-channels-inspiration-at-its-peak/"><u>[Updated] Fresh Concepts for YouTube Channels Inspiration at Its Peak</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-list-legal-game-music-sources/"><u>[Updated] The Ultimate List Legal Game Music Sources</u></a></li>
+<li><a href="https://solve-help.techidaily.com/windows11/"><u>【高解像度・全面解説】Windows11用動画プレイヤーとして最適化されたフリーソフト:スローモーション、倍速再生などをご提案</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-your-tiktok-content-collection-game/"><u>2024 Approved Revolutionizing Your TikTok Content Collection Game</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1726221781780-12/"><u>圧縮ソフトの推薦! 無料動画小さくして保存するためのベストツール12選!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-techniques-for-customizing-headers-and-footers-in-pdfs-prior-to-flipbook-transformation/"><u>Effective Techniques for Customizing Headers & Footers in PDFs Prior to Flipbook Transformation</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/enhance-your-sites-flow-expert-guide-on-inter-page-transition-using-flipbuilder/"><u>Enhance Your Site's Flow: Expert Guide on Inter-Page Transition Using FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ensuring-compatibility-making-your-digital-book-user-friendly-on-ipads-tips-and-tricks-from-flipbuildercom/"><u>Ensuring Compatibility: Making Your Digital Book User-Friendly on iPads - Tips & Tricks From FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/flash-window-design-tweaks-for-flipbook-creators-on-flipbuildercom/"><u>Flash Window Design Tweaks for FlipBook Creators on FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-prepare-grayscale-photos-for-optimal-flippingbook-layouts/"><u>How to Prepare Grayscale Photos for Optimal FlippingBook Layouts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-multiple-pdf-file-conversions-with-innovative-strategies-at-flipbuildercom/"><u>Mastering Multiple PDF File Conversions with Innovative Strategies at FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-setting-up-your-flipbook-to-let-users-print-pages-directly-with-flipbuilder-tools/"><u>Step-by-Step Tutorial: Setting Up Your Flipbook to Let Users Print Pages Directly with FlipBuilder Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-resident-evil-village-from-freezing-or-crashing-on-your-computer-with-these-expert-tips/"><u>Stop Resident Evil Village From Freezing or Crashing on Your Computer with These Expert Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Surface Pro Capacity & Slash Expenses in Just 7 Steps - Expert Tips From ZDNet
-date: 2024-09-19T16:59:56.464Z
-updated: 2024-09-23T16:17:41.853Z
+date: 2024-09-23T07:07:03.881Z
+updated: 2024-09-28T00:13:04.543Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -194,5 +194,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-parrot-ar-drone-evaluation-elite-edition/"><u>[New] Parrot AR Drone Evaluation - Elite Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-airborne-broadcasting-how-to-stream-with-dji-drones-for-2024/"><u>[Updated] Airborne Broadcasting How to Stream with DJI Drones for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-first-step-to-aerial-adventure-best-beginner-drones/"><u>[Updated] First Step to Aerial Adventure Best Beginner Drones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/imed-storytellers-with-photo-audio-symphony-for-2024/"><u>Acclaimed Storytellers with Photo-Audio Symphony for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-techniques-for-customizing-headers-and-footers-in-pdfs-prior-to-flipbook-transformation/"><u>Effective Techniques for Customizing Headers & Footers in PDFs Prior to Flipbook Transformation</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ensuring-compatibility-making-your-digital-book-user-friendly-on-ipads-tips-and-tricks-from-flipbuildercom/"><u>Ensuring Compatibility: Making Your Digital Book User-Friendly on iPads - Tips & Tricks From FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-create-a-stunning-flipbook-with-dual-layered-backgrounds-using-templates-on-flipbuildercom/"><u>How to Create a Stunning Flipbook with Dual-Layered Backgrounds Using Templates on FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-view-just-10-pages-on-flipbuilder-your-ultimate-guide/"><u>How to View Just 10 Pages on FlipBuilder – Your Ultimate Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-11-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme 11 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/macs-resilience-steps-to-eradicate-kernel-freeze/"><u>Mac's Resilience: Steps to Eradicate Kernel Freeze</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-multiple-pdf-file-conversions-with-innovative-strategies-at-flipbuildercom/"><u>Mastering Multiple PDF File Conversions with Innovative Strategies at FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-setting-up-your-flipbook-to-let-users-print-pages-directly-with-flipbuilder-tools/"><u>Step-by-Step Tutorial: Setting Up Your Flipbook to Let Users Print Pages Directly with FlipBuilder Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unveiling-top-tech-choices-trustworthy-reviews-by-toms-hardware-experts/"><u>Unveiling Top Tech Choices: Trustworthy Reviews by Tom's Hardware Experts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Técnicas Facilmente Executáveis: Como Alterar O Tamanho De Arquivos De Vídeo Nas Plataformas Do Windows E Mac"
-date: 2024-09-21T17:39:34.499Z
-updated: 2024-09-23T17:34:59.702Z
+date: 2024-09-23T02:16:50.197Z
+updated: 2024-09-27T23:27:29.503Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe9401c395fee54d3c5c1d37695.jpg
@@ -161,13 +161,6 @@ Movavi 的首要目標是就是為您提供經過驗證的資訊。為了確保�
 
 接著我們就來介紹一下 Windows 10 的 7 大桌面式相片檢視器。各個軟體都有不同程度的編輯功能，包括可以新增外掛程式，使軟體更適合專業任務，如批次編輯、製作電影或動畫等等。無論您是要快速處理大型圖像、簡單的使用者介面還是打開各類檔案格式的能力，都請您繼續閱讀，以便找到最適合自己的相片檢查器。
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [Movavi Photo Editor](https://tools.techidaily.com/movavi/photo-editor/)
@@ -192,11 +185,25 @@ Photo Editor 是Movavi最新一代圖片瀏覽器，不僅能秀圖，也支援�
 
 * 圖片都必須上傳至軟體
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**Apowersoft Photo Viewer**](https://tools.techidaily.com/apowersoft/products/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/45fecd0579324a4520e69e9420f2563d91051f49.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 使用者首次啟動 Apowersoft Photo Viewer 並開啟相片後，馬上就會注意到沒有任何控制項或工具。這是因為控制項或工具就巧妙隱藏在某個彈出式選單列之中，只要將滑鼠游標懸停特定位置 (底部和兩側)，選單列就會出現。這使得本相片檢視器成為最簡潔的應用程式之一，而圖像則會填滿整個視窗，成為焦點。本軟體能在圖像上充分新增形狀、線條和文字，但外觀和行為卻和早期的 Microsoft Paint 非常相似。不過，該軟體的優點是可以儲存到雲端，也可以直接將圖片分享到社群媒體上，讓使用者能輕易在網際網路上與朋友和家人分享照片。
 
@@ -211,13 +218,6 @@ Apowersoft Photo Viewer 也是十大照片管理工具的首選之一。要完�
 缺點：
 
 * GUI 看起來很舊，簡直像 XP，而且功能有限
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -236,10 +236,10 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 * 對普通使用者而言工具太多了
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -274,31 +274,11 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 圖片只能在單一頁籤中開啟且無法捲動
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 [**Nomacs**](https://github.com/nomacs/nomacs)
 
 ![](https://cdn.staticont.net/page_type/0013/45/3c872b24e843d2a8619d1d110f90c6a4aef905b7.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 除了 Windows 10 相片檢視器的標準檢視選項外，Nomacs 還多了一個整潔的備註方塊。該放塊可供您放入評論，以供日後使用。無論您是需要匯出圖像以便日後在更複雜的軟體中進行編輯，還是僅僅是為了提醒自己相片中的人事物，這項功能都十分有用。在「調整」索引標籤中，也有些既實用又有趣的工具。其中一個叫做「Tiny Planet」，可以將您的圖像轉換為酷似地球儀的正方形裁剪照片，非常適合將風景照製作成 360 度的全景。更棒的是，無論您是要私下使用，還是有商業用途，Nomacs 都可以免費下載。
 
@@ -340,6 +320,13 @@ Movavi Photo Editor
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 常見問題集
 
 ### 最好的 Windows 相片檢視器是什麼？
@@ -354,10 +341,10 @@ Movavi Photo Editor
 * Google Photos
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 那一個是用於觀賞照片的最佳軟體?
@@ -365,10 +352,10 @@ Movavi Photo Editor
 我們認為 Movavi Photo Editor 可以贏得這個頭銜! 本app不僅可秀圖 & 瀏覽照片，亦可用來分類與組織照片。透過便利的方式，輕鬆解決管理大批照片的難題。而且，它的AI臉部識別技術，能為每位家人自動開設相簿，賞圖與管理都超簡單。本app還內建了實用的照片編輯功能，能順暢地為你處理修圖大小事。只要擁有一套Photo Editor，便足以滿足所有照片相關之日常需求!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 什麼是Windows照片瀏覽器的良好替代品?
@@ -376,10 +363,10 @@ Movavi Photo Editor
 這一個項目，我們推薦 Nomacs，它的外觀與操作均十分簡單。除了擁有近似 Windows 10 相片檢視器的基本選項外，Nomacs 還多了一個備註方塊。此欄位可以填入自己的評論或說明，以供日後參考。此外，它的「Tiny Planet」功能，可用來把照片轉換為類似地球儀的正方形裁切照片，相當適合用來產生富有創意的 360 度全景風景照。
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 那一個工具可以稱為最棒的Windows 10免費照片應用程式?
@@ -441,6 +428,13 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -462,5 +456,24 @@ Movavi Photo Editor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-become-a-videographer-essentials-of-recording-with-logitech-for-2024/"><u>[New] Become a Videographer Essentials of Recording with Logitech for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-digital-learning-session-replays-for-2024/"><u>[New] Digital Learning Session Replays for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-record-video-with-quick-video-recorder-for-2024/"><u>[New] How to Record Video with Quick Video Recorder for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-guide-to-creating-breathtaking-tile-art-for-2024/"><u>[New] Step-by-Step Guide to Creating Breathtaking Tile Art for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[Updated] Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-top-ranking-tubechop-substitute-for-mac-and-windows-users/"><u>1. Top-Ranking TubeChop Substitute for MAC & WINDOWS Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-ultimate-guide-to-downloading-films-from-sockshare-in-multiple-formats-mp4-mov-avi/"><u>1. Ultimate Guide to Downloading Films From Sockshare in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-webp-images-to-png-for-free-instant-upload-on-movavi/"><u>Convert Webp Images to PNG for Free - Instant Upload on Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-non-functioning-links-in-your-flipboard-ebooks-tips-and-solutions/"><u>Troubleshooting Non-Functioning Links in Your FlipBoard Ebooks: Tips & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-when-geforce-experience-fails-and-forces-exit/"><u>Troubleshooting Tips for When GeForce Experience Fails and Forces Exit</u></a></li>
+</ul></div>
 
