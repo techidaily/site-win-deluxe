@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing On-the-Go Guidance: Discover How Microsoft Redefines Windows Copilot as a Standalone App for Improved User Experience | ZDNet"
-date: 2024-09-21T21:12:44.026Z
-updated: 2024-09-28T07:35:06.263Z
+date: 2024-10-02T02:44:31.201Z
+updated: 2024-10-02T23:18:45.367Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +135,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamline-your-tech-expertise-with-io-screen-recording/"><u>[New] 2024 Approved Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-googlefication-is-transforming-and-complicating-the-world-of-pcs-insights-from-zdnet/"><u>How 'Googlefication' Is Transforming and Complicating the World of PCs – Insights From ZDNET</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-k70e-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi K70E to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/in-depth-look-microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-what-you-need-to-know/"><u>In-Depth Look: Microsoft's Latest Innovations Revealed at the Annual Surface & AI Showcase - What You Need to Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-interactive-narratives-in-text-based-rpgs-using-the-ai-capabilities-of-chatgpt/"><u>Mastering the Art of Interactive Narratives in Text-Based RPGs Using the AI Capabilities of ChatGPT</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/purchase-microsoft-office-2019-on-pcmac-at-just-under-25-immediate-discounts-available-today/"><u>Purchase Microsoft Office 2019 on PC/Mac at Just Under $25 - Immediate Discounts Available Today!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/r-type-final-n-pc-edition-how-to-stop-the-frustrating-crashes-for-good/"><u>R-Type Final N PC Edition: How to Stop the Frustrating Crashes for Good</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-accounts-payable-process-top-6-strategies-insights-from-the-abbyy-expert-team/"><u>Transform Your Accounts Payable Process: Top 6 Strategies - Insights From the ABBYY Expert Team</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/upcoming-fees-microsoft-announces-paid-windows-10-update-subscription-starting-year-insights-and-cost-breakdown/"><u>Upcoming Fees: Microsoft Announces Paid Windows 10 Update Subscription Starting [Year] - Insights and Cost Breakdown</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/urgent-challenge-awaits-microsoft-as-deadline-nears-for-fixing-windows-11-flaws-insights-from-zdnet/"><u>Urgent Challenge Awaits Microsoft as Deadline Nears for Fixing Windows 11 Flaws | Insights From ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros/"><u>[New] In 2024, Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-obs-screen-recorder-functionality-deeply/"><u>[New] In 2024, Unveiling OBS Screen Recorder Functionality Deeply</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pinnacle-8-android-video-chat-solutions-for-big-teams/"><u>[Updated] In 2024, Pinnacle 8 Android Video Chat Solutions for Big Teams</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/concerned-about-chatgpt-privacy-heres-how-to-opt-out/"><u>Concerned About ChatGPT Privacy? Here's How to Opt Out</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-ultimate-list-of-top-8-live-streaming-apps-for-smartphones-and-tablets/"><u>Discover the Ultimate List of Top 8 Live Streaming Apps for Smartphones and Tablets</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expert-review-leading-photo-management-software-for-windows-10-users/"><u>Expert Review: Leading Photo Management Software for Windows 10 Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-circumference-video-rigging-for-2024/"><u>Full-Circumference Video Rigging for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-effortlessly-transform-your-tubechop-audio-files-into-high-quality-mp3s-the-ultimate-guide/"><u>How to Effortlessly Transform Your TubeChop Audio Files Into High-Quality MP3s – The Ultimate Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c300-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C300 FRP Bypass</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-6-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 6 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-iphone-maintenance-comprehensive-troubleshooting-strategies-for-2019-models/"><u>Mastering iPhone Maintenance: Comprehensive Troubleshooting Strategies for 2019 Models</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-iphone-n-8-screen-captures-discover-the-top-three-strategies/"><u>Mastering the Art of iPhone N 8 Screen Captures: Discover the Top Three Strategies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-best-strategies-for-high-quality-audio-capture-on-microsofts-latest-operating-system-windows-11/"><u>The Best Strategies for High-Quality Audio Capture on Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-efficient-techniques-for-trimming-sound-recordings/"><u>The Ultimate Guide: Efficient Techniques for Trimming Sound Recordings</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cut-color-and-create-top-video-editing-software-for-vloggers/"><u>Updated In 2024, Cut, Color, and Create Top Video Editing Software for Vloggers</u></a></li>
 </ul></div>
 

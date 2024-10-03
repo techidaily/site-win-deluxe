@@ -1,7 +1,7 @@
 ---
 title: Microsoft Continues Windows Control Panel Support, Contrary to Rumors | Tech News Today
-date: 2024-09-26T00:44:45.547Z
-updated: 2024-09-28T07:13:42.201Z
+date: 2024-10-01T23:43:16.179Z
+updated: 2024-10-03T03:18:59.575Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/emystifying-youtube-premium-membership-benefits-for-2024/"><u>[New] Demystifying YouTube Premium Membership Benefits for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort-for-2024/"><u>[New] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-heimdalls-eye-the-watchers-of-ragnarok-for-2024/"><u>[New] Heimdall's Eye The Watchers of Ragnarok for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-fastest-growing-youtube-channel/"><u>[Updated] 2024 Approved 8 Fastest-Growing YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>[Updated] In 2024, Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-take-on-the-lg-bp350-monitors-connectivity-features/"><u>2024 Approved Professional Take on the LG BP350 Monitor's Connectivity Features</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-visual-identity-shielding-adding-watermark-and-logo-to-youtube-media/"><u>2024 Approved Visual Identity Shielding Adding Watermark & Logo to YouTube Media</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-12-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi 12</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/dont-miss-out-windows-11-21h222h2-support-expires-soon-update-immediately-before-its-too-late-zdnet-insider/"><u>Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expose-11-essential-trackpad-gestures-every-pro-user-should-utilize-in-depth-guide-by-zdnet/"><u>Expose 11 Essential Trackpad Gestures Every Pro User Should Utilize - In-Depth Guide by ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-paid-antivirus-protection-essential-expert-analysis-on-cutting-the-cord-with-security-expenses-zdnet/"><u>Is Paid Antivirus Protection Essential? Expert Analysis on Cutting the Cord with Security Expenses | ZDNET</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/july-microsoft-patch-could-trigger-bitlocker-lockout-on-windows-essential-solutions-unveiled-technews/"><u>July Microsoft Patch Could Trigger BitLocker Lockout on Windows: Essential Solutions Unveiled | TechNews</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-key-reassignment-with-microsoft-powertoys-a-comprehensive-guide/"><u>Mastering Key Reassignment with Microsoft PowerToys - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/maximize-productivity-with-the-space-saving-docking-station-now-just-44-cheaper-insights-from-zdnet/"><u>Maximize Productivity with the Space-Saving Docking Station, Now Just 44% Cheaper | Insights From ZDNET</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/new-premium-services-from-microsoft-to-prolong-the-life-of-your-windows-10-devices-with-a-cost-zdnet-insights/"><u>New Premium Services From Microsoft to Prolong the Life of Your Windows 10 Devices, with a Cost | ZDNET Insights</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/no-plans-for-sudo-integration-in-windows-server-2e5-confirms-microsoft-via-zdnet/"><u>No Plans for Sudo Integration in Windows Server 2E5, Confirms Microsoft via ZDNet</u></a></li>
-<li><a href="https://app-tips.techidaily.com/why-small-and-medium-sized-businesses-overlook-necessary-cybersecurity-coverage-insights-from-zdnet/"><u>Why Small and Medium-Sized Businesses Overlook Necessary Cybersecurity Coverage: Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-conquer-xbox-gameplay-with-efficient-recording-tools/"><u>[New] 2024 Approved Conquer Xbox Gameplay with Efficient Recording Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[New] In 2024, Funny Faces Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/6-tecnicas-certificadas-para-consertar-dvds-com-seguranca-de-copia-no-windows-1011-e-mac/"><u>6 Técnicas Certificadas Para Consertar DVDs Com Segurança De Cópia No Windows 10/11 E Mac</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/conversion-gratuite-de-fichiers-aac-en-format-aiff-sur-internet-tutomovavi/"><u>Conversion Gratuite De Fichiers AAC en Format AIFF Sur Internet - TutoMovavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/facilidad-al-dominio-de-las-presentaciones-y-slideshow-para-mac-usando-movavi/"><u>Facilidad Al Dominio De Las Presentaciones Y Slideshow Para Mac Usando Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-p55plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel P55+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-step-by-step-manual-for-capturing-vr-playthroughs/"><u>In 2024, A Step-by-Step Manual for Capturing VR Playthroughs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s18e-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18e Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/montage-de-photos-avance-sur-mac-avec-movavi-photo-retoucher-editeur-graphique-parfait/"><u>Montage De Photos Avancé Sur Mac Avec Movavi Photo Retoucher - Éditeur Graphique Parfait</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-ts-en-webm-en-ligne-gratuitement-un-guide-complet-avec-movavi/"><u>Transformer Des Fichiers Ts en Webm en Ligne Gratuitement : Un Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-telegram-messenger-and-how-does-it-work/"><u>What Is Telegram Messenger and How Does It Work?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider
-date: 2024-09-23T16:24:30.622Z
-updated: 2024-09-27T20:34:11.788Z
+date: 2024-09-27T09:17:36.398Z
+updated: 2024-10-02T17:04:35.787Z
 tags:
   - windows
 categories:
@@ -39,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -47,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -60,13 +74,6 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -74,10 +81,16 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -91,37 +104,24 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,22 +162,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-transfer-photos-and-videos-from-android-phone-to-an-iphone/"><u>[New] How to Transfer Photos and Videos From Android Phone to an iPhone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-snug-scenes-for-snowy-screens-a-focused-list/"><u>[Updated] 2024 Approved Snug Scenes for Snowy Screens A Focused List</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-download-youtube-snippets-with-perfection-for-2024/"><u>[Updated] Download YouTube Snippets with Perfection for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-skype-audio-with-obs-recording-techniques/"><u>[Updated] Securing Skype Audio with OBS Recording Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-and-leveraging-influencers-on-snapchat/"><u>2024 Approved Understanding and Leveraging Influencers on Snapchat</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/avinsv-movavi/"><u>線上無成本將AVI轉換為NSV - Movavi視頻編輯器</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/anoemas-ultimate-guide-transforming-flv-content-into-webm-format-at-no-cost/"><u>Anoema's Ultimate Guide: Transforming FLV Content Into WebM Format at No Cost</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortless-video-file-conversion-using-movavi-a-step-by-step-guide-to-seamless-editing/"><u>Effortless Video File Conversion Using Movavi - A Step-by-Step Guide to Seamless Editing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-ankers-durable-outdoor-flashlight-the-best-tactical-lighting-solution/"><u>Expert Analysis of Anker's Durable Outdoor Flashlight - The Best Tactical Lighting Solution</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/free-online-avs-to-mp4-converter-movavi-video-editor/"><u>Free Online AVS to MP4 Converter - Movavi Video Editor</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mpegtomkv/"><u>MpegToMkvフリーウェブベースコンバータ - ムーヴァビ</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transforma-tu-archivo-webm-a-formato-mp3-gratuito-con-descarga-en-linea-movavi/"><u>Transforma Tu Archivo WEBM a Formato MP3 Gratuito Con Descarga en Línea - Movavi</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/trasforma-i-tuoi-file-audio-mpe-in-m4a-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi File Audio MPE in M4A Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/turning-onoff-windows-11s-secure-user-authentication/"><u>Turning On/Off Windows 11'S Secure User Authentication</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unifying-similar-portraits-in-your-photograph-collection-using-iphone-or-mac-tools/"><u>Unifying Similar Portraits in Your Photograph Collection Using iPhone or Mac Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1726228169284-wmamp4-movavi/"><u>WMAファイルの無料オンラインMP4変換 - Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-step-into-the-metaverse-analyzing-6-engrossing-cases/"><u>[New] 2024 Approved Step Into the Metaverse Analyzing 6 Engrossing Cases</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music-for-2024/"><u>[New] Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x50-gt-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X50 GT Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>In 2024, Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-posting-youtube-videos-with-screen-recording-techniques/"><u>Mastering the Art of Posting YouTube Videos with Screen Recording Techniques!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/navigating-data-protection-with-mirilliss-guide-to-the-general-data-protection-regulation-gdpr/"><u>Navigating Data Protection with Mirillis's Guide to the General Data Protection Regulation (GDPR)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/navigating-global-reach-via-vimeo-links-for-2024/"><u>Navigating Global Reach via Vimeo Links for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-mastering-the-art-of-interactive-design/"><u>Step-by-Step Guide: Mastering the Art of Interactive Design</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-replacement-for-internet-download-manager-on-macos-and-windows-discover-allvsoft/"><u>Top Replacement for Internet Download Manager on macOS & Windows: Discover Allvsoft</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-tools-for-saving-beeg-videos-cross-platform-solutions-for-windows-and-macos-users/"><u>Top Tools for Saving Beeg Videos: Cross-Platform Solutions for Windows and macOS Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-how-to-retrieve-and-save-video-content-from-usa-today-across-both-macos-and-windows-platforms/"><u>Tutorial: How to Retrieve and Save Video Content From 'USA Today' Across Both macOS & Windows Platforms</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-walkthrough-access-and-enjoy-spotify-with-the-fitbit-versa-watch/"><u>Ultimate Walkthrough: Access and Enjoy Spotify with the Fitbit Versa Watch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-hidden-details-roblox-closeup-secrets/"><u>Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722872709135-verizons-most-competitive-device-trade-up-deals-in-month-you-cant-miss/"><u>Verizon's Most Competitive Device Trade-Up Deals in [Month] You Can’t Miss</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/world-minded-dialogue-techniques-for-global-interaction-mastery/"><u>World-Minded Dialogue: Techniques for Global Interaction Mastery</u></a></li>
 </ul></div>
 

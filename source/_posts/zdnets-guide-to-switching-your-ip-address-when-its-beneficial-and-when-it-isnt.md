@@ -1,7 +1,7 @@
 ---
 title: "ZDNet’s Guide to Switching Your IP Address: When It's Beneficial and When It Isn’t"
-date: 2024-09-24T22:03:37.682Z
-updated: 2024-09-27T17:55:25.999Z
+date: 2024-10-01T10:41:11.863Z
+updated: 2024-10-02T19:49:33.499Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -49,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -60,13 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -80,6 +80,13 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -91,37 +98,24 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,18 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-presence-setting-up-an-instagram-company/"><u>[New] Elevate Your Presence Setting Up an Instagram Company</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-maximizing-reach-sharing-twitters-vids-via-snapchat-for-2024/"><u>[New] Maximizing Reach Sharing Twitters' Vids via Snapchat for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[New] TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/complete-guide-secure-your-data-by-using-the-built-in-file-history-feature-on-windows-10-and-11-tips-from-zdnet/"><u>Complete Guide: Secure Your Data by Using the Built-In File History Feature on Windows 10 & 11 - Tips From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-the-502-error-code-causes-and-fixing-techniques-explained/"><u>Decoding the 502 Error Code: Causes and Fixing Techniques Explained</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/defining-desires-discovering-consumer-demands-and-future-prospects-for-microsoft-surface-insights-from-zdnet/"><u>Defining Desires: Discovering Consumer Demands & Future Prospects for Microsoft Surface - Insights From ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/get-microsoft-project-and-visio-pro-licenses-now-for-a-steal-only-20-shop-from-trusted-sources-on-zdnet-today/"><u>Get Microsoft Project and Visio Pro Licenses Now for a Steal – Only $20! Shop From Trusted Sources on ZDNET Today.</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/next-phase-for-windows-an-in-depth-look-at-microsofts-new-direction-with-cloud-computing-digital-marketing-and-hardware-synergy/"><u>Next Phase for Windows: An In-Depth Look at Microsoft's New Direction with Cloud Computing, Digital Marketing & Hardware Synergy</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-install-geforce-gtx-460-drivers-on-windows/"><u>Quick and Easy Guide: Install GeForce GTX 460 Drivers on Windows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/revolutionizing-development-how-generative-ai-transforms-low-code-into-zero-code-magic-discover-the-future-on-zdnet/"><u>Revolutionizing Development: How Generative AI Transforms Low-Code Into Zero-Code Magic - Discover the Future on ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/switching-gears-in-computing-my-real-experience-with-microsofts-surface-duo-and-laptop-is-it-time-to-part-ways-with-the-macbook-digitaltrends/"><u>Switching Gears in Computing: My Real Experience with Microsoft's Surface Duo and Laptop - Is It Time to Part Ways with the MacBook? | DigitalTrends</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-prioritizing-visibility-a-guide-to-insta-highlights-perfection/"><u>[New] In 2024, Prioritizing Visibility A Guide to Insta Highlights Perfection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-camera-technology-for-youtube-stars-for-2024/"><u>[Updated] Cutting-Edge Camera Technology For YouTube Stars for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-reviewing-video-comment-trails-on-youtube/"><u>[Updated] Reviewing Video Comment Trails on YouTube</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/avinsv-movavi/"><u>線上無成本將AVI轉換為NSV - Movavi視頻編輯器</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-video-file-conversion-using-movavi-a-step-by-step-guide-to-seamless-editing/"><u>Effortless Video File Conversion Using Movavi - A Step-by-Step Guide to Seamless Editing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-online-avs-to-mp4-converter-movavi-video-editor/"><u>Free Online AVS to MP4 Converter - Movavi Video Editor</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Phones with/without a PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-boost-your-outcomes-with-chatgpt-learn-5-expert-instruction-hacks/"><u>How to Boost Your Outcomes with ChatGPT: Learn 5 Expert Instruction Hacks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-90-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor 90?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-motorola-defy-2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Motorola Defy 2</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mpegtomkv/"><u>MpegToMkvフリーウェブベースコンバータ - ムーヴァビ</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-5-affordable-gaming-mice-and-keyboards-99plus-for-2024/"><u>Top 5 Affordable Gaming Mice & Keyboards $99+ for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/trasforma-i-tuoi-file-audio-mpe-in-m4a-senza-costi-utilizzando-il-servizio-di-movavi-online/"><u>Trasforma I Tuoi File Audio MPE in M4A Senza Costi Utilizzando Il Servizio Di Movavi Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1726228169284-wmamp4-movavi/"><u>WMAファイルの無料オンラインMP4変換 - Movavi</u></a></li>
 </ul></div>
 

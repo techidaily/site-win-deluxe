@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Lost Files: A Step-by-Step Guide to Retrieving Data From Your Outdated PC without a Password | Tech Insights by ZDNet"
-date: 2024-09-27T01:19:33.939Z
-updated: 2024-09-28T05:36:23.241Z
+date: 2024-09-26T04:34:36.239Z
+updated: 2024-10-02T21:56:17.492Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +181,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-allocating-budget-for-youtube-video-success/"><u>[New] Allocating Budget for YouTube Video Success</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-fix-chromium-and-youtube-streams/"><u>[Updated] 2024 Approved Fix Chromium and YouTube Streams</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-building-your-virtual-persona-with-minimal-hassle/"><u>[Updated] Building Your Virtual Persona with Minimal Hassle</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-uploading-and-showcasing-videos-on-instagram-made-easy-for-2024/"><u>[Updated] Uploading and Showcasing Videos on Instagram Made Easy for 2024</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-nubia-red-magic-8s-proplus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nubia Red Magic 8S Pro+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 Pro 5G Phone Screen?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iconic-written-movements-unveiled/"><u>Iconic Written Movements Unveiled</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-posting-youtube-videos-with-screen-recording-techniques/"><u>Mastering the Art of Posting YouTube Videos with Screen Recording Techniques!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/navigating-data-protection-with-mirilliss-guide-to-the-general-data-protection-regulation-gdpr/"><u>Navigating Data Protection with Mirillis's Guide to the General Data Protection Regulation (GDPR)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008481801-rest-avoid-activities-that-may-aggrave-the-injury-or-cause-further-damage-to-the-affected-area-allowing-the-body-time-to-rest-promotes-proper-healing/"><u>Rest: Avoid Activities that May Aggrave the Injury or Cause Further Damage to the Affected Area. Allowing the Body Time to Rest Promotes Proper Healing.</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/social-media-savvy-how-to-download-status-vids-on-fb/"><u>Social Media Savvy How to Download Status Vids on FB</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-mastering-the-art-of-interactive-design/"><u>Step-by-Step Guide: Mastering the Art of Interactive Design</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-on-converting-and-saving-pubfilm-content-as-mp4-or-avi-files/"><u>Step-by-Step Tutorial on Converting and Saving PubFilm Content as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/stream-and-keep-how-to-permanently-download-songs-from-iheartradio/"><u>Stream & Keep: How To Permanently Download Songs From iHeartRadio</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-replacement-for-internet-download-manager-on-macos-and-windows-discover-allvsoft/"><u>Top Replacement for Internet Download Manager on macOS & Windows: Discover Allvsoft</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-tools-for-saving-beeg-videos-cross-platform-solutions-for-windows-and-macos-users/"><u>Top Tools for Saving Beeg Videos: Cross-Platform Solutions for Windows and macOS Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tutorial-how-to-retrieve-and-save-video-content-from-usa-today-across-both-macos-and-windows-platforms/"><u>Tutorial: How to Retrieve and Save Video Content From 'USA Today' Across Both macOS & Windows Platforms</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-walkthrough-access-and-enjoy-spotify-with-the-fitbit-versa-watch/"><u>Ultimate Walkthrough: Access and Enjoy Spotify with the Fitbit Versa Watch</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-11-dvd/"><u>Windows 11に最適化 - DVD コンプレッション用高画質ソフトウェアとその使い方</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-boost-your-capacity-20-premier-gratis-cloud-storage-options/"><u>[New] In 2024, Boost Your Capacity 20 Premier Gratis Cloud Storage Options</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[Updated] 2024 Approved Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unified-brands-and-streaming-services-a-new-age-of-marketing-collaboration/"><u>2024 Approved Unified Brands & Streaming Services A New Age of Marketing Collaboration</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-tutorial-sync-your-android-screen-with-mac-using-airdroid/"><u>Easy Tutorial: Sync Your Android Screen with Mac Using Airdroid</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-effortlessly-transform-your-tubechop-audio-files-into-high-quality-mp3s-the-ultimate-guide/"><u>How to Effortlessly Transform Your TubeChop Audio Files Into High-Quality MP3s – The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>In 2024, Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/iphone-repair-guide-top-tips-and-fixes-for-ios-devices-in-2019/"><u>IPhone Repair Guide: Top Tips and Fixes for iOS Devices in 2019</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/iphone-showdown-unveiling-the-key-distinctions-among-the-xs-xs-max-and-xr-models/"><u>IPhone Showdown: Unveiling the Key Distinctions Among the XS, XS Max, and XR Models</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/proactive-measures-for-authentic-ai-app-consumption/"><u>Proactive Measures for Authentic AI App Consumption</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ps3-video-transcoder-change-mkv-files-for-ps3-player-use/"><u>PS3 Video Transcoder - Change MKV Files for PS3 Player Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719374357320-seven-big-mistakes-new-users-could-make-in-windows-11-to-avoid/"><u>Seven Big Mistakes New Users Could Make in Windows 11 - To Avoid!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-strategies-for-crafting-the-perfect-clubhouse-avatar/"><u>Top Strategies for Crafting the Perfect Clubhouse Avatar</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-guide-how-to-remove-watermarks-from-jpg-photos/"><u>Ultimate Guide: How To Remove Watermarks From JPG Photos</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-tutorial-mastering-the-art-of-screen-captures-on-your-blu-mobile-device/"><u>Ultimate Tutorial: Mastering the Art of Screen Captures on Your BLU Mobile Device</u></a></li>
 </ul></div>
 

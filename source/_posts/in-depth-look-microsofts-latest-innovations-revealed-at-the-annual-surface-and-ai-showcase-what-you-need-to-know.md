@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look: Microsoft's Latest Innovations Revealed at the Annual Surface & AI Showcase - What You Need to Know"
-date: 2024-09-23T05:02:48.953Z
-updated: 2024-09-27T20:34:32.913Z
+date: 2024-09-26T08:59:52.742Z
+updated: 2024-10-02T19:20:48.499Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -122,13 +135,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,16 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamlining-roblox-games-on-mac-for-recording/"><u>[New] 2024 Approved Streamlining Roblox Games on Mac for Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-telepresence-seminar-capture-for-2024/"><u>[New] Telepresence Seminar Capture for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-for-high-quality-movies-on-windowsmac-and-tablets/"><u>[Updated] 2024 Approved The Ultimate Guide for High-Quality Movies on Windows/Mac & Tablets</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-joining-flv-files-a-step-by-step-guide/"><u>[Updated] In 2024, Joining FLV Files A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/conversion-video-gratuite-fichiers-mov-vers-wma-avec-movexpert/"><u>Conversion Vidéo Gratuite: Fichiers MOV Vers WMA Avec MOVEXPERT</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/dpx-gif-movavi-dpx-gif/"><u>DPX 픽셀을 기반으로 GIF에 전환하는 Movavi의 금세공적인 온라인 DPX GIF 파이어 - 제약 없음</u></a></li>
-<li><a href="https://discover-great.techidaily.com/efficiently-transfer-your-dvd-content-top-6-strategies-for-pc-migration/"><u>Efficiently Transfer Your DVD Content: Top 6 Strategies for PC Migration</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/i-migliori-8-programmi-free-per-convertire-le-foto-in-cartoni-animati-online/"><u>I Migliori 8 Programmi Free per Convertire Le Foto in Cartoni Animati Online</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/movavis-ultimate-guide-to-convert-flac-audio-files-at-no-cost/"><u>Movavi's Ultimate Guide to Convert FLAC Audio Files at No Cost</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-online-stop-motion-animation-studios-top-5-free-and-paid-options/"><u>New Online Stop Motion Animation Studios Top 5 Free and Paid Options</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723005812512-pc-trouble-heres-how-to-get-robocop-rogue-city-running-smoothly-again/"><u>PC Trouble? Here’s How to Get RoboCop: Rogue City Running Smoothly Again</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/scambia-webm-con-vob-on-line-senza-costi-movavi/"><u>Scambia WebM Con VOB On-Line Senza Costi - Movavi</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tecnicas-facilmente-executaveis-como-alterar-o-tamanho-de-arquivos-de-video-nas-plataformas-do-windows-e-mac/"><u>Técnicas Facilmente Executáveis: Como Alterar O Tamanho De Arquivos De Vídeo Nas Plataformas Do Windows E Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-developing-proficient-interview-skills-for-2024/"><u>[Updated] Developing Proficient Interview Skills for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-liberty-cam-studios-features-and-functionality/"><u>[Updated] In 2024, Liberty Cam Studio's Features and Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-premium-plugins-boosting-ae-projects/"><u>[Updated] Ultimate Guide Premium Plugins Boosting AE Projects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-vs-paid-cg-masters-tutorials-steps-for-acquiring-online-animation-education/"><u>Free Vs. Paid CG-Masters Tutorials: Steps for Acquiring Online Animation Education</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-xnxx-hd-movie-downloads-compatible-with-macos-and-windows-systems/"><u>Free Xnxx HD Movie Downloads: Compatible with macOS & Windows Systems</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/full-channel-youtube-archive-creator-effortless-bulk-video-retrieval-for-your-content-needs/"><u>Full-Channel YouTube Archive Creator: Effortless Bulk Video Retrieval for Your Content Needs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/get-exclusive-access-download-and-convert-wwe-content-into-high-quality-mp4-mov-and-avi-formats/"><u>Get Exclusive Access: Download and Convert WWE Content Into High-Quality MP4, MOV & AVI Formats</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/get-your-favorite-pornhub-videos-anytime-on-any-device-safe-and-secure-downloader-apps-for-windows-and-macos/"><u>Get Your Favorite PornHub Videos Anytime, On Any Device – Safe & Secure Downloader Apps for Windows and macOS</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guide-effortless-downloading-of-videos-in-mp4-and-avi-formats-from-the-uktv-play-platform/"><u>Guide: Effortless Downloading of Videos in MP4 and AVI Formats From the UKTV Play Platform</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-convert-kaplan-course-videos-into-various-formats-using-kaplan-video-downloader/"><u>How to Convert Kaplan Course Videos Into Various Formats Using Kaplan Video Downloader</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-download-atresplayer-content-on-pc-or-mac-with-the-best-free-tools/"><u>How To Download Atresplayer Content On PC or Mac With The Best Free Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/iheartradio-music-saver-directly-save-your-favorite-tracks/"><u>IHeartRadio Music Saver: Directly Save Your Favorite Tracks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-momentum-at-rest-best-idle-pc-games/"><u>In 2024, Momentum at Rest Best Idle PC Games</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/kuppersbusch/"><u>Küppersbusch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maintaining-mystery-techniques-for-smoothing-out-visuals/"><u>Maintaining Mystery Techniques for Smoothing Out Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-vision-enhancers-guide-top-9-remedies-for-blurry-displays/"><u>The Vision Enhancers' Guide: Top 9 Remedies for Blurry Displays</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-poco-x6-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Poco X6 Pro password or pattern lock</u></a></li>
 </ul></div>
 

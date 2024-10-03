@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Buzz Around Microsoft's Discreet Feature Launch - A Closer Look by ZDNet
-date: 2024-09-27T02:40:54.557Z
-updated: 2024-09-28T02:55:28.891Z
+date: 2024-09-27T02:43:08.797Z
+updated: 2024-10-03T05:14:14.118Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-connected-healing-telemedicine-evolved/"><u>[New] Connected Healing Telemedicine Evolved</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[New] Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/10-pathways-to-cultural-bridges-through-language-learning/"><u>10 Pathways to Cultural Bridges Through Language Learning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-15-antivirus-solutions-on-a-budget-essential-free-and-bootable-protection/"><u>Best 15 Antivirus Solutions on a Budget: Essential Free and Bootable Protection</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-fixing-page-fault-errors-in-windows-11-operating-system/"><u>Diagnosing and Fixing 'Page Fault' Errors in Windows 11 Operating System</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-7-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 7 to iPad? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-considerations-for-enhancing-your-4k-cinematic-quality/"><u>In 2024, Top Considerations for Enhancing Your 4K Cinematic Quality</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/new-premium-services-from-microsoft-to-prolong-the-life-of-your-windows-10-devices-with-a-cost-zdnet-insights/"><u>New Premium Services From Microsoft to Prolong the Life of Your Windows 10 Devices, with a Cost | ZDNET Insights</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/no-plans-for-sudo-integration-in-windows-server-2e5-confirms-microsoft-via-zdnet/"><u>No Plans for Sudo Integration in Windows Server 2E5, Confirms Microsoft via ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/speeding-up-your-surfing-discover-the-enhanced-speed-and-improved-performance-of-googles-latest-chrome-update-for-windows-what-you-need-to-know/"><u>Speeding Up Your Surfing: Discover the Enhanced Speed and Improved Performance of Google's Latest Chrome Update for Windows - What You Need to Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/stream-movies-on-a-budget-with-these-12-free-downloads/"><u>Stream Movies on a Budget with These 12 Free Downloads</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-guide-capturing-screen-images-efficiently-on-pc-windows/"><u>Ultimate Guide: Capturing Screen Images Efficiently on PC (Windows)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unlocking-advanced-features-a-complete-guide-to-enabling-god-mode-on-windows-11-insights-from-zdnet/"><u>Unlocking Advanced Features: A Complete Guide to Enabling God Mode on Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unlocking-lost-files-a-step-by-step-guide-to-retrieving-data-from-your-outdated-pc-without-a-password-tech-insights-by-zdnet/"><u>Unlocking Lost Files: A Step-by-Step Guide to Retrieving Data From Your Outdated PC without a Password | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/upgrade-successfully-transitioning-your-eligible-windows-10-system-to-windows-1nk/"><u>Upgrade Successfully: Transitioning Your Eligible Windows 10 System to Windows 1Nk!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-engineers-cant-get-enough-of-windows-11-unveiling-perspectives-on-microsofts-latest-operating-system-zdnet-reports/"><u>Why Engineers Can't Get Enough of Windows 11: Unveiling Perspectives on Microsoft's Latest Operating System (ZDNet Reports)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-sonic-harmony-advanced-crossfading-in-audacity/"><u>[New] Achieving Sonic Harmony Advanced Crossfading in Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/aligning-windows-identifier-with-microsoft-entity/"><u>Aligning Windows Identifier with Microsoft Entity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/arctis-pro-microphone-malfunction-solved-step-by-step-fixes-for-gamers/"><u>Arctis Pro Microphone Malfunction Solved - Step-by-Step Fixes for Gamers</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/beware-these-7-facebook-hoaxes-comprehensive-strategies-for-protection/"><u>Beware These 7 Facebook Hoaxes! Comprehensive Strategies for Protection</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-12-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 12 Pro Max Lock Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-commentary-delving-deep-into-bublcams-360-degree-world-for-2024/"><u>Comprehensive Commentary Delving Deep Into Bublcam's 360-Degree World for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-techniques-for-customizing-headers-and-footers-in-pdfs-prior-to-flipbook-transformation/"><u>Effective Techniques for Customizing Headers & Footers in PDFs Prior to Flipbook Transformation</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ensuring-compatibility-making-your-digital-book-user-friendly-on-ipads-tips-and-tricks-from-flipbuildercom/"><u>Ensuring Compatibility: Making Your Digital Book User-Friendly on iPads - Tips & Tricks From FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-create-a-stunning-flipbook-with-dual-layered-backgrounds-using-templates-on-flipbuildercom/"><u>How to Create a Stunning Flipbook with Dual-Layered Backgrounds Using Templates on FlipBuilder.com</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-view-just-10-pages-on-flipbuilder-your-ultimate-guide/"><u>How to View Just 10 Pages on FlipBuilder – Your Ultimate Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>In 2024, Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-setting-up-your-flipbook-to-let-users-print-pages-directly-with-flipbuilder-tools/"><u>Step-by-Step Tutorial: Setting Up Your Flipbook to Let Users Print Pages Directly with FlipBuilder Tools</u></a></li>
 </ul></div>
 

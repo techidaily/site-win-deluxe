@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Enduring Consequences: A Decade After Mobile Missteps - Insights From ZDNet"
-date: 2024-09-25T19:30:32.295Z
-updated: 2024-09-27T21:56:58.770Z
+date: 2024-10-01T18:40:14.221Z
+updated: 2024-10-03T11:21:55.168Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,23 +149,9 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-beginners-handbook-to-instagrams-most-popular-feature-reels/"><u>[New] 2024 Approved The Beginner’s Handbook to Instagram’s Most Popular Feature – Reels</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>[New] In 2024, Innovation in Your Hands The Sonic Experience of Xperia XZ</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions-for-2024/"><u>[New] The Complete Mac User's Guide to Capturing Roblox Gaming Sessions for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-top-ranking-tubechop-substitute-for-mac-and-windows-users/"><u>1. Top-Ranking TubeChop Substitute for MAC & WINDOWS Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 mini When Its Locked Within Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-infinix-zero-5g-2023-turbo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix Zero 5G 2023 Turbo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/optimal-sound-selecting-the-best-wired-earbuds/"><u>Optimal Sound: Selecting the Best Wired Earbuds</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-approach-to-saving-instagram-stories/"><u>Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/troubleshooting-non-functioning-links-in-your-flipboard-ebooks-tips-and-solutions/"><u>Troubleshooting Non-Functioning Links in Your FlipBoard Ebooks: Tips & Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-celebrating-redditenas-top-ten-upvoted-discussions-for-2024/"><u>[New] Celebrating Reddit'enas Top Ten Upvoted Discussions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-your-images-top-10-pixlr-hacks-revealed/"><u>[New] In 2024, Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-the-potential-of-your-content-with-igtv-hashtags-for-2024/"><u>[Updated] Unlocking the Potential of Your Content with IGTV Hashtags for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audience-engagement-trends-to-master-on-instagram-for-2024/"><u>Audience Engagement Trends to Master on Instagram for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/bilibili-video-extractor-seamless-macos-and-windows-downloads-from-bilibili/"><u>Bilibili Video Extractor: Seamless macOS & Windows Downloads From Bilibili</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/complete-tutorial-on-accessing-and-saving-primewire-movie-and-television-episodes-online/"><u>Complete Tutorial on Accessing and Saving PrimeWire Movie and Television Episodes Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-mix-tapes-and-playlists-into-multiple-formats-mp3-wav-aac/"><u>Convert Your Favorite Mix Tapes and Playlists Into Multiple Formats: MP3, WAV, AAC</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-pandora-tunes-to-mp3-easy-guide-and-software-downloads/"><u>Convert Your Favorite Pandora Tunes to MP3: Easy Guide & Software Downloads</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/convert-your-infoq-talks-into-various-formats-mp4-and-avi-on-macwindows/"><u>Convert Your InfoQ Talks Into Various Formats: MP4 & AVI on Mac/Windows</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/download-and-save-your-favorite-tracks-as-mp3s-directly-from-saavan-online-service/"><u>Download & Save Your Favorite Tracks as MP3s Directly From Saavan Online Service</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/download-various-formats-of-bofunk-videos-mp4-mov-avi-etc/"><u>Download Various Formats of Bofunk Videos (MP4, MOV, AVI, Etc.)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-access-to-ispe-educational-content-convert-and-download-videos-as-mp4-avi-or-wmv-for-both-mac-and-pc-users/"><u>Easy Access to ISPE Educational Content: Convert and Download Videos as MP4, AVI or WMV for Both Mac and PC Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-tutorial-converting-online-milliyet-video-content-into-mp4-format-for-offline-viewing-on-both-mac-and-windows-computers/"><u>Easy Tutorial: Converting Online Milliyet Video Content Into MP4 Format for Offline Viewing on Both Mac and Windows Computers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-8-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 8?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preparing-your-pc-essential-tips-before-upgrading-to-the-windows-11-creators-edition/"><u>Preparing Your PC: Essential Tips Before Upgrading to the Windows 11 Creator's Edition</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-guide-top-4-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Quick Guide: Top 4 Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/selecting-prime-4k-recorders-and-tools/"><u>Selecting Prime 4K Recorders and Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-top-nixplay-seed-frame/"><u>The Ultimate Guide to Choosing a Top Nixplay Seed Frame</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-not-available-itbm-driver-error-instantly/"><u>Troubleshoot and Solve 'Not Available' ITBM Driver Error Instantly!</u></a></li>
 </ul></div>
 
