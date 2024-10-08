@@ -1,7 +1,7 @@
 ---
 title: Che Cos'è Un Codec? Esplorazione Approfondita Della Definizione E Dell'uso in Tecnologia
-date: 2024-10-01T01:20:40.632Z
-updated: 2024-10-03T01:43:56.549Z
+date: 2024-10-06T17:40:48.876Z
+updated: 2024-10-08T17:23:01.951Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c39d96a0392062878f0d55bc9ae4650b6150e40d84fd4972f36d7344db4ba87f.jpg
@@ -210,13 +210,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -262,10 +255,10 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
@@ -284,6 +277,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -291,6 +291,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -300,6 +307,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -320,13 +334,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -339,13 +346,6 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -354,6 +354,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -361,13 +368,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -437,10 +437,10 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
@@ -448,6 +448,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -465,19 +472,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -566,10 +560,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -607,16 +601,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-cinematographers-choice-best-lenses-for-4k-excellence/"><u>[Updated] 2024 Approved The Cinematographer's Choice Best Lenses for 4K Excellence</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-speech-capture-simplified-ipad-edition/"><u>2024 Approved Speech Capture Simplified IPad Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guide-to-restoring-audio-functionality-in-acer-computers/"><u>Guide to Restoring Audio Functionality in Acer Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-xiaomi-redmi-a2plus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/optimal-high-quality-image-browser-for-2024/"><u>Optimal High-Quality Image Browser for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swift-skills-sharpen-your-windows-images-for-2024/"><u>Swift Skills Sharpen Your Windows Images for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unlocking-lost-files-a-step-by-step-guide-to-retrieving-data-from-your-outdated-pc-without-a-password-tech-insights-by-zdnet/"><u>Unlocking Lost Files: A Step-by-Step Guide to Retrieving Data From Your Outdated PC without a Password | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/upgrade-successfully-transitioning-your-eligible-windows-10-system-to-windows-1nk/"><u>Upgrade Successfully: Transitioning Your Eligible Windows 10 System to Windows 1Nk!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-engineers-cant-get-enough-of-windows-11-unveiling-perspectives-on-microsofts-latest-operating-system-zdnet-reports/"><u>Why Engineers Can't Get Enough of Windows 11: Unveiling Perspectives on Microsoft's Latest Operating System (ZDNet Reports)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-is-trusted-platform-module-tpm-essential-for-windows-11-security/"><u>Why Is Trusted Platform Module (TPM) Essential for Windows 11 Security?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/zdnets-guide-to-switching-your-ip-address-when-its-beneficial-and-when-it-isnt/"><u>ZDNet’s Guide to Switching Your IP Address: When It's Beneficial and When It Isn’t</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-revolutionizing-the-joy-of-packet-opening/"><u>[New] 2024 Approved Revolutionizing the Joy of Packet Opening</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-syncing-soundtracks-with-vimeo-video-content/"><u>[New] 2024 Approved Syncing Soundtracks with Vimeo Video Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-incorporating-personal-flair-fonts-for-ae-projects-for-2024/"><u>[Updated] Incorporating Personal Flair Fonts for AE Projects for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-top-ranking-tubechop-substitute-for-mac-and-windows-users/"><u>1. Top-Ranking TubeChop Substitute for MAC & WINDOWS Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-ultimate-guide-to-downloading-films-from-sockshare-in-multiple-formats-mp4-mov-avi/"><u>1. Ultimate Guide to Downloading Films From Sockshare in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-pick-windows-10s-cutting-edge-apps-and-games/"><u>2024 Approved Top Pick Windows 10’S Cutting-Edge Apps & Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciphering-the-tiers-of-royal-match-how-many-layers-does-it-have/"><u>Deciphering the Tiers of 'Royal Match': How Many Layers Does It Have?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-honor-magic-v2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Honor Magic V2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-snappy-fortnite-visuals-in-no-time/"><u>In 2024, Snappy Fortnite Visuals in No Time</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-simplest-guide-to-softly-rebooting-your-iphone-device/"><u>The Simplest Guide to Softly Rebooting Your iPhone Device</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-non-functioning-links-in-your-flipboard-ebooks-tips-and-solutions/"><u>Troubleshooting Non-Functioning Links in Your FlipBoard Ebooks: Tips & Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/why-are-my-documents-black-and-white/"><u>Why Are My Documents Black & White?</u></a></li>
 </ul></div>
 

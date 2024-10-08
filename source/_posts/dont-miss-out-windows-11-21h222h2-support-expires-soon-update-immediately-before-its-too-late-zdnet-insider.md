@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider
-date: 2024-09-27T09:17:36.398Z
-updated: 2024-10-02T17:04:35.787Z
+date: 2024-10-06T16:21:33.890Z
+updated: 2024-10-08T17:34:01.168Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -39,13 +46,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -67,6 +67,13 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -80,19 +87,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -105,10 +99,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -162,21 +156,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-step-into-the-metaverse-analyzing-6-engrossing-cases/"><u>[New] 2024 Approved Step Into the Metaverse Analyzing 6 Engrossing Cases</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/treamline-your-audio-preferences-moving-spotify-playlists-to-youtube-music-for-2024/"><u>[New] Streamline Your Audio Preferences Moving Spotify Playlists to YouTube Music for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x50-gt-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X50 GT Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>In 2024, Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-posting-youtube-videos-with-screen-recording-techniques/"><u>Mastering the Art of Posting YouTube Videos with Screen Recording Techniques!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/navigating-data-protection-with-mirilliss-guide-to-the-general-data-protection-regulation-gdpr/"><u>Navigating Data Protection with Mirillis's Guide to the General Data Protection Regulation (GDPR)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/navigating-global-reach-via-vimeo-links-for-2024/"><u>Navigating Global Reach via Vimeo Links for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-mastering-the-art-of-interactive-design/"><u>Step-by-Step Guide: Mastering the Art of Interactive Design</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-replacement-for-internet-download-manager-on-macos-and-windows-discover-allvsoft/"><u>Top Replacement for Internet Download Manager on macOS & Windows: Discover Allvsoft</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-tools-for-saving-beeg-videos-cross-platform-solutions-for-windows-and-macos-users/"><u>Top Tools for Saving Beeg Videos: Cross-Platform Solutions for Windows and macOS Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tutorial-how-to-retrieve-and-save-video-content-from-usa-today-across-both-macos-and-windows-platforms/"><u>Tutorial: How to Retrieve and Save Video Content From 'USA Today' Across Both macOS & Windows Platforms</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-walkthrough-access-and-enjoy-spotify-with-the-fitbit-versa-watch/"><u>Ultimate Walkthrough: Access and Enjoy Spotify with the Fitbit Versa Watch</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlocking-hidden-details-roblox-closeup-secrets/"><u>Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722872709135-verizons-most-competitive-device-trade-up-deals-in-month-you-cant-miss/"><u>Verizon's Most Competitive Device Trade-Up Deals in [Month] You Can’t Miss</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/world-minded-dialogue-techniques-for-global-interaction-mastery/"><u>World-Minded Dialogue: Techniques for Global Interaction Mastery</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-eye-catching-fb-ad-content-for-2024/"><u>[New] Mastering the Art of Eye-Catching FB Ad Content for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/"><u>[Updated] 2024 Approved From Ordinary to Extraordinary Transform Your Facebook Profile with These Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-enhancing-presentations-the-captivate-way/"><u>[Updated] Enhancing Presentations The Captivate Way</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-yuva-3-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-ios-apps-for-pdf-editing-top-picks-of-2020/"><u>Best iOS Apps for PDF Editing: Top Picks of 2020</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-methods-for-transferring-songs-onto-your-android-device/"><u>Effective Methods for Transferring Songs Onto Your Android Device</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-methods-for-restoring-accidentally-erased-messages-from-your-ipad/"><u>Effortless Methods for Restoring Accidentally Erased Messages From Your iPad</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-c22-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia C22 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-troubleshooting-your-ultimate-resource-on-stop-codes-and-bsods/"><u>Mastering Troubleshooting: Your Ultimate Resource on Stop Codes and BSODs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/press-record-with-just-one-click-on-win11-for-2024/"><u>Press 'Record' With Just One Click on Win11 for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-ranking-digital-photo-background-eraser-tools/"><u>Top-Ranking Digital Photo Background Eraser Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-ranking-instagram-image-enhancement-apps/"><u>Top-Ranking Instagram Image Enhancement Apps</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/zdnets-guide-to-switching-your-ip-address-when-its-beneficial-and-when-it-isnt/"><u>ZDNet’s Guide to Switching Your IP Address: When It's Beneficial and When It Isn’t</u></a></li>
 </ul></div>
 

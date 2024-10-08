@@ -1,7 +1,7 @@
 ---
 title: Boost Surface Pro Capacity & Slash Expenses in Just 7 Steps - Expert Tips From ZDNet
-date: 2024-09-26T20:06:42.967Z
-updated: 2024-10-02T22:08:03.166Z
+date: 2024-10-04T16:34:59.437Z
+updated: 2024-10-08T17:09:32.655Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -77,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-skyrocket-from-zero-reach-1k-on-instagram-monthly/"><u>[Updated] Skyrocket From Zero Reach 1K on Instagram Monthly</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-top-ranking-tubechop-substitute-for-mac-and-windows-users/"><u>1. Top-Ranking TubeChop Substitute for MAC & WINDOWS Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-ultimate-guide-to-downloading-films-from-sockshare-in-multiple-formats-mp4-mov-avi/"><u>1. Ultimate Guide to Downloading Films From Sockshare in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/access-your-learning-resources-free-video-lectures-from-topperlearning/"><u>Access Your Learning Resources - Free Video Lectures From TopperLearning</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/all-inclusive-review-unleash-the-potential-with-the-poweradd-pilot-pro2-charger-for-laptops-and-more/"><u>All-Inclusive Review: Unleash the Potential with the POWERADD Pilot Pro2 Charger for Laptops and More</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-oppo-find-x6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Oppo Find X6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-video-grabber-apps-how-to-easily-download-beeg-content-on-pc-or-mac/"><u>Best Video Grabber Apps: How to Easily Download Beeg Content on PC or Mac</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 with iTunes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-9-live-game-streaming-platform-you-should-know/"><u>In 2024, Top 9 Live Game Streaming Platform You Should Know</u></a></li>
-<li><a href="https://fox-access.techidaily.com/peak-creative-synopsis-thorough-studio-review-for-the-year-2023/"><u>Peak Creative Synopsis Thorough Studio Review for the Year 2023</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-getting-speakers-working-with-zoom-again/"><u>Troubleshooting Guide: Getting Speakers Working with Zoom Again</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/troubleshooting-non-functioning-links-in-your-flipboard-ebooks-tips-and-solutions/"><u>Troubleshooting Non-Functioning Links in Your FlipBoard Ebooks: Tips & Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-about-using-ai-generated-content-in-instant-messages-insights-and-concerns/"><u>Why You Should Think Twice About Using AI-Generated Content in Instant Messages: Insights and Concerns</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-piecing-together-a-unique-tiktok-outro-elements/"><u>[New] Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-cutting-edge-editors-elevating-online-videos/"><u>2024 Approved Cutting-Edge Editors Elevating Online Videos</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-best-standing-workstations-expert-picks-by-zdnet/"><u>Discover the Best Standing Workstations - Expert Picks by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-height-adjustment-for-healthier-work-habits-exclusive-deal-alert-on-a-desk-converter-at-zdnet/"><u>Effortless Height Adjustment for Healthier Work Habits - Exclusive Deal Alert on a Desk Converter at ZDNet!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-meizu-21-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-edge-40-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Edge 40 FRP</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/reviewing-window-recording-the-sprout-experience-for-2024/"><u>Reviewing Window Recording - The Sprout Experience for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-basics-of-picture-in-picture-in-ff-for-2024/"><u>The Basics of Picture-in-Picture in FF for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-review-why-microsofts-new-surface-laptop-studio-has-everyone-envy-stricken-tech-insights-from-zdnet/"><u>The Ultimate Review: Why Microsoft's New Surface Laptop Studio Has Everyone Envy-Stricken | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-5-office-desks-the-ultimate-guide-zdnet/"><u>Top 5 Office Desks : The Ultimate Guide - ZDNet</u></a></li>
 </ul></div>
 

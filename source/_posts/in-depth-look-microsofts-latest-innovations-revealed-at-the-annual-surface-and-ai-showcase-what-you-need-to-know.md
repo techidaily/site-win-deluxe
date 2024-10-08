@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look: Microsoft's Latest Innovations Revealed at the Annual Surface & AI Showcase - What You Need to Know"
-date: 2024-09-26T08:59:52.742Z
-updated: 2024-10-02T19:20:48.499Z
+date: 2024-10-02T17:02:47.800Z
+updated: 2024-10-08T18:03:58.332Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-developing-proficient-interview-skills-for-2024/"><u>[Updated] Developing Proficient Interview Skills for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-liberty-cam-studios-features-and-functionality/"><u>[Updated] In 2024, Liberty Cam Studio's Features and Functionality</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-premium-plugins-boosting-ae-projects/"><u>[Updated] Ultimate Guide Premium Plugins Boosting AE Projects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/free-vs-paid-cg-masters-tutorials-steps-for-acquiring-online-animation-education/"><u>Free Vs. Paid CG-Masters Tutorials: Steps for Acquiring Online Animation Education</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/free-xnxx-hd-movie-downloads-compatible-with-macos-and-windows-systems/"><u>Free Xnxx HD Movie Downloads: Compatible with macOS & Windows Systems</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/full-channel-youtube-archive-creator-effortless-bulk-video-retrieval-for-your-content-needs/"><u>Full-Channel YouTube Archive Creator: Effortless Bulk Video Retrieval for Your Content Needs</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/get-exclusive-access-download-and-convert-wwe-content-into-high-quality-mp4-mov-and-avi-formats/"><u>Get Exclusive Access: Download and Convert WWE Content Into High-Quality MP4, MOV & AVI Formats</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/get-your-favorite-pornhub-videos-anytime-on-any-device-safe-and-secure-downloader-apps-for-windows-and-macos/"><u>Get Your Favorite PornHub Videos Anytime, On Any Device – Safe & Secure Downloader Apps for Windows and macOS</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guide-effortless-downloading-of-videos-in-mp4-and-avi-formats-from-the-uktv-play-platform/"><u>Guide: Effortless Downloading of Videos in MP4 and AVI Formats From the UKTV Play Platform</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-convert-kaplan-course-videos-into-various-formats-using-kaplan-video-downloader/"><u>How to Convert Kaplan Course Videos Into Various Formats Using Kaplan Video Downloader</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-download-atresplayer-content-on-pc-or-mac-with-the-best-free-tools/"><u>How To Download Atresplayer Content On PC or Mac With The Best Free Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/iheartradio-music-saver-directly-save-your-favorite-tracks/"><u>IHeartRadio Music Saver: Directly Save Your Favorite Tracks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-momentum-at-rest-best-idle-pc-games/"><u>In 2024, Momentum at Rest Best Idle PC Games</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/kuppersbusch/"><u>Küppersbusch</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/maintaining-mystery-techniques-for-smoothing-out-visuals/"><u>Maintaining Mystery Techniques for Smoothing Out Visuals</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-vision-enhancers-guide-top-9-remedies-for-blurry-displays/"><u>The Vision Enhancers' Guide: Top 9 Remedies for Blurry Displays</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-poco-x6-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Poco X6 Pro password or pattern lock</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-comprehensive-review-and-overview-of-du-recorder/"><u>[Updated] In 2024, Comprehensive Review and Overview of Du Recorder</u></a></li>
+<li><a href="https://win-bits.techidaily.com/avimpegandavi-vs-mpeg/"><u>劣化なしでAVIをMPEGに変換する技術&AVI Vs. MPEGの特徴</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-comfort-meets-utility-in-depth-analysis-of-battery-integrated-oculus-quest-2-straps-and-companion-case/"><u>Elite Comfort Meets Utility: In-Depth Analysis of Battery-Integrated Oculus Quest 2 Straps and Companion Case</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-directsnap-recorder-for-modern-oses/"><u>In 2024, DirectSnap Recorder for Modern OSes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lightning-fast-retrieval-of-vanished-reddit-discussions/"><u>In 2024, Lightning-Fast Retrieval of Vanished Reddit Discussions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-guide-capturing-screen-images-efficiently-on-pc-windows/"><u>Ultimate Guide: Capturing Screen Images Efficiently on PC (Windows)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unlocking-advanced-features-a-complete-guide-to-enabling-god-mode-on-windows-11-insights-from-zdnet/"><u>Unlocking Advanced Features: A Complete Guide to Enabling God Mode on Windows 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unlocking-lost-files-a-step-by-step-guide-to-retrieving-data-from-your-outdated-pc-without-a-password-tech-insights-by-zdnet/"><u>Unlocking Lost Files: A Step-by-Step Guide to Retrieving Data From Your Outdated PC without a Password | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/upgrade-successfully-transitioning-your-eligible-windows-10-system-to-windows-1nk/"><u>Upgrade Successfully: Transitioning Your Eligible Windows 10 System to Windows 1Nk!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Latest Microsoft UX Issues - Potential Solutions and Strategies | ZDNet
-date: 2024-09-28T20:31:02.413Z
-updated: 2024-10-03T02:11:49.059Z
+date: 2024-10-06T18:05:27.840Z
+updated: 2024-10-08T18:01:45.978Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -137,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,16 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-hitbox-vs-twitch-which-is-better-in-2024/"><u>[Updated] Hitbox Vs Twitch Which Is Better, In 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ai-redefining-professional-roles/"><u>Generative AI: Redefining Professional Roles</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y78t-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y78t Phone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-prevent-thumbnail-absence-in-shorts-uploads/"><u>In 2024, How to Prevent Thumbnail Absence in Shorts Uploads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-edge-computers-for-your-office-for-2024/"><u>Leading-Edge Computers for Your Office for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-posting-youtube-videos-with-screen-recording-techniques/"><u>Mastering the Art of Posting YouTube Videos with Screen Recording Techniques!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-replacement-for-internet-download-manager-on-macos-and-windows-discover-allvsoft/"><u>Top Replacement for Internet Download Manager on macOS & Windows: Discover Allvsoft</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-tools-for-saving-beeg-videos-cross-platform-solutions-for-windows-and-macos-users/"><u>Top Tools for Saving Beeg Videos: Cross-Platform Solutions for Windows and macOS Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tutorial-how-to-retrieve-and-save-video-content-from-usa-today-across-both-macos-and-windows-platforms/"><u>Tutorial: How to Retrieve and Save Video Content From 'USA Today' Across Both macOS & Windows Platforms</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-walkthrough-access-and-enjoy-spotify-with-the-fitbit-versa-watch/"><u>Ultimate Walkthrough: Access and Enjoy Spotify with the Fitbit Versa Watch</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unleash-your-creative-vision-with-youtubes-filmmaking-courses/"><u>Unleash Your Creative Vision with YouTube's Filmmaking Courses</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-driving-traffic-to-long-form-videos-via-shorts/"><u>[New] Driving Traffic to Long-Form Videos via Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-ultimate-checklist-for-channel-buying-success/"><u>2024 Approved Your Ultimate Checklist for Channel Buying Success</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-ultimate-list-of-top-8-live-streaming-apps-for-smartphones-and-tablets/"><u>Discover the Ultimate List of Top 8 Live Streaming Apps for Smartphones and Tablets</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-with-cookiebot-driven-analytics/"><u>Enhance Your Website with Cookiebot-Driven Analytics</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expert-review-leading-photo-management-software-for-windows-10-users/"><u>Expert Review: Leading Photo Management Software for Windows 10 Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-action-to-archive-a-guide-to-top-screen-recording-tools/"><u>In 2024, Action to Archive A Guide to Top Screen Recording Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-xr-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone XR? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-iphone-maintenance-comprehensive-troubleshooting-strategies-for-2019-models/"><u>Mastering iPhone Maintenance: Comprehensive Troubleshooting Strategies for 2019 Models</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-iphone-n-8-screen-captures-discover-the-top-three-strategies/"><u>Mastering the Art of iPhone N 8 Screen Captures: Discover the Top Three Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pro-rated-list-the-best-5-hd-webcams-with-capture-microphones-for-2024/"><u>Pro-Rated List The Best 5 HD Webcams with Capture Microphones for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/seamless-conversion-with-powerful-cookiebot-technology-solutions/"><u>Seamless Conversion with Powerful Cookiebot Technology Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-your-realplayer-ivr-files-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your RealPlayer IVR Files Into MP4 Format</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-best-strategies-for-high-quality-audio-capture-on-microsofts-latest-operating-system-windows-11/"><u>The Best Strategies for High-Quality Audio Capture on Microsoft's Latest Operating System, Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-top-results-with-perplexity-ai-the-ultimate-overlooked-google-assistant/"><u>Unlock Top Results with Perplexity AI: The Ultimate Overlooked Google Assistant</u></a></li>
 </ul></div>
 

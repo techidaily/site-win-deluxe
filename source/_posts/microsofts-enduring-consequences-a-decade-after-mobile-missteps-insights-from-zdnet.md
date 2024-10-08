@@ -1,7 +1,7 @@
 ---
 title: "Microsoft's Enduring Consequences: A Decade After Mobile Missteps - Insights From ZDNet"
-date: 2024-10-01T18:40:14.221Z
-updated: 2024-10-03T11:21:55.168Z
+date: 2024-10-02T16:37:16.100Z
+updated: 2024-10-08T16:57:38.441Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-celebrating-redditenas-top-ten-upvoted-discussions-for-2024/"><u>[New] Celebrating Reddit'enas Top Ten Upvoted Discussions for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-master-your-images-top-10-pixlr-hacks-revealed/"><u>[New] In 2024, Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-the-potential-of-your-content-with-igtv-hashtags-for-2024/"><u>[Updated] Unlocking the Potential of Your Content with IGTV Hashtags for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audience-engagement-trends-to-master-on-instagram-for-2024/"><u>Audience Engagement Trends to Master on Instagram for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/bilibili-video-extractor-seamless-macos-and-windows-downloads-from-bilibili/"><u>Bilibili Video Extractor: Seamless macOS & Windows Downloads From Bilibili</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/complete-tutorial-on-accessing-and-saving-primewire-movie-and-television-episodes-online/"><u>Complete Tutorial on Accessing and Saving PrimeWire Movie and Television Episodes Online</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-mix-tapes-and-playlists-into-multiple-formats-mp3-wav-aac/"><u>Convert Your Favorite Mix Tapes and Playlists Into Multiple Formats: MP3, WAV, AAC</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-pandora-tunes-to-mp3-easy-guide-and-software-downloads/"><u>Convert Your Favorite Pandora Tunes to MP3: Easy Guide & Software Downloads</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/convert-your-infoq-talks-into-various-formats-mp4-and-avi-on-macwindows/"><u>Convert Your InfoQ Talks Into Various Formats: MP4 & AVI on Mac/Windows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/download-and-save-your-favorite-tracks-as-mp3s-directly-from-saavan-online-service/"><u>Download & Save Your Favorite Tracks as MP3s Directly From Saavan Online Service</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/download-various-formats-of-bofunk-videos-mp4-mov-avi-etc/"><u>Download Various Formats of Bofunk Videos (MP4, MOV, AVI, Etc.)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/easy-access-to-ispe-educational-content-convert-and-download-videos-as-mp4-avi-or-wmv-for-both-mac-and-pc-users/"><u>Easy Access to ISPE Educational Content: Convert and Download Videos as MP4, AVI or WMV for Both Mac and PC Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/easy-tutorial-converting-online-milliyet-video-content-into-mp4-format-for-offline-viewing-on-both-mac-and-windows-computers/"><u>Easy Tutorial: Converting Online Milliyet Video Content Into MP4 Format for Offline Viewing on Both Mac and Windows Computers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-8-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 8?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/preparing-your-pc-essential-tips-before-upgrading-to-the-windows-11-creators-edition/"><u>Preparing Your PC: Essential Tips Before Upgrading to the Windows 11 Creator's Edition</u></a></li>
-<li><a href="https://os-tips.techidaily.com/quick-guide-top-4-methods-for-securing-your-whatsapp-chats-on-ios-devices/"><u>Quick Guide: Top 4 Methods for Securing Your WhatsApp Chats on iOS Devices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/selecting-prime-4k-recorders-and-tools/"><u>Selecting Prime 4K Recorders and Tools</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-top-nixplay-seed-frame/"><u>The Ultimate Guide to Choosing a Top Nixplay Seed Frame</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-and-solve-not-available-itbm-driver-error-instantly/"><u>Troubleshoot and Solve 'Not Available' ITBM Driver Error Instantly!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-fast-and-efficient-image-captures-pcs-top-snipping-software-ranked-for-2024/"><u>[New] Fast & Efficient Image Captures PC's Top Snipping Software Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-unlock-joy-behind-the-walls-20-funniest-fb-detainment-scenarios/"><u>[New] Unlock Joy Behind the Walls 20 Funniest Fb Detainment Scenarios</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-money-maker-on-youtube/"><u>[Updated] In 2024, From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionary-virtual-wisdom-for-modern-souls/"><u>2024 Approved Revolutionary Virtual Wisdom for Modern Souls</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/boost-your-pcs-performance-with-this-under-the-radar-windows-nx-update-for-fast-unresponsive-app-management/"><u>Boost Your PC's Performance with This Under-the-Radar Windows nX Update for Fast Unresponsive App Management</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/boost-your-pcs-performance-quick-fix-with-windows-11-feature-to-terminate-sluggish-programs/"><u>Boost Your PC's Performance: Quick Fix with Windows 11 Feature to Terminate Sluggish Programs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-power-of-ultimate-access-setting-up-and-benefits-of-windows-11s-god-mode-explained-by-zdnet/"><u>Discover the Power of Ultimate Access: Setting Up & Benefits of Windows 11'S God Mode Explained by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/dont-miss-out-windows-11-21h222h2-support-expires-soon-update-immediately-before-its-too-late-zdnet-insider/"><u>Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expose-11-essential-trackpad-gestures-every-pro-user-should-utilize-in-depth-guide-by-zdnet/"><u>Expose 11 Essential Trackpad Gestures Every Pro User Should Utilize - In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
 

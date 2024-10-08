@@ -1,7 +1,7 @@
 ---
 title: Microsoft Continues Windows Control Panel Support, Contrary to Rumors | Tech News Today
-date: 2024-10-01T23:43:16.179Z
-updated: 2024-10-03T03:18:59.575Z
+date: 2024-10-06T17:48:16.245Z
+updated: 2024-10-08T16:05:46.766Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-conquer-xbox-gameplay-with-efficient-recording-tools/"><u>[New] 2024 Approved Conquer Xbox Gameplay with Efficient Recording Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-funny-faces-crafting-7-cheeky-youtube-comedy-videos/"><u>[New] In 2024, Funny Faces Crafting 7 Cheeky YouTube Comedy Videos</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/6-tecnicas-certificadas-para-consertar-dvds-com-seguranca-de-copia-no-windows-1011-e-mac/"><u>6 Técnicas Certificadas Para Consertar DVDs Com Segurança De Cópia No Windows 10/11 E Mac</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/conversion-gratuite-de-fichiers-aac-en-format-aiff-sur-internet-tutomovavi/"><u>Conversion Gratuite De Fichiers AAC en Format AIFF Sur Internet - TutoMovavi</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/facilidad-al-dominio-de-las-presentaciones-y-slideshow-para-mac-usando-movavi/"><u>Facilidad Al Dominio De Las Presentaciones Y Slideshow Para Mac Usando Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-p55plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel P55+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-a-step-by-step-manual-for-capturing-vr-playthroughs/"><u>In 2024, A Step-by-Step Manual for Capturing VR Playthroughs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-s18e-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18e Fingerprint Lock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/montage-de-photos-avance-sur-mac-avec-movavi-photo-retoucher-editeur-graphique-parfait/"><u>Montage De Photos Avancé Sur Mac Avec Movavi Photo Retoucher - Éditeur Graphique Parfait</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-ts-en-webm-en-ligne-gratuitement-un-guide-complet-avec-movavi/"><u>Transformer Des Fichiers Ts en Webm en Ligne Gratuitement : Un Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/what-is-telegram-messenger-and-how-does-it-work/"><u>What Is Telegram Messenger and How Does It Work?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010-for-2024/"><u>[New] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-claim-cost-free-visuals-from-highest-rated-4-youtube-sources/"><u>[Updated] 2024 Approved Claim Cost-Free Visuals From Highest-Rated 4 YouTube Sources</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-effortlessly-enhance-your-tiktok-aesthetic-guide-inside/"><u>[Updated] 2024 Approved Effortlessly Enhance Your TikTok Aesthetic Guide Inside</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/epic-martial-arts-arcade-classics-revisited/"><u>Epic Martial Arts Arcade Classics Revisited</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-saving-your-favorite-vgtv-shows-as-mp4-downloads-for-offline-viewing-on-pc-or-mac/"><u>Step-by-Step Guide: Saving Your Favorite VGTV Shows as MP4 Downloads for Offline Viewing on PC or Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-unlock-global-availability-of-chatgpt-with-chatgpt-everywhere/"><u>Step-by-Step Guide: Unlock Global Availability of ChatGPT with ChatGPT Everywhere</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-instructions-for-converting-your-favorite-youtube-content-to-mp4movwmv-on-windows-and-macos-systems/"><u>Step-by-Step Instructions for Converting Your Favorite YouTube Content to MP4/MOV/WMV on Windows and macOS Systems</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-on-converting-and-saving-pubfilm-content-as-mp4-or-avi-files/"><u>Step-by-Step Tutorial on Converting and Saving PubFilm Content as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-how-to-save-and-watch-reuters-news-clips-offline/"><u>Step-by-Step Tutorial: How to Save and Watch Reuters News Clips Offline</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/stream-and-keep-how-to-permanently-download-songs-from-iheartradio/"><u>Stream & Keep: How To Permanently Download Songs From iHeartRadio</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/top-5-tips-for-effortless-recording-of-your-telegram-video-meetings/"><u>Top 5 Tips for Effortless Recording of Your Telegram Video Meetings</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ultimate-list-of-leading-image-handling-apps-on-pcmac-explore-the-best-free-and-paid-solutions/"><u>Ultimate List of Leading Image Handling Apps on PC/MAC - Explore the Best FREE and PAID Solutions</u></a></li>
 </ul></div>
 

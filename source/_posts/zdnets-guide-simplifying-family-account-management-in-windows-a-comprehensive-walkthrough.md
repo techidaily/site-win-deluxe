@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Guide: Simplifying Family Account Management in Windows - A Comprehensive Walkthrough"
-date: 2024-09-28T00:26:34.371Z
-updated: 2024-10-03T01:09:24.609Z
+date: 2024-10-03T16:18:19.507Z
+updated: 2024-10-08T16:23:31.251Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unraveling-details-a-closer-look-at-your-roblox-world/"><u>[New] 2024 Approved Unraveling Details A Closer Look at Your Roblox World</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-brightening-tactics-for-android-video-enthusiasts/"><u>[Updated] Brightening Tactics for Android Video Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pinnacle-resources-for-3d-type-art/"><u>[Updated] Pinnacle Resources for 3D Type Art</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/bilibili-video-extractor-seamless-macos-and-windows-downloads-from-bilibili/"><u>Bilibili Video Extractor: Seamless macOS & Windows Downloads From Bilibili</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/complete-tutorial-on-accessing-and-saving-primewire-movie-and-television-episodes-online/"><u>Complete Tutorial on Accessing and Saving PrimeWire Movie and Television Episodes Online</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-garmin-forerunner-745-the-ultimate-multisport-fitness-companion/"><u>Comprehensive Evaluation of Garmin Forerunner 745: The Ultimate Multisport Fitness Companion</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-mix-tapes-and-playlists-into-multiple-formats-mp3-wav-aac/"><u>Convert Your Favorite Mix Tapes and Playlists Into Multiple Formats: MP3, WAV, AAC</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/convert-your-favorite-pandora-tunes-to-mp3-easy-guide-and-software-downloads/"><u>Convert Your Favorite Pandora Tunes to MP3: Easy Guide & Software Downloads</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/convert-your-infoq-talks-into-various-formats-mp4-and-avi-on-macwindows/"><u>Convert Your InfoQ Talks Into Various Formats: MP4 & AVI on Mac/Windows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/download-and-save-your-favorite-tracks-as-mp3s-directly-from-saavan-online-service/"><u>Download & Save Your Favorite Tracks as MP3s Directly From Saavan Online Service</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-editors-codex-innovations-in-youtube-video-formatting/"><u>In 2024, The Editor's Codex Innovations in Youtube Video Formatting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x220-driver-software-quick-easy-and-safe-to-download-now/"><u>Lenovo X220 Driver Software - Quick, Easy, and Safe to Download Now</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-art-of-youtube-trailers-using-filmora-tools-for-2024/"><u>The Art of YouTube Trailers Using Filmora Tools for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-ultimate-ig-dashboard-unraveling-user-engagement-patterns-for-2024/"><u>The Ultimate IG Dashboard Unraveling User Engagement Patterns for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/transform-your-talk-explore-gratis-options-for-audio-effect-applications/"><u>Transform Your Talk Explore Gratis Options for Audio Effect Applications</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-journey-camera-setup-for-aspiring-cinephiles/"><u>[New] Journey Camera Setup for Aspiring Cinephiles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-money-savers-budget-priced-vr-devices-china/"><u>[Updated] 2024 Approved Money Savers Budget-Priced VR Devices (China)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chart-topping-ideas-to-invigorate-your-youtube-channel/"><u>[Updated] In 2024, Chart-Topping Ideas to Invigorate Your YouTube Channel</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-installation-walkthrough-for-moviemaker-6-users/"><u>2024 Approved Installation Walkthrough for Moviemaker 6 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-navigating-the-ways-for-fee-free-pictorial-clips/"><u>2024 Approved Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/accelerate-your-photo-edits-expert-lunapic-techniques/"><u>Accelerate Your Photo Edits Expert LunaPic Techniques</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/boost-your-pcs-performance-with-this-under-the-radar-windows-nx-update-for-fast-unresponsive-app-management/"><u>Boost Your PC's Performance with This Under-the-Radar Windows nX Update for Fast Unresponsive App Management</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-power-of-ultimate-access-setting-up-and-benefits-of-windows-11s-god-mode-explained-by-zdnet/"><u>Discover the Power of Ultimate Access: Setting Up & Benefits of Windows 11'S God Mode Explained by ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/dont-miss-out-windows-11-21h222h2-support-expires-soon-update-immediately-before-its-too-late-zdnet-insider/"><u>Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expose-11-essential-trackpad-gestures-every-pro-user-should-utilize-in-depth-guide-by-zdnet/"><u>Expose 11 Essential Trackpad Gestures Every Pro User Should Utilize - In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi 12</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-paid-antivirus-protection-essential-expert-analysis-on-cutting-the-cord-with-security-expenses-zdnet/"><u>Is Paid Antivirus Protection Essential? Expert Analysis on Cutting the Cord with Security Expenses | ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/july-microsoft-patch-could-trigger-bitlocker-lockout-on-windows-essential-solutions-unveiled-technews/"><u>July Microsoft Patch Could Trigger BitLocker Lockout on Windows: Essential Solutions Unveiled | TechNews</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-key-reassignment-with-microsoft-powertoys-a-comprehensive-guide/"><u>Mastering Key Reassignment with Microsoft PowerToys - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/securing-sexts-metas-proactive-measures-online/"><u>Securing Sexts: Meta’s Proactive Measures Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-to-the-leading-surface-pcs-of-202-professional-evaluations-and-comparisons-zdnet/"><u>The Ultimate Guide to the Leading Surface PCs of 202^%: Professional Evaluations and Comparisons | ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212117921-windows-10-casting-glitches-solved-get-your-devices-connected-again/"><u>Windows 10 Casting Glitches Solved: Get Your Devices Connected Again</u></a></li>
 </ul></div>
 

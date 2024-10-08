@@ -1,7 +1,7 @@
 ---
 title: Purchase Microsoft Office 2019 on PC/Mac at Just Under $25 - Immediate Discounts Available Today!
-date: 2024-09-25T22:05:38.546Z
-updated: 2024-10-02T20:15:43.079Z
+date: 2024-10-01T16:46:19.484Z
+updated: 2024-10-08T17:16:28.959Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-creative-clip-enhancement-gopros-leading-15-color-grading-tools/"><u>[Updated] 2024 Approved Creative Clip Enhancement GoPro's Leading 15 Color Grading Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-crystaleye-high-res-captures-wx/"><u>2024 Approved CrystalEye High-Res Captures WX</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesize-silliness-in-visual-gifs-with-giphy/"><u>2024 Approved Synthesize Silliness in Visual Gifs with Giphy</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>2024 Approved The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-ios-apps-for-pdf-editing-top-picks-of-2020/"><u>Best iOS Apps for PDF Editing: Top Picks of 2020</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-methods-for-transferring-songs-onto-your-android-device/"><u>Effective Methods for Transferring Songs Onto Your Android Device</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortless-methods-for-restoring-accidentally-erased-messages-from-your-ipad/"><u>Effortless Methods for Restoring Accidentally Erased Messages From Your iPad</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-windows-compatible-drivers-for-hp-laserjet-p1606dn-printer-step-by-step/"><u>Get the Newest Windows-Compatible Drivers for HP LaserJet P1606dn Printer – Step by Step</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-youtube-presentations-with-captions/"><u>In 2024, Streamline Your YouTube Presentations with Captions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/seamless-audio-visual-synchronization-in-premiere-pro-for-2024/"><u>Seamless Audio-Visual Synchronization in Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-enhancing-reels-with-harmonious-tunes/"><u>The Ultimate Guide to Enhancing Reels with Harmonious Tunes</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-se-2020-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE (2020) SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-ranking-digital-photo-background-eraser-tools/"><u>Top-Ranking Digital Photo Background Eraser Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-ranking-instagram-image-enhancement-apps/"><u>Top-Ranking Instagram Image Enhancement Apps</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-face-blurring-tools-for-photos-and-videos-free-and-easy-to-use/"><u>Updated In 2024, Top 10 Face Blurring Tools for Photos and Videos (Free & Easy to Use)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/upgrade-successfully-transitioning-your-eligible-windows-10-system-to-windows-1nk/"><u>Upgrade Successfully: Transitioning Your Eligible Windows 10 System to Windows 1Nk!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-engineers-cant-get-enough-of-windows-11-unveiling-perspectives-on-microsofts-latest-operating-system-zdnet-reports/"><u>Why Engineers Can't Get Enough of Windows 11: Unveiling Perspectives on Microsoft's Latest Operating System (ZDNet Reports)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-is-trusted-platform-module-tpm-essential-for-windows-11-security/"><u>Why Is Trusted Platform Module (TPM) Essential for Windows 11 Security?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/zdnets-guide-to-switching-your-ip-address-when-its-beneficial-and-when-it-isnt/"><u>ZDNet’s Guide to Switching Your IP Address: When It's Beneficial and When It Isn’t</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-vidcap-quality-check-top-choices-for-capturing-action/"><u>[Updated] 2024 Approved VidCap Quality Check Top Choices for Capturing Action</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-demystifying-av1-a-first-time-guide-for-2024/"><u>[Updated] Demystifying AV1 A First-Time Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-bring-text-alive-free-animation-for-vids/"><u>2024 Approved Learn to Bring Text Alive Free Animation for Vids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ace-your-inbox-strategies-for-composing-tough-workplace-correspondences-with-chatgpt-assistance/"><u>Ace Your Inbox: Strategies for Composing Tough Workplace Correspondences with ChatGPT Assistance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-instructions-to-download-and-update-your-hp-officejet-pro-8620-drivers-on-windows-pcs/"><u>Complete Instructions to Download and Update Your HP OfficeJet Pro 8620 Drivers on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-starfield-applications-soaring-cpu-use-with-these-cutting-edge-techniques/"><u>Conquer Starfield Application's Soaring CPU Use with These Cutting-Edge Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/fan-experience-elevated-with-fb-and-twt-coverage/"><u>Fan Experience Elevated with FB & Twt Coverage</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-create-a-stunning-flipbook-with-dual-layered-backgrounds-using-templates-on-flipbuildercom/"><u>How to Create a Stunning Flipbook with Dual-Layered Backgrounds Using Templates on FlipBuilder.com</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-y100-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-view-just-10-pages-on-flipbuilder-your-ultimate-guide/"><u>How to View Just 10 Pages on FlipBuilder – Your Ultimate Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-your-web-data-management-with-our-cookiebot-platform/"><u>Master Your Web Data Management with Our Cookiebot Platform</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
 </ul></div>
 

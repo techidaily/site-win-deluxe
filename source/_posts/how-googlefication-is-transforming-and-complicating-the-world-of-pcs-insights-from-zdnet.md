@@ -1,7 +1,7 @@
 ---
 title: How 'Googlefication' Is Transforming and Complicating the World of PCs – Insights From ZDNET
-date: 2024-10-01T04:16:15.667Z
-updated: 2024-10-02T19:21:43.456Z
+date: 2024-10-07T17:32:41.853Z
+updated: 2024-10-08T18:22:07.716Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,14 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nvigorating-cold-season-selecting-warm-video-themes/"><u>[New] Invigorating Cold Season Selecting Warm Video Themes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-srt-from-basics-to-cutting-edge-techniques/"><u>[Updated] 2024 Approved SRT From Basics to Cutting-Edge Techniques</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/download-various-formats-of-bofunk-videos-mp4-mov-avi-etc/"><u>Download Various Formats of Bofunk Videos (MP4, MOV, AVI, Etc.)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/easy-access-to-ispe-educational-content-convert-and-download-videos-as-mp4-avi-or-wmv-for-both-mac-and-pc-users/"><u>Easy Access to ISPE Educational Content: Convert and Download Videos as MP4, AVI or WMV for Both Mac and PC Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/easy-tutorial-converting-online-milliyet-video-content-into-mp4-format-for-offline-viewing-on-both-mac-and-windows-computers/"><u>Easy Tutorial: Converting Online Milliyet Video Content Into MP4 Format for Offline Viewing on Both Mac and Windows Computers</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortless-video-collection-from-ctv-channels-using-the-ultimate-ctv-downloader-toolkit/"><u>Effortless Video Collection From CTV Channels Using the Ultimate CTV Downloader Toolkit</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-8-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 8 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magical-voice-change-tools-for-efficient-calls-for-2024/"><u>Magical Voice Change Tools for Efficient Calls for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-corporate-correspondence-via-ai-practical-tips-and-tricks/"><u>Optimizing Corporate Correspondence via AI: Practical Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-iosandroid-tips-attaching-audio-posters-on-facebook-for-2024/"><u>[Updated] IOS/Android Tips Attaching Audio Posters on Facebook for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-gopro-time-lapse-tips-create-epic-time-lapse-video/"><u>2024 Approved GoPro Time Lapse Tips Create Epic Time Lapse Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamline-your-gaming-with-xbox-screen-recorders/"><u>2024 Approved Streamline Your Gaming with Xbox Screen Recorders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-samsung-galaxy-s23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Samsung Galaxy S23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-pioneer-bdr-xs06-blu-ray-writer-assessing-its-performance-and-portability-features/"><u>In-Depth Analysis of Pioneer BDR-XS06 Blu-Ray Writer: Assessing Its Performance & Portability Features</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-productivity-with-the-space-saving-docking-station-now-just-44-cheaper-insights-from-zdnet/"><u>Maximize Productivity with the Space-Saving Docking Station, Now Just 44% Cheaper | Insights From ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/new-premium-services-from-microsoft-to-prolong-the-life-of-your-windows-10-devices-with-a-cost-zdnet-insights/"><u>New Premium Services From Microsoft to Prolong the Life of Your Windows 10 Devices, with a Cost | ZDNET Insights</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/no-plans-for-sudo-integration-in-windows-server-2e5-confirms-microsoft-via-zdnet/"><u>No Plans for Sudo Integration in Windows Server 2E5, Confirms Microsoft via ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/speeding-up-your-surfing-discover-the-enhanced-speed-and-improved-performance-of-googles-latest-chrome-update-for-windows-what-you-need-to-know/"><u>Speeding Up Your Surfing: Discover the Enhanced Speed and Improved Performance of Google's Latest Chrome Update for Windows - What You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme Narzo 60 5G? | Dr.fone</u></a></li>
 </ul></div>
 
