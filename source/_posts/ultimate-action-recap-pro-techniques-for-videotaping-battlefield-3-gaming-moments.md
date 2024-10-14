@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Action Recap: Pro Techniques for Videotaping Battlefield 3 Gaming Moments"
-date: 2024-10-07T17:56:59.918Z
-updated: 2024-10-08T16:31:03.740Z
+date: 2024-10-13T16:32:46.032Z
+updated: 2024-10-14T17:29:46.203Z
 tags:
   - product
 categories:
@@ -46,6 +46,13 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduction 
 
  Welcome to Battlefield 3 gameplay recording tutorial. 
@@ -55,10 +62,10 @@ Action Tutorials
  Follow this tutorial to learn how to use "Games & applications" recording mode to record your Battlefield 3 gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Games and Applications recording mode
@@ -87,46 +94,19 @@ Action Tutorials
 
 ![Mirillis Action! - Battlefield 3 benchmarking](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_normal_status.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pause Battlefield 3 gameplay recording
 
  When Battlefield 3 video recording is in progress you can use   **Ctrl+F9** hotkey to pause gameplay recording. This way you can easily skip unwanted parts of your Battlefield 3 gameplay, mission loading screens or intros. 
 
 ![Mirillis Action! - paused Battlefield 3 recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_recording_paused_status.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To resume Battlefield recording use   **Ctrl+F9** hotkey again. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battlefield 3 gameplay recordings playback
@@ -140,10 +120,10 @@ Action Tutorials
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_playback_battlefield3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Action! HUD on Battlefield 3 gameplay recordings
@@ -151,6 +131,13 @@ Action Tutorials
  If you do not want to include HUD in recorded Battlefield 3 gameplay videos you must select an option: **"Do not record HUD in games and applications"**.
 
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upload Battlefield 3 gameplay recordings to YouTube
 
@@ -165,10 +152,10 @@ Action Tutorials
 ![Mirillis Action! - Add webcam to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_webcam_battlefield3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add your logo to Battlefield 3 gameplay recordings
@@ -176,6 +163,13 @@ Action Tutorials
  To add your own logo or any other graphics to Battlefield 3 gameplay recording open main Video capture tab and make sure to enable **"Overlay graphics"** option. Select your graphics input file, set position, run Battlefield 3 and start recording to make gameplay recording with your own logo/graphics!
 
 ![Mirillis Action! - Add logo to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,20 +186,19 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-cinema-crafting-excellence-top-5-camera-skills-to-hone-for-2024/"><u>[New] Cinema Crafting Excellence Top 5 Camera Skills to Hone for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-premium-12-video-capture-apps-no-time-limit-in-2024/"><u>[New] Premium 12 Video Capture Apps, No Time Limit, In 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-navigating-twitters-video-content-aspect-ratios-included/"><u>[Updated] In 2024, Navigating Twitter’s Video Content Aspect Ratios Included</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dive-into-screen-recording-expert-insights-on-top-obs-software/"><u>2024 Approved Dive Into Screen Recording Expert Insights on Top OBS Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-visual-velocity-illustrators-guide-to-motion-blurs/"><u>2024 Approved Unleashing Visual Velocity Illustrator's Guide to Motion Blurs</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-ios-apps-for-pdf-editing-top-picks-of-2020/"><u>Best iOS Apps for PDF Editing: Top Picks of 2020</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/discover-the-ultimate-list-of-top-8-live-streaming-apps-for-smartphones-and-tablets/"><u>Discover the Ultimate List of Top 8 Live Streaming Apps for Smartphones and Tablets</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expert-review-leading-photo-management-software-for-windows-10-users/"><u>Expert Review: Leading Photo Management Software for Windows 10 Users</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-iphone-maintenance-comprehensive-troubleshooting-strategies-for-2019-models/"><u>Mastering iPhone Maintenance: Comprehensive Troubleshooting Strategies for 2019 Models</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-iphone-n-8-screen-captures-discover-the-top-three-strategies/"><u>Mastering the Art of iPhone N 8 Screen Captures: Discover the Top Three Strategies</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/premium-hevc-format-films-for-streaming-celebrity-blockbusters-from-west-to-east/"><u>Premium HEVC Format Films for Streaming - Celebrity Blockbusters From West to East</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-best-strategies-for-high-quality-audio-capture-on-microsofts-latest-operating-system-windows-11/"><u>The Best Strategies for High-Quality Audio Capture on Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-right-time-and-methods-for-securely-refreshing-your-pcs-firmware/"><u>The Right Time and Methods for Securely Refreshing Your PC's Firmware</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-experience-cinematic-adventure-with-intova-edge-x/"><u>[New] Experience Cinematic Adventure With Intova Edge X</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-commanding-attention-with-the-most-powerful-tiktok-caption-strategies/"><u>[Updated] In 2024, Commanding Attention with the Most Powerful TikTok Caption Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlock-full-potential-of-windows-photos-app-with-sound-and-filter-upgrades-for-2024/"><u>[Updated] Unlock Full Potential of Windows Photos App with Sound & Filter Upgrades for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-b29-enhance-file-search-speed-efficiently-querying-thousands-with-emeditor-text-editor/"><u>1. [B29] Enhance File Search Speed: Efficiently Querying Thousands with EmEditor Text Editor</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/advanced-text-editing-with-emeditor-pro-version-10-beta-8-v9908/"><u>Advanced Text Editing with EmEditor Pro Version 10 Beta 8 (V9.90.8)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplify-imagery-with-simple-grading-tricks-for-2024/"><u>Amplify Imagery with Simple Grading Tricks for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/captivating-movement-a-guide-to-perfect-canon-timelapses-for-2024/"><u>Captivating Movement A Guide to Perfect Canon Timelapses for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/efficient-text-editing-with-erase-workspace-a-comprehensive-guide-to-using-the-emeditor/"><u>Efficient Text Editing with Erase Workspace: A Comprehensive Guide to Using the EmEditor</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/emeditor-text-editor-features-macro-recording-using-prompt-based-templates/"><u>EmEditor Text Editor Features Macro Recording Using Prompt-Based Templates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78plus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78+</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-redmi-note-13-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Redmi Note 13 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-your-surface-pros-display-issues-a-guide-to-eliminating-shaking-and-flickering/"><u>Solving Your Surface Pro's Display Issues: A Guide to Eliminating Shaking and Flickering</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unveiling-emeditors-latest-release-beta-version-800-professional-text-editor-insights/"><u>Unveiling EmEditor's Latest Release: Beta Version 8.00 - Professional Text Editor Insights</u></a></li>
 </ul></div>
 

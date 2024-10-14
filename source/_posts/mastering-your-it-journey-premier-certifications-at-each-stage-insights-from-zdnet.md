@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your IT Journey: Premier Certifications at Each Stage - Insights From ZDNet"
-date: 2024-10-05T16:31:07.162Z
-updated: 2024-10-08T17:48:52.241Z
+date: 2024-10-11T16:08:01.173Z
+updated: 2024-10-14T16:33:23.454Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-essential-details-on-creating-effective-yt-shorts/"><u>[New] 2024 Approved Essential Details on Creating Effective YT Shorts</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/uthentic-audience-growth-practical-advice-for-content-creators/"><u>[New] Authentic Audience Growth Practical Advice for Content Creators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-drive-sales-through-smart-use-of-snapchats-tools/"><u>[New] In 2024, Drive Sales Through Smart Use of Snapchat's Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-how-to-engage-listeners-through-instagram-and-podcasts-for-2024/"><u>[Updated] How To Engage Listeners Through Instagram & Podcasts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-document-total-screen-content/"><u>2024 Approved Document Total Screen Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-iphone-and-android-video-editor-choices/"><u>Essential iPhone & Android Video Editor Choices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-entry-into-the-world-of-ai-5-strategies-for-gpt-4-use/"><u>Free Entry Into the World of AI: 5 Strategies for GPT-4 Use</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/get-your-favorite-pornhub-videos-anytime-on-any-device-safe-and-secure-downloader-apps-for-windows-and-macos/"><u>Get Your Favorite PornHub Videos Anytime, On Any Device – Safe & Secure Downloader Apps for Windows and macOS</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guide-effortless-downloading-of-videos-in-mp4-and-avi-formats-from-the-uktv-play-platform/"><u>Guide: Effortless Downloading of Videos in MP4 and AVI Formats From the UKTV Play Platform</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-convert-kaplan-course-videos-into-various-formats-using-kaplan-video-downloader/"><u>How to Convert Kaplan Course Videos Into Various Formats Using Kaplan Video Downloader</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-download-atresplayer-content-on-pc-or-mac-with-the-best-free-tools/"><u>How To Download Atresplayer Content On PC or Mac With The Best Free Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/iheartradio-music-saver-directly-save-your-favorite-tracks/"><u>IHeartRadio Music Saver: Directly Save Your Favorite Tracks</u></a></li>
-<li><a href="https://discover-able.techidaily.com/pcfod-and-mp4/"><u>PC上でFOD動画を安全にダウンロード & MP4形式に変換するテクニック</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-start-easily-extract-and-download-popular-pornhub-content-in-various-formats-including-mp4-mov-and-avi-with-our-step-by-step-tutorial/"><u>Quick Start: Easily Extract & Download Popular PornHub Content in Various Formats Including MP4, MOV, and AVI with Our Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-steps-for-fetching-dotsub-media-videocasts-and-captions/"><u>Quick Steps for Fetching DotSub Media: Videocasts and Captions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-11r-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus 11R Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-effortless-media-transition-from-mp3-to-youtube-video-posting-for-2024/"><u>[Updated] Effortless Media Transition From MP3 to YouTube Video Posting for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-exploring-the-world-of-montage-image-magic-for-2024/"><u>[Updated] Exploring the World of Montage Image Magic for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-oneplus-ace-3-frp-bypass-by-drfone-android/"><u>In 2024, About OnePlus Ace 3 FRP Bypass</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-posting-youtube-videos-with-screen-recording-techniques/"><u>Mastering the Art of Posting YouTube Videos with Screen Recording Techniques!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-excel-2007-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/"><u>Recover Excel 2007 Files from Virus-Infected Pen Drives for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tehnici-supreme-pentru-boostarea-vidurilor-live-streaming-5-instrumenturi-chestiati-de-cele-marilor-profesori/"><u>Tehnici Supreme Pentru Boostarea Vidurilor Live Streaming - 5 Instrumenturi Chestiați De Cele Marilor Profesori</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-replacement-for-internet-download-manager-on-macos-and-windows-discover-allvsoft/"><u>Top Replacement for Internet Download Manager on macOS & Windows: Discover Allvsoft</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-tools-for-saving-beeg-videos-cross-platform-solutions-for-windows-and-macos-users/"><u>Top Tools for Saving Beeg Videos: Cross-Platform Solutions for Windows and macOS Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-stuttering-issues-in-age-of-empires-iv/"><u>Troubleshooting Steps to Resolve Stuttering Issues in Age of Empires IV</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-how-to-retrieve-and-save-video-content-from-usa-today-across-both-macos-and-windows-platforms/"><u>Tutorial: How to Retrieve and Save Video Content From 'USA Today' Across Both macOS & Windows Platforms</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-walkthrough-access-and-enjoy-spotify-with-the-fitbit-versa-watch/"><u>Ultimate Walkthrough: Access and Enjoy Spotify with the Fitbit Versa Watch</u></a></li>
 </ul></div>
 

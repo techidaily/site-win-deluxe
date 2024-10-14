@@ -1,7 +1,7 @@
 ---
 title: How to Manage Plugin Buttons for Automated Scripting in EmEditor Text Editor
-date: 2024-10-01T17:53:30.980Z
-updated: 2024-10-08T16:17:48.570Z
+date: 2024-10-12T17:50:43.146Z
+updated: 2024-10-14T17:34:31.946Z
 tags:
   - product
 categories:
@@ -60,24 +60,35 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-record-videos-in-complete-silence/"><u>[New] 2024 Approved How to Record Videos in Complete Silence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-mac-mp4-cutter-apps-enhance-video-editing/"><u>[Updated] In 2024, Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>[Updated] In 2024, How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
-<li><a href="https://win11.techidaily.com/curtail-self-starting-file-explorer-behavior/"><u>Curtail Self-Starting File Explorer Behavior</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/dont-miss-out-windows-11-21h222h2-support-expires-soon-update-immediately-before-its-too-late-zdnet-insider/"><u>Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/effective-strategies-to-overcome-your-green-screen-problems-on-youtube/"><u>Effective Strategies to Overcome Your Green Screen Problems on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/empowerment-through-knowledge-lut-design-for-the-aspiring-film-professional/"><u>Empowerment Through Knowledge LUT Design for the Aspiring Film Professional</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expose-11-essential-trackpad-gestures-every-pro-user-should-utilize-in-depth-guide-by-zdnet/"><u>Expose 11 Essential Trackpad Gestures Every Pro User Should Utilize - In-Depth Guide by ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-a38-by-drfone-android/"><u>How to Bypass FRP on Oppo A38?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-paid-antivirus-protection-essential-expert-analysis-on-cutting-the-cord-with-security-expenses-zdnet/"><u>Is Paid Antivirus Protection Essential? Expert Analysis on Cutting the Cord with Security Expenses | ZDNET</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/july-microsoft-patch-could-trigger-bitlocker-lockout-on-windows-essential-solutions-unveiled-technews/"><u>July Microsoft Patch Could Trigger BitLocker Lockout on Windows: Essential Solutions Unveiled | TechNews</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-7-mp4-multipartition-tools-for-seamlessly-merging-multiple-videos/"><u>Top 7 MP4 Multipartition Tools for Seamlessly Merging Multiple Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-apps-to-modify-your-voice-on-commute/"><u>[New] Best Apps to Modify Your Voice on Commute</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-icecream-screen-recorder-how-to-guide-and-indepth-review-for-2024/"><u>[New] Icecream Screen Recorder - How-To Guide and Indepth Review for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-engagement-boosting-youtube-traffic-for-2024/"><u>[Updated] Harness the Power of Engagement Boosting YouTube Traffic for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-b29-enhance-file-search-speed-efficiently-querying-thousands-with-emeditor-text-editor/"><u>1. [B29] Enhance File Search Speed: Efficiently Querying Thousands with EmEditor Text Editor</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/advanced-text-editing-with-emeditor-pro-version-10-beta-8-v9908/"><u>Advanced Text Editing with EmEditor Pro Version 10 Beta 8 (V9.90.8)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-practices-for-keeping-portable-ini-files-outside-your-emeditor-directory/"><u>Best Practices for Keeping Portable INI Files Outside Your EmEditor Directory</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/efficient-text-editing-with-erase-workspace-a-comprehensive-guide-to-using-the-emeditor/"><u>Efficient Text Editing with Erase Workspace: A Comprehensive Guide to Using the EmEditor</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/emeditor-text-editor-features-macro-recording-using-prompt-based-templates/"><u>EmEditor Text Editor Features Macro Recording Using Prompt-Based Templates</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-facebook-written-policies-via-transparency-hub-launch/"><u>Exploring Facebook’ Written Policies via Transparency Hub Launch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fitbit-versa-smartwatch-review-quality-functionality-and-value-for-money/"><u>Fitbit Versa Smartwatch Review: Quality, Functionality and Value for Money</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/new-release-alert-emeditor-pro-version-13-beta-n-latest-text-editing-software/"><u>New Release Alert: EmEditor Pro Version 13 Beta N - Latest Text Editing Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-talk-alert-exploring-mobile-phone-ransomware-50-solutions-and-chatgpts-podcast-contribution/"><u>Tech Talk Alert: Exploring Mobile Phone Ransomware, $50 Solutions & ChatGPT's Podcast Contribution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-dimming-windows-and-mac-music-volume/"><u>Tips for Dimming Windows & Mac Music Volume</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-emeditors-inbuilt-character-encoding-in-version-10/"><u>Understanding EmEditor's Inbuilt Character Encoding in Version 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unveiling-emeditors-latest-release-beta-version-800-professional-text-editor-insights/"><u>Unveiling EmEditor's Latest Release: Beta Version 8.00 - Professional Text Editor Insights</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

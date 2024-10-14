@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Competition: Is Bing Pursuing a Different Strategy From Google? Insights From ZDNet"
-date: 2024-10-04T17:38:06.980Z
-updated: 2024-10-08T17:35:13.879Z
+date: 2024-10-13T16:10:30.588Z
+updated: 2024-10-14T17:26:18.494Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-understanding-facebooks-video-privacy-settings/"><u>[New] Understanding Facebook's Video Privacy Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-craft-stunning-iphone-snaps-heed-these-10-guidelines/"><u>[Updated] Craft Stunning iPhone Snaps - Heed These 10 Guidelines</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-t5-eye-cutting-edge-action-video-capture/"><u>[Updated] In 2024, Ultimate T5 Eye Cutting-Edge Action Video Capture</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-step-by-step-approach-for-thumbnail-creation-professionals-for-2024/"><u>A Step-By-Step Approach for Thumbnail Creation Professionals for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/complete-guide-secure-your-data-by-using-the-built-in-file-history-feature-on-windows-10-and-11-tips-from-zdnet/"><u>Complete Guide: Secure Your Data by Using the Built-In File History Feature on Windows 10 & 11 - Tips From ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/defining-desires-discovering-consumer-demands-and-future-prospects-for-microsoft-surface-insights-from-zdnet/"><u>Defining Desires: Discovering Consumer Demands & Future Prospects for Microsoft Surface - Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-fixes-to-stop-maplestory-from-crashing-on-your-pc-running-windows-10/"><u>Latest Fixes to Stop MapleStory From Crashing on Your PC Running Windows 10</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/purchase-microsoft-office-2019-on-pcmac-at-just-under-25-immediate-discounts-available-today/"><u>Purchase Microsoft Office 2019 on PC/Mac at Just Under $25 - Immediate Discounts Available Today!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/revive-your-aging-desktop-with-these-5-proven-tricks-for-windows-11-upgrade-most-solutions-gratis/"><u>Revive Your Aging Desktop with These 5 Proven Tricks for Windows 11 Upgrade - Most Solutions Gratis!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/revolutionizing-on-the-go-guidance-discover-how-microsoft-redefines-windows-copilot-as-a-standalone-app-for-improved-user-experience-zdnet/"><u>Revolutionizing On-the-Go Guidance: Discover How Microsoft Redefines Windows Copilot as a Standalone App for Improved User Experience | ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-using-two-apps-simultaneously-on-macbook-air/"><u>The Ultimate Trick to Using Two Apps Simultaneously on MacBook Air</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-backdrop-change-kit-pixelpioneers-reveal-for-2024/"><u>Ultimate Backdrop Change Kit PixelPioneer's Reveal for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unveiling-of-microsofts-windows-11-se-and-affordable-250-surface-laptop-se-targeting-educators-zdnet-update/"><u>Unveiling of Microsoft's Windows 11 SE and Affordable $250 Surface Laptop SE Targeting Educators – ZDNet Update</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/vloggers-paradise-top-14-video-editing-software-for-free-and-paid-use-for-2024/"><u>Vloggers Paradise Top 14 Video Editing Software for Free and Paid Use for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-defending-your-youtube-profile/"><u>[New] Defending Your YouTube Profile</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-essential-handbook-for-tiktok-vocal-effects/"><u>[New] In 2024, The Essential Handbook for TikTok Vocal Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tech-driven-drones-the-rise-of-syma-x8c/"><u>2024 Approved Tech-Driven Drones – The Rise of Syma X8C</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-googlefication-is-transforming-and-complicating-the-world-of-pcs-insights-from-zdnet/"><u>How 'Googlefication' Is Transforming and Complicating the World of PCs – Insights From ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/in-depth-look-microsofts-latest-innovations-revealed-at-the-annual-surface-and-ai-showcase-what-you-need-to-know/"><u>In-Depth Look: Microsoft's Latest Innovations Revealed at the Annual Surface & AI Showcase - What You Need to Know</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-investing-in-copilot-pro-a-smart-move-against-the-free-microsoft-alternative-insights-from-zdnet/"><u>Is Investing in Copilot Pro a Smart Move Against the Free Microsoft Alternative? Insights From ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/master-listings-for-melodic-mobile-alerts/"><u>Master Listings for Melodic Mobile Alerts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/navigating-the-latest-microsoft-ux-issues-potential-solutions-and-strategies-zdnet/"><u>Navigating the Latest Microsoft UX Issues - Potential Solutions and Strategies | ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/professional-tips-for-hd-streaming-success-on-social-media-fb-for-2024/"><u>Professional Tips for HD Streaming Success on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-to-the-leading-surface-pcs-of-202-professional-evaluations-and-comparisons-zdnet/"><u>The Ultimate Guide to the Leading Surface PCs of 202^%: Professional Evaluations and Comparisons | ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-picks-from-a-best-buy-expert-the-ultimate-guide-to-choosing-your-perfect-windows-laptop-insider-tips/"><u>Top Picks From a Best Buy Expert: The Ultimate Guide to Choosing Your Perfect Windows Laptop - Insider Tips</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tune-sharing-compliance-instagram-ip-codex/"><u>Tune-Sharing Compliance Instagram IP Codex</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-ai-potential-in-domestic-task-planning/"><u>Unveiling AI Potential in Domestic Task Planning</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-manages-my-digital-imagery/"><u>Who Manages My Digital Imagery?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-11s-latest-upgrade-arrives-packed-with-artificial-intelligence-enhancements-now-available/"><u>Windows 11'S Latest Upgrade Arrives: Packed with Artificial Intelligence Enhancements Now Available!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the Latest Microsoft UX Issues - Potential Solutions and Strategies | ZDNet
-date: 2024-10-06T18:05:27.840Z
-updated: 2024-10-08T18:01:45.978Z
+date: 2024-10-13T16:42:20.224Z
+updated: 2024-10-14T17:02:29.241Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-driving-traffic-to-long-form-videos-via-shorts/"><u>[New] Driving Traffic to Long-Form Videos via Shorts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-ultimate-checklist-for-channel-buying-success/"><u>2024 Approved Your Ultimate Checklist for Channel Buying Success</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/discover-the-ultimate-list-of-top-8-live-streaming-apps-for-smartphones-and-tablets/"><u>Discover the Ultimate List of Top 8 Live Streaming Apps for Smartphones and Tablets</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-website-with-cookiebot-driven-analytics/"><u>Enhance Your Website with Cookiebot-Driven Analytics</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expert-review-leading-photo-management-software-for-windows-10-users/"><u>Expert Review: Leading Photo Management Software for Windows 10 Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-action-to-archive-a-guide-to-top-screen-recording-tools/"><u>In 2024, Action to Archive A Guide to Top Screen Recording Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-xr-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone XR? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-iphone-maintenance-comprehensive-troubleshooting-strategies-for-2019-models/"><u>Mastering iPhone Maintenance: Comprehensive Troubleshooting Strategies for 2019 Models</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-memory-map-maker/"><u>[Updated] In 2024, Memory Map Maker</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-your-youtube-stream-with-wirecast/"><u>[Updated] Optimizing Your YouTube Stream with WireCast</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-cyberpunk-2077s-flatlining-issue-insights-into-error-2024/"><u>Deciphering Cyberpunk 2077'S Flatlining Issue - Insights Into Error 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-intel-optane-technology-drivers-on-windows-step-by-step-guide/"><u>Download and Install Intel Optane Technology Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-tutorial-sync-your-android-screen-with-mac-using-airdroid/"><u>Easy Tutorial: Sync Your Android Screen with Mac Using Airdroid</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-productivity-with-the-fujitsu-scansnap-ix1400-a-must-have-for-home-and-smb-settings/"><u>Enhancing Productivity with the Fujitsu ScanSnap iX1400 - A Must-Have for Home and SMB Settings</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-effortlessly-transform-your-tubechop-audio-files-into-high-quality-mp3s-the-ultimate-guide/"><u>How to Effortlessly Transform Your TubeChop Audio Files Into High-Quality MP3s – The Ultimate Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-download-instagram-reels-effortlessly-anytime/"><u>In 2024, Download Instagram Reels Effortlessly, Anytime</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-overview-of-best-luts-for-vlog/"><u>In 2024, Overview of Best LUTs for Vlog</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/iphone-repair-guide-top-tips-and-fixes-for-ios-devices-in-2019/"><u>IPhone Repair Guide: Top Tips and Fixes for iOS Devices in 2019</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/iphone-showdown-unveiling-the-key-distinctions-among-the-xs-xs-max-and-xr-models/"><u>IPhone Showdown: Unveiling the Key Distinctions Among the XS, XS Max, and XR Models</u></a></li>
 <li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-iphone-n-8-screen-captures-discover-the-top-three-strategies/"><u>Mastering the Art of iPhone N 8 Screen Captures: Discover the Top Three Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pro-rated-list-the-best-5-hd-webcams-with-capture-microphones-for-2024/"><u>Pro-Rated List The Best 5 HD Webcams with Capture Microphones for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/seamless-conversion-with-powerful-cookiebot-technology-solutions/"><u>Seamless Conversion with Powerful Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-your-realplayer-ivr-files-into-mp4-format/"><u>Step-by-Step Guide: Transforming Your RealPlayer IVR Files Into MP4 Format</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-best-strategies-for-high-quality-audio-capture-on-microsofts-latest-operating-system-windows-11/"><u>The Best Strategies for High-Quality Audio Capture on Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-top-results-with-perplexity-ai-the-ultimate-overlooked-google-assistant/"><u>Unlock Top Results with Perplexity AI: The Ultimate Overlooked Google Assistant</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tejor-de-sonidos-como-decir-colores/"><u>Tejor De Sonidos: Cómo Decir Colores</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-efficient-techniques-for-trimming-sound-recordings/"><u>The Ultimate Guide: Efficient Techniques for Trimming Sound Recordings</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-strategies-for-crafting-the-perfect-clubhouse-avatar/"><u>Top Strategies for Crafting the Perfect Clubhouse Avatar</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-tutorial-mastering-the-art-of-screen-captures-on-your-blu-mobile-device/"><u>Ultimate Tutorial: Mastering the Art of Screen Captures on Your BLU Mobile Device</u></a></li>
 </ul></div>
 

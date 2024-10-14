@@ -1,7 +1,7 @@
 ---
 title: Urgent Challenge Awaits Microsoft as Deadline Nears for Fixing Windows 11 Flaws | Insights From ZDNET
-date: 2024-10-07T17:12:27.835Z
-updated: 2024-10-08T17:56:30.144Z
+date: 2024-10-08T16:35:07.595Z
+updated: 2024-10-14T18:41:35.124Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -91,16 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-explore-and-enjoy-locating-recently-liked-videos-on-facebook/"><u>[New] Explore & Enjoy Locating Recently Liked Videos on Facebook</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-transformative-tinsel-a-journey-from-box-to-joy-for-2024/"><u>[New] Transformative Tinsel A Journey From Box to Joy for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-ensuring-copyright-compliance-in-youtube-to-mp4-for-2024/"><u>[Updated] Ensuring Copyright Compliance in Youtube-to-MP4 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-screenrecording-excellence-in-newsoftvision-10plus-for-2024/"><u>[Updated] ScreenRecording Excellence in NewSoftVision 10+ for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-up-to-stellar-footage-essential-action-cam-addons/"><u>2024 Approved Step Up to Stellar Footage Essential Action Cam Addons</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-7-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 7 Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/creating-interactive-autoplay-flipbooks-with-flipbuilder-for-enhanced-websites/"><u>Creating Interactive Autoplay Flipbooks with FlipBuilder for Enhanced Websites</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/download-the-ultimate-free-ebook-publishing-tool-effortless-conversion-from-text-to-pdf/"><u>Download the Ultimate Free eBook Publishing Tool: Effortless Conversion From Text to PDF</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-techniques-for-customizing-headers-and-footers-in-pdfs-prior-to-flipbook-transformation/"><u>Effective Techniques for Customizing Headers & Footers in PDFs Prior to Flipbook Transformation</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/enhance-your-sites-flow-expert-guide-on-inter-page-transition-using-flipbuilder/"><u>Enhance Your Site's Flow: Expert Guide on Inter-Page Transition Using FlipBuilder</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ensuring-compatibility-making-your-digital-book-user-friendly-on-ipads-tips-and-tricks-from-flipbuildercom/"><u>Ensuring Compatibility: Making Your Digital Book User-Friendly on iPads - Tips & Tricks From FlipBuilder.com</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/flash-window-design-tweaks-for-flipbook-creators-on-flipbuildercom/"><u>Flash Window Design Tweaks for FlipBook Creators on FlipBuilder.com</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-prepare-grayscale-photos-for-optimal-flippingbook-layouts/"><u>How to Prepare Grayscale Photos for Optimal FlippingBook Layouts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-hot-40-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Hot 40 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-multiple-pdf-file-conversions-with-innovative-strategies-at-flipbuildercom/"><u>Mastering Multiple PDF File Conversions with Innovative Strategies at FlipBuilder.com</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quick-guide-capturing-your-ppt-slide-show/"><u>Quick Guide Capturing Your PPT Slide Show</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-setting-up-your-flipbook-to-let-users-print-pages-directly-with-flipbuilder-tools/"><u>Step-by-Step Tutorial: Setting Up Your Flipbook to Let Users Print Pages Directly with FlipBuilder Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/thrifty-computer-solutions-through-perfect-obs-arrangement-for-2024/"><u>Thrifty Computer Solutions Through Perfect OBS Arrangement for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-list-of-the-highest-quality-ipads-for-purchase-in-2n24/"><u>Ultimate List of the Highest-Quality iPads for Purchase in 2N24</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>[New] 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-breakdown-samsungs-immersive-camera-technology/"><u>[Updated] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-vn-video-editor-pc-edition-a-compact-review/"><u>2024 Approved VN Video Editor PC Edition A Compact Review</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/accelerated-energy-production-a-thorough-review-of-the-unusual-delta-shaped-flsun-s1/"><u>Accelerated Energy Production: A Thorough Review of the Unusual Delta Shaped FLSun S1</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-view-just-10-pages-on-flipbuilder-your-ultimate-guide/"><u>How to View Just 10 Pages on FlipBuilder – Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximum-frame-rate-for-languid-motion-videos/"><u>In 2024, Maximum Frame Rate for Languid Motion Videos</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphones-fixing-unresponsive-sound-capture/"><u>Mastering Microphones: Fixing Unresponsive Sound Capture</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/newly-released-android-15-beta-phase-4-is-here-for-testing/"><u>Newly Released Android 15 Beta Phase 4 Is Here for Testing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revel-in-history-reactivating-deleted-reddit-articles-for-2024/"><u>Revel in History Reactivating Deleted Reddit Articles for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
 </ul></div>
 
