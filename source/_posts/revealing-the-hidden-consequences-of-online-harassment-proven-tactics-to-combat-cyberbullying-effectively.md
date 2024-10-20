@@ -1,7 +1,7 @@
 ---
 title: "Revealing the Hidden Consequences of Online Harassment: Proven Tactics to Combat Cyberbullying Effectively"
-date: 2024-10-12T17:44:44.211Z
-updated: 2024-10-14T17:41:43.984Z
+date: 2024-10-18T18:42:59.795Z
+updated: 2024-10-20T09:14:24.733Z
 tags:
   - product
   - antivirus
@@ -58,23 +58,9 @@ One of the most common forms of cyberbullying is bashing. It often happens in me
 
 Conversations and discussions can turn ugly fast. Offline harassment can spill over online. A group of bullies may target a vulnerable victim.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gossiping
 
 The rapid exchange of information online can quickly lead to gossiping. False information can pass from one person to another. Bullies may use perceived flaws to humiliate the victim further. They may even create pages or groups to spread gossip also. It isolates the victim from his or her peers. Isolation can rapidly cause depression and anxiety.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Exposure
 
@@ -86,20 +72,27 @@ Kids and teens also reveal a bit too much online. They pass personal and intimat
 
 Not all bullies of the victims are within their age group. Bullies vary in background and intention. Children open themselves to be victims due to their online engagement.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### School Bullies
 
 More often than not, bullies are from the same school of the victims. A study by Duke University shows that 90% of teens who are the victim of cyberbullying, also experience harassment offline. Bullies often create fake personas to hide behind anonymity.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/school-signal-and-children.png "school-signal-and-children")
 
-Some cyberbullies may attack in groups. It involves shaming or humiliation, threats, and blackmailing. Bullying may not even happen in public threads. Messaging apps are typical tools bullies use against their victims.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Some cyberbullies may attack in groups. It involves shaming or humiliation, threats, and blackmailing. Bullying may not even happen in public threads. Messaging apps are typical tools bullies use against their victims.
 
 ### Cybercriminals
 
@@ -119,14 +112,14 @@ Children who are being bullied often show first signs of their overall academic 
 
 ![](https://malwarefox.com/wp-content/uploads/2018/02/kindergarten.png "kindergarten")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Cyberbullying worsens the academic effects of bullying. Children and teens are known to use and various social media. In the past, they can escape attacks after school. However, social media encompasses most of their day. Dealing with cyberbullying affects their concentration and habits.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Physical and Mental Health
 
@@ -137,13 +130,6 @@ Children’s mental and physical health is affected along with academic performa
 Physical health also suffers along with mental conditions. Parents often notice considerable changes in their child’s sleeping and eating habits. There is also a lack of interest in activities they used to enjoy.
 
 Mental and physical effects can have long-lasting effects. Researchers found that the victim children of cyberbullying have a high risk for depression as a young adult. It also increases depressive issues later in life.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Extreme Effects
 
@@ -156,10 +142,10 @@ Being bullied and bullying also affects teen behavior towards alcoholism and dru
 [Fake Tech Support Scams - How to Protect Yourself](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect your Kids from Cyberbullying
@@ -177,13 +163,20 @@ Encourage your children to employ strong passwords in their online accounts. The
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/03/padlock-1.png "padlock (1)")
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Additionally, educate them about clean online habits. Log-out of any online accounts when not in use. Encourage empathy and logic when posting on social media. Make them understand that their actions have significant effects on others.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Turn On Parental Controls
 
@@ -192,6 +185,13 @@ Most modern operating systems come with parental controls. Parents can easily mo
 The earlier you catch signs of cyberbullying, the easier it is to stop. Tools, like Bark, even allow monitoring of texts, emails, and social media networks. It alerts parents of potentially harmful content or messages in their children’s online activities.
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2017/11/parents.png "parents")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Look for Signs
 
@@ -208,10 +208,10 @@ It is essential to gather information if you suspect cyberbullying. You should r
 Technology brings both innovation and responsibility. It is mostly a neutral entity which has the potential to be good or evil. As such, threats like cyberbullying continues without proper attention. It is essential to be sensitive to your child’s needs both offline and online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -239,22 +239,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-parrots-at-play-unpacking-bebops-next-gen-flight/"><u>[New] Parrots at Play Unpacking Bebop’s Next-Gen Flight</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-a-final-farewell-to-your-instagram-world-process-and-steps/"><u>[Updated] A Final Farewell to Your Instagram World Process & Steps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unmatched-visual-transformation-toolkit-for-2024/"><u>[Updated] Unmatched Visual Transformation Toolkit for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>2024 Approved The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-xsplit-digest-in-depth-splits-reviews/"><u>2024 Approved XSplit Digest In-Depth Splits Reviews</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-your-valorant-pc-launch-struggles-2024-proven-solutions-for-smooth-startup/"><u>Conquer Your Valorant PC Launch Struggles: 2024 Proven Solutions for Smooth Startup</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/conversion-gratuite-de-fichiers-aac-en-format-aiff-sur-internet-tutomovavi/"><u>Conversion Gratuite De Fichiers AAC en Format AIFF Sur Internet - TutoMovavi</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-easy-video-editing-with-gopro-quik-on-macbook-for-2024/"><u>Elevate Your Storytelling Easy Video Editing with GoPro Quik on MacBook for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/facilidad-al-dominio-de-las-presentaciones-y-slideshow-para-mac-usando-movavi/"><u>Facilidad Al Dominio De Las Presentaciones Y Slideshow Para Mac Usando Movavi</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/gratuit-online-omzetten-van-een-pgm-naar-jpeg-met-movavi-direct-en-efficient/"><u>Gratuit Online Omzetten Van Een PGM Naar JPEG Met Movavi - Direct en Efficiënt</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>In 2024, LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/montage-de-photos-avance-sur-mac-avec-movavi-photo-retoucher-editeur-graphique-parfait/"><u>Montage De Photos Avancé Sur Mac Avec Movavi Photo Retoucher - Éditeur Graphique Parfait</u></a></li>
-<li><a href="https://windows11.techidaily.com/rapid-and-secure-firmware-update-guide-for-surface-systems/"><u>Rapid & Secure Firmware Update Guide for Surface Systems</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-ts-en-webm-en-ligne-gratuitement-un-guide-complet-avec-movavi/"><u>Transformer Des Fichiers Ts en Webm en Ligne Gratuitement : Un Guide Complet Avec Movavi</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/virtueel-omzetten-van-mpeg-4-in-flac-naar-voor-niemand-kosters-hefkeer-movavi-converter/"><u>Virtueel Omzetten Van MPEG-4 in FLAC Naar Voor Niemand Kosters, Hefkeer - Movavi Converter</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/web-mov-mp4-movavi/"><u>Web 콘텐츠를 갱신: 무료 MOV 프리미우트를 MP4로 전환하는 방법 - Movavi</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1726225259767-movavi/"><u>オンラインソリューションが可能! 有料なしで動画からクリアな声を取り出せるMovaviの革新的スキル</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-game-on-for-gaiety-your-must-try-10/"><u>[New] 2024 Approved Game On for Gaiety Your Must-Try 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-top-free-alternatives-to-hdclone-for-optimal-pc-imaging-on-windows-versions/"><u>1. Top Free Alternatives to HDClone for Optimal PC Imaging on Windows Versions</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/boost-site-traffic-with-cookiebot-technology-integration/"><u>Boost Site Traffic with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chromebook-audio-revamp-guide-selecting-the-leading-speech-converters-online/"><u>Chromebook Audio Revamp Guide Selecting the Leading Speech Converters Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-cambiar-a-una-unidad-ssd-en-tu-lenovo-thinkpad-t13-bajo-sistemas-operativos-windows-7-8-o-10/"><u>Cómo Cambiar a Una Unidad SSD en Tu Lenovo ThinkPad T13 Bajo Sistemas Operativos Windows 7, 8 O 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-new-frontiers-the-six-surprising-career-paths-within-ai-technology/"><u>Discover New Frontiers: The Six Surprising Career Paths Within AI Technology</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/en-iyi-yollarimizla-bir-gorunusin-cozum-noktasina-kavusmak/"><u>En Iyi Yollarımızla Bir Görünüşin Çözüm Noktasına Kavuşmak</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-console-to-community-livestream-your-xbox-for-2024/"><u>From Console to Community Livestream Your Xbox for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-revolutionary-recording-methods-for-windows-10-games/"><u>In 2024, Revolutionary Recording Methods for Windows 10 Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728467784330-iphone/"><u>IPhone 内部隐藏图像传输到电脑的三个有效技巧</u></a></li>
+<li><a href="https://win-webster.techidaily.com/passaggi-facili-e-rapidi-per-linvio-di-una-casella-postale-da-dispositivo-mac-una-guida-approfondita/"><u>Passaggi Facili E Rapidi per L'Invio Di Una Casella Postale Da Dispositivo Mac: Una Guida Approfondita</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quick-and-secure-factory-reset-on-your-toshiba-satellite-including-full-data-protection-steps/"><u>Quick & Secure Factory Reset on Your Toshiba Satellite: Including Full Data Protection Steps</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/stealthy-threats-uncovering-and-defending-against-image-based-malware-infections/"><u>Stealthy Threats: Uncovering and Defending Against Image-Based Malware Infections</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-eliminating-non-deletable-drive-sectors-efficiently/"><u>Step-by-Step Guide: Eliminating Non-Deletable Drive Sectors Efficiently</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-essential-blueprint-for-configuring-a-zoom-space/"><u>The Essential Blueprint for Configuring a Zoom Space</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-windows-1n-update-error-code-0x803c0103-expert-steps-and-solutions/"><u>Troubleshooting Windows 1N Update Error Code 0X803C0103: Expert Steps and Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-10acer-pc/"><u>Windows 10でアップデート後に復元するAcer PCのステップ</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728489793265-windows-114/"><u>ファイル移行・転送のテクニック:Windows 11で使える4つの方法</u></a></li>
 </ul></div>
 

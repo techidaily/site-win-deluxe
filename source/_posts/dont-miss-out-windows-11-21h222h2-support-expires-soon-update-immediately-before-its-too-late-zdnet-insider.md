@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out - Windows 11 (21H2/22H2) Support Expires Soon, Update Immediately Before It’s Too Late | ZDNet Insider
-date: 2024-10-11T16:30:44.831Z
-updated: 2024-10-14T18:04:04.505Z
+date: 2024-10-15T09:16:58.545Z
+updated: 2024-10-19T16:06:03.683Z
 tags:
   - windows
 categories:
@@ -27,18 +27,18 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create a new folder
 
@@ -62,10 +62,16 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -73,13 +79,6 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -104,6 +103,13 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
@@ -111,10 +117,16 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -156,24 +168,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-adjusting-youtube-video-scale-effectively/"><u>2024 Approved Adjusting YouTube Video Scale Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-conversion-tutorial-how-to-change-m4a-audio-to-mp3-via-google-search-engine-ffmpeg-cmd-line-instructions-included/"><u>Easy Conversion Tutorial: How to Change M4A Audio to MP3 via Google Search Engine - FFmpeg Cmd Line Instructions Included!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/easy-tutorial-sync-your-android-screen-with-mac-using-airdroid/"><u>Easy Tutorial: Sync Your Android Screen with Mac Using Airdroid</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-effortlessly-transform-your-tubechop-audio-files-into-high-quality-mp3s-the-ultimate-guide/"><u>How to Effortlessly Transform Your TubeChop Audio Files Into High-Quality MP3s – The Ultimate Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-play-8t-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor Play 8T For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-up-to-date-pl2303-driver-software-on-your-pc-free-download/"><u>Install Up-to-Date PL2303 Driver Software on Your PC - Free Download</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/iphone-repair-guide-top-tips-and-fixes-for-ios-devices-in-2019/"><u>IPhone Repair Guide: Top Tips and Fixes for iOS Devices in 2019</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/iphone-showdown-unveiling-the-key-distinctions-among-the-xs-xs-max-and-xr-models/"><u>IPhone Showdown: Unveiling the Key Distinctions Among the XS, XS Max, and XR Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721903534786-iphone-users-beware-how-to-resolve-chatgpt-application-issues-quickly/"><u>IPhone Users Beware: How to Resolve ChatGPT Application Issues Quickly!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-iphone-maintenance-comprehensive-troubleshooting-strategies-for-2019-models/"><u>Mastering iPhone Maintenance: Comprehensive Troubleshooting Strategies for 2019 Models</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-iphone-n-8-screen-captures-discover-the-top-three-strategies/"><u>Mastering the Art of iPhone N 8 Screen Captures: Discover the Top Three Strategies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/repairing-failed-fixservice-setup-and-registration-on-windows-11-os/"><u>Repairing Failed FixService Setup and Registration on Windows 11 OS</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-speech-to-text-translation-in-microsoft-office-suite-word-for-2024/"><u>Seamless Speech-to-Text Translation in Microsoft Office Suite (Word) for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-ultimate-guide-efficient-techniques-for-trimming-sound-recordings/"><u>The Ultimate Guide: Efficient Techniques for Trimming Sound Recordings</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-strategies-for-crafting-the-perfect-clubhouse-avatar/"><u>Top Strategies for Crafting the Perfect Clubhouse Avatar</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-server-rack-systems-and-cabinets-2024-edition/"><u>Top-Rated Server Rack Systems & Cabinets - 2024 Edition</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-tutorial-mastering-the-art-of-screen-captures-on-your-blu-mobile-device/"><u>Ultimate Tutorial: Mastering the Art of Screen Captures on Your BLU Mobile Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgraded-windows-sounds-audio-drivers-revamping/"><u>Upgraded Windows Sounds: Audio Drivers Revamping</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-mac-image-sorter/"><u>[New] In 2024, Best Mac Image Sorter</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>[New] In 2024, Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-inside-the-world-of-superior-screen-recording-with-recmeister-for-2024/"><u>[Updated] Inside the World of Superior Screen Recording with Recmeister for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/44cm5bplusr6ycf5a2m5lmg77ya5luo55u45py65asn5yi25yig6zmk55qe5b2x54mh5oqa5ben5zkm5pa55rov44cn/"><u>「快速学习：从相机复制删除的影片技巧和方法」</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-instalar-y-desinstalar-software-correctamente-una-guia-sencilla/"><u>Cómo Instalar Y Desinstalar Software Correctamente: Una Guía Sencilla</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-mover-tu-sesion-de-windows-11-a-un-ordenador-distinto-en-cuatro-sencillas-etapas/"><u>Cómo Mover Tu Sesión De Windows 11 a Un Ordenador Distinto en Cuatro Sencillas Etapas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/die-besten-kostenlosen-videokonverter-fur-mac-im-jahr-2023-umfassender-testbericht-und-downloadverzeichnis/"><u>Die Besten Kostenlosen Videokonverter Für Mac Im Jahr 2023 - Umfassender Testbericht Und Downloadverzeichnis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-facebook-traffic-with-innovative-video-techniques/"><u>Enhancing Facebook Traffic with Innovative Video Techniques</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-extract-single-documents-from-your-windows-system-backup/"><u>How to Extract Single Documents From Your Windows System Backup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-of-steadicams-for-uav-videography-enthusiasts/"><u>In 2024, Ultimate List of Steadicams for UAV Videography Enthusiasts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/schnellere-pc-reaktionszeiten-mit-der-sicherung-ihrer-windows-881-systemfestplatte-anleitungen/"><u>Schnellere PC-Reaktionszeiten Mit Der Sicherung Ihrer Windows 8/8.1 Systemfestplatte - Anleitungen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-mastering-the-art-of-free-hd-video-conversion-with-factory/"><u>Step-by-Step Guide: Mastering the Art of Free HD Video Conversion with Factory</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-troubleshooting-tips-for-resolving-the-read-only-chkdsk-interruption/"><u>Step-by-Step Troubleshooting Tips for Resolving the 'Read-Only Chkdsk Interruption'</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-teracopy-issues-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting Teracopy Issues on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-a70-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel A70 Device</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/wie-sie-ihre-daten-effektiv-mit-windows-systemen-111087-auf-externe-speicher-synchronisieren/"><u>Wie Sie Ihre Daten Effektiv Mit Windows-Systemen (11/10/8/7) Auf Externe Speicher Synchronisieren</u></a></li>
 </ul></div>
 

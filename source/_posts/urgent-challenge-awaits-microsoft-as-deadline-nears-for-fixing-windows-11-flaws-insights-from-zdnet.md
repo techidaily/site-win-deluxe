@@ -1,7 +1,7 @@
 ---
 title: Urgent Challenge Awaits Microsoft as Deadline Nears for Fixing Windows 11 Flaws | Insights From ZDNET
-date: 2024-10-08T16:35:07.595Z
-updated: 2024-10-14T18:41:35.124Z
+date: 2024-10-13T01:16:02.824Z
+updated: 2024-10-20T01:05:41.135Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>[New] 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-full-breakdown-samsungs-immersive-camera-technology/"><u>[Updated] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-vn-video-editor-pc-edition-a-compact-review/"><u>2024 Approved VN Video Editor PC Edition A Compact Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/accelerated-energy-production-a-thorough-review-of-the-unusual-delta-shaped-flsun-s1/"><u>Accelerated Energy Production: A Thorough Review of the Unusual Delta Shaped FLSun S1</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-view-just-10-pages-on-flipbuilder-your-ultimate-guide/"><u>How to View Just 10 Pages on FlipBuilder – Your Ultimate Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximum-frame-rate-for-languid-motion-videos/"><u>In 2024, Maximum Frame Rate for Languid Motion Videos</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-microphones-fixing-unresponsive-sound-capture/"><u>Mastering Microphones: Fixing Unresponsive Sound Capture</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/newly-released-android-15-beta-phase-4-is-here-for-testing/"><u>Newly Released Android 15 Beta Phase 4 Is Here for Testing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revel-in-history-reactivating-deleted-reddit-articles-for-2024/"><u>Revel in History Reactivating Deleted Reddit Articles for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-connect-your-tiktok-creativity-to-twitter/"><u>[New] Connect Your TikTok Creativity to Twitter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-demystifying-youtube-shorts-content-strategy-guide-for-2024/"><u>[New] Demystifying YouTube Shorts Content Strategy Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-highest-quality-capture-software-showdown-for-2024/"><u>[New] Highest Quality Capture Software Showdown for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-perfecting-color-the-top-15-gopro-luts-for-filmmaking/"><u>[New] Perfecting Color The Top 15 GoPro LUTs for Filmmaking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-save-time-and-energy-with-two-way-recording-on-google-meets/"><u>[Updated] 2024 Approved How to Save Time and Energy with Two-Way Recording on Google Meets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-starting-strong-with-the-best-studio-tech-for-novices/"><u>[Updated] Starting Strong with the Best Studio Tech for Novices</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unlocking-gameplay-success-with-ps3-screen-recording-for-2024/"><u>[Updated] Unlocking Gameplay Success with PS3 Screen Recording for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-installer-et-enregistrer-un-ordinateur-portable-sur-microsoft-onedrive/"><u>Comment Installer Et Enregistrer Un Ordinateur Portable Sur Microsoft OneDrive ?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-audio-playback-errors-with-youtubes-renderer-problem-on-windows-10-systems/"><u>How to Overcome Audio Playback Errors with YouTube's Renderer Problem on Windows 10 Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-7-plus-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 7 Plus from iCloud</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728476615710-nvme-ssdwindows-11/"><u>NVMe SSDへのWindows 11正式設置マニュアル：ファットパック無しでのセットアップ</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/page-unavailable-resolving-the-http-error-404-issue-quickly/"><u>Page Unavailable - Resolving the HTTP Error 404 Issue Quickly</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/reviving-your-files-top-5-techniques-for-retrieving-information-from-broken-computer-components/"><u>Reviving Your Files: Top 5 Techniques for Retrieving Information From Broken Computer Components</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/sbloccato-risoluzione-problemi-per-lavvio-di-windows-10-tramite-unita-usb-non-funzionante/"><u>Sbloccato! Risoluzione Problemi per L'avvio Di Windows 10 Tramite Unità USB Non Funzionante</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-for-dealing-with-dead-by-daylight-error-8014/"><u>Troubleshooting Guide for Dealing with Dead by Daylight Error #8014</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-tutorial-on-migrating-quickbooks-data-to-a-fresh-pc/"><u>Ultimate Tutorial on Migrating QuickBooks Data to a Fresh PC</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728473394989-windows-11-8/"><u>Windows 11 機能を高めるための実践的な最適化方法のリストトップ8</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-7-aktualisiertes-daten-backup-zuviel-nur-geanderte-dateien-sichern/"><u>Windows 7 Aktualisiertes Daten-Backup: Zuviel Nur Geänderte Dateien Sichern</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728482656081-windowspc/"><u>Windows系統下，從物理PC遷移到雲端計算方法</u></a></li>
 </ul></div>
 

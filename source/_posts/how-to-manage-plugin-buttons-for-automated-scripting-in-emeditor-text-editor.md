@@ -1,7 +1,7 @@
 ---
 title: How to Manage Plugin Buttons for Automated Scripting in EmEditor Text Editor
-date: 2024-10-12T17:50:43.146Z
-updated: 2024-10-14T17:34:31.946Z
+date: 2024-10-17T04:47:04.535Z
+updated: 2024-10-19T19:48:30.251Z
 tags:
   - product
 categories:
@@ -60,35 +60,27 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-apps-to-modify-your-voice-on-commute/"><u>[New] Best Apps to Modify Your Voice on Commute</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-icecream-screen-recorder-how-to-guide-and-indepth-review-for-2024/"><u>[New] Icecream Screen Recorder - How-To Guide and Indepth Review for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harness-the-power-of-engagement-boosting-youtube-traffic-for-2024/"><u>[Updated] Harness the Power of Engagement Boosting YouTube Traffic for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-b29-enhance-file-search-speed-efficiently-querying-thousands-with-emeditor-text-editor/"><u>1. [B29] Enhance File Search Speed: Efficiently Querying Thousands with EmEditor Text Editor</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/advanced-text-editing-with-emeditor-pro-version-10-beta-8-v9908/"><u>Advanced Text Editing with EmEditor Pro Version 10 Beta 8 (V9.90.8)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-practices-for-keeping-portable-ini-files-outside-your-emeditor-directory/"><u>Best Practices for Keeping Portable INI Files Outside Your EmEditor Directory</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/efficient-text-editing-with-erase-workspace-a-comprehensive-guide-to-using-the-emeditor/"><u>Efficient Text Editing with Erase Workspace: A Comprehensive Guide to Using the EmEditor</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/emeditor-text-editor-features-macro-recording-using-prompt-based-templates/"><u>EmEditor Text Editor Features Macro Recording Using Prompt-Based Templates</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-facebook-written-policies-via-transparency-hub-launch/"><u>Exploring Facebook’ Written Policies via Transparency Hub Launch</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fitbit-versa-smartwatch-review-quality-functionality-and-value-for-money/"><u>Fitbit Versa Smartwatch Review: Quality, Functionality and Value for Money</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/new-release-alert-emeditor-pro-version-13-beta-n-latest-text-editing-software/"><u>New Release Alert: EmEditor Pro Version 13 Beta N - Latest Text Editing Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tech-talk-alert-exploring-mobile-phone-ransomware-50-solutions-and-chatgpts-podcast-contribution/"><u>Tech Talk Alert: Exploring Mobile Phone Ransomware, $50 Solutions & ChatGPT's Podcast Contribution</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tips-for-dimming-windows-and-mac-music-volume/"><u>Tips for Dimming Windows & Mac Music Volume</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-emeditors-inbuilt-character-encoding-in-version-10/"><u>Understanding EmEditor's Inbuilt Character Encoding in Version 10</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unveiling-emeditors-latest-release-beta-version-800-professional-text-editor-insights/"><u>Unveiling EmEditor's Latest Release: Beta Version 8.00 - Professional Text Editor Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-smooth-media-transition-pc-files-to-iphone-for-2024/"><u>[New] Smooth Media Transition PC Files To iPhone for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unleash-pure-content-how-to-block-youtube-ads-effectively/"><u>[New] Unleash Pure Content How to Block YouTube Ads Effectively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-live-stream-showdown-xsplit-vs-obs/"><u>[Updated] In 2024, Live Stream Showdown XSplit Vs. OBS</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-seamless-iphone-to-iphone-application-transfer-using-bluetooth-technology/"><u>1. Seamless iPhone-to-iPhone Application Transfer Using Bluetooth Technology</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728486355136-google4/"><u>失われた瞬間を取り戻す：Googleフォトから削除した写真の回復方法4選</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-sound-to-your-airpods-when-paired-with-a-windows-desktop-or-laptop/"><u>Bring Back Sound to Your AirPods When Paired With a Windows Desktop or Laptop</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-guide-understanding-shadow-copies-in-windows-10/"><u>Comprehensive Guide: Understanding Shadow Copies in Windows 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-trial-of-aomei-cyberback-engine-secure-your-data-now/"><u>Free Trial of AOMEI CyberBack Engine: Secure Your Data Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-recover-missing-iphone-whatsapp-conversations-proven-methods-and-tips-for-successful-backup-recovery/"><u>How to Recover Missing iPhone WhatsApp Conversations: Proven Methods & Tips for Successful Backup Recovery</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-s23plus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy S23+ Without PUK Codes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/precision-in-storyboard-planning/"><u>Precision in Storyboard Planning</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/reclaiming-your-work-six-effective-methods-to-restore-microsoft-word-docx-documents/"><u>Reclaiming Your Work: Six Effective Methods to Restore Microsoft Word (DOCX) Documents</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ripristina-i-file-cancellati-dalla-scheda-sd-senza-problemi/"><u>Ripristina I File Cancellati Dalla Scheda SD Senza Problemi</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
