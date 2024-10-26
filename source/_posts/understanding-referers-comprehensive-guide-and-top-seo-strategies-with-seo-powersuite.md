@@ -1,7 +1,7 @@
 ---
 title: "Understanding Referers: Comprehensive Guide & Top SEO Strategies with SEO PowerSuite"
-date: 2024-10-12T22:50:54.154Z
-updated: 2024-10-20T11:34:22.177Z
+date: 2024-10-25T01:14:48.154Z
+updated: 2024-10-25T16:52:43.040Z
 tags:
   - wiki
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 ## Referer
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Contents
 
 * [Definition](https://tools.techidaily.com/link-assistant/products/)
@@ -37,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
    * [Use a different protocol](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Definition
 
 In the context of the web, a referer (comes from the misspelled word _referrer_) is the URL of the previous webpage that linked to the current webpage[\[1\]](https://tools.techidaily.com/link-assistant/products/). It is used to identify where the user came from, and can be used to track user behavior and help websites understand how they are being accessed. The referer information is sent as a header field in an HTTP request, and can be used by the server to customize the content or behavior of the webpage based on where the user came from.
@@ -46,13 +52,6 @@ In the context of the web, a referer (comes from the misspelled word _referrer_)
 In [HTML](https://tools.techidaily.com/link-assistant/products/), the referer information is not directly accessible to the webpage itself. Instead, it is passed as a header field in the HTTP request that is sent from the browser to the server when the webpage is requested. The server can then use this information to customize the content or behavior of the webpage in various ways.
 
 One way to access the referer information on the server-side is to use the $\_SERVER\['HTTP\_REFERER'\] variable in PHP, or the request.headers.referer property in Node.js. On the client-side, you can use the Document.referrer property in JavaScript to access the referer information.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Example
 
@@ -72,16 +71,16 @@ document.write("Welcome! We're not sure where you came from.");
 
 Note that the Document.referrer property is not always reliable, as it can be blocked or modified by the browser or by third-party extensions. In addition, it is not available for security reasons when the user navigates to a webpage using a secure (HTTPS) connection from a page with an insecure (HTTP) connection.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Preventing transmission of the referer information
 
 There are a few ways that users can stop the transmission of the referer information:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use a private browsing mode
 
@@ -91,22 +90,29 @@ Many web browsers have a "private" or "incognito" mode that prevents the browser
 
 There are a number of browser extensions that can block or modify the referer header, as well as other headers and data that could be used to track the user's activity. Some examples of these extensions include Privacy Badger, Ghostery, and HTTPS Everywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Modify the browser settings
 
 In some cases, it may be possible to disable the referer header by modifying the browser settings. For example, in Mozilla Firefox, you can go to "Privacy & Security" in the Options menu, and then uncheck the "Send referrer header" option under the "Tracking Protection" section.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use a different protocol
 
 If you need to access a webpage over a secure (HTTPS) connection, but the referer header is being blocked or modified, you can try using a different protocol, such as HTTP or FTP, to access the webpage. This will bypass the referer header entirely, but it may not be possible in all cases.
 
 Keep in mind that while these methods can help to reduce the transmission of the referer information, they may not be completely effective in all cases, and they may have other trade-offs in terms of privacy and security.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## References
 
@@ -127,18 +133,15 @@ Keep in mind that while these methods can help to reduce the transmission of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-pro-tips-for-efficient-and-effective-use-of-siri-on-tiktok/"><u>[New] 2024 Approved Pro Tips for Efficient and Effective Use of Siri on TikTok</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-cutting-edge-techniques-for-google-meet-aesthetic-enhancement/"><u>[New] Cutting-Edge Techniques for Google Meet Aesthetic Enhancement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-futurecamerasbeyondmycam/"><u>[New] In 2024, FutureCamerasBeyondMyCam</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-sharepoint/"><u>1. SharePoint ファイルの自動排出を防ぐ手順：ストレージ管理とデータ回収戦略</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-music-blend-fundamentals/"><u>2024 Approved YouTube Music Blend Fundamentals</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728480623709-chrome/"><u>Chromeのデフォルト領域が見つからない場合、解決方法は何か？</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v29-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V29 Pro Phone Screen?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/intelligente-losungen-fur-den-kontinuierlichen-datenschutz-durch-automatisierte-aufgabenverfolgung-und-sicherungsprozesse/"><u>Intelligente Lösungen Für Den Kontinuierlichen Datenschutz Durch Automatisierte Aufgabenverfolgung Und Sicherungsprozesse</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-zoom-transcribing-top-5-suggestions-for-all-budgets-for-2024/"><u>Mastering Zoom Transcribing Top 5 Suggestions for All Budgets for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transferencia-de-la-licencia-de-windows-11-al-nuevo-pc-sin-problemas/"><u>Transferencia De La Licencia De Windows 11 Al Nuevo PC Sin Problemas</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/wiederherstellung-und-reparatur-der-sd-karte-ohne-formatierung-top-8-losungen-fur-ihr-datentragerschwundel/"><u>Wiederherstellung Und Reparatur Der SD-Karte Ohne Formatierung – Top 8 Lösungen Für Ihr Datenträgerschwundel</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows-aomei/"><u>Windows 系統即時备份与恢复技术师服务 - AOMEI 备份工程师</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ranking-macs-best-rated-sniping-programs/"><u>[New] 2024 Approved Ranking Mac's Best-Rated Sniping Programs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-adding-apple-music-to-video/"><u>[New] In 2024, Adding Apple Music to Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-best-android-animal-games/"><u>[New] In 2024, The Ultimate Guide to Best Android Animal Games</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-undetectable-volume-variations-in-garageband-artistry/"><u>[New] Undetectable Volume Variations in Garageband Artistry</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-instagram-insiders-guide-to-dynamic-story-quizzes/"><u>2024 Approved The Instagram Insider's Guide to Dynamic Story Quizzes</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/leading-boston-seo-firms-boosting-web-presence-with-expert-strategies/"><u>Leading Boston SEO Firms Boosting Web Presence with Expert Strategies</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-your-seo-impact-with-alternative-solutions-to-ubersuggest-explore-the-powersuite-of-options/"><u>Maximize Your SEO Impact with Alternative Solutions to Ubersuggest | Explore the PowerSuite of Options</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/panduan-menjelaskan-proses-pemulihan-gambar-ssd-sehat-dan-ramai-dalam-waktu-yang-baik/"><u>Panduan Menjelaskan Proses Pemulihan Gambar SSD Sehat Dan Ramai Dalam Waktu Yang Baik</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-identifying-and-rectifying-the-4-main-reasons-for-chatgpt-account-restrictions/"><u>Troubleshooting Tips: Identifying & Rectifying the 4 Main Reasons for ChatGPT Account Restrictions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/polnyj-obzor-vedushih-seo-konsultantov-gamburga-germaniya-proverennaya-kvalifikaciya-i-innovacionnye-strategii/"><u>Полный Обзор Ведущих SEO-Консультантов Гамбурга, Германия: Проверенная Квалификация И Инновационные Стратегии!</u></a></li>
 </ul></div>
 
