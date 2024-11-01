@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Atomic Lead Harvesting Guide: Master Phone & Email Extraction with MassMail Tool"
-date: 2024-10-22T07:12:50.659Z
-updated: 2024-10-26T06:51:13.173Z
+date: 2024-10-29T17:11:48.290Z
+updated: 2024-10-31T23:27:38.187Z
 tags:
   - product
 categories:
@@ -22,6 +22,19 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,10 +50,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -69,27 +82,20 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -107,38 +113,31 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -147,6 +146,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,18 +173,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-smart-8-hd-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Smart 8 HD Activity | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-engaging-storytelling-with-snapchats-gifted-gifs/"><u>2024 Approved Engaging Storytelling with Snapchat's Gifted GIFs</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728500893822-windows-10/"><u>如何确保在Windows 10上无损删除/清空硬盘的详细解析</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/aomeis-no-cost-image-manager-effortless-data-protection-with-disk-imaging-technology/"><u>AOMEI's No-Cost Image Manager: Effortless Data Protection with Disk Imaging Technology</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/daten-sichern-und-verschlusseln-eine-anleitung-zum-schutz-ihrer-bilder-mithilfe-von-aomei-backupper/"><u>Daten Sichern Und Verschlüsseln: Eine Anleitung Zum Schutz Ihrer Bilder Mithilfe Von AOMEI Backupper</u></a></li>
-<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-6-gif-to-video-converters-everyone-must-try/"><u>Discover the Ultimate 6 GIF to Video Converters Everyone Must Try!</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-vr-tech-trends-right-now/"><u>In 2024, VR Tech Trends Right Now</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/maximize-your-consoles-potential-top-monitors-explored-for-2024/"><u>Maximize Your Console's Potential - Top Monitors Explored for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-url-indexing-unlocking-the-potential-of-seo-mastery-with-powersuite-tools/"><u>Ultimate URL Indexing: Unlocking the Potential of SEO Mastery with PowerSuite Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728464582490-windows-11-pc/"><u>Windows 11 PC リカバリードライブ作成手順：同梱ガイド</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tehnicheskaya-instrukciya-dlya-klonirovaniya-diska-v-windows-server-2012-r2-podrobnye-sposoby-resheniya/"><u>Техническая Инструкция Для Клонирования Диска В Windows Server 2012 (R2): Подробные Способы Решения</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graphicgenius-suite/"><u>[New] 2024 Approved GraphicGenius Suite</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] 2024 Approved Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-motorola-moto-g04-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Motorola Moto G04 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-brio-usb-camera-drivers-compatible-with-win-11-win-8-and-win-7-get-them-now/"><u>Logitech BRIO USB Camera Drivers: Compatible with Win 11, Win 8 and Win 7 – Get Them Now!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/navigating-through-url-hijacking-insightful-overview-and-top-seo-techniques-for-webmasters/"><u>Navigating Through URL Hijacking: Insightful Overview & Top SEO Techniques for Webmasters</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quest-ce-qui-arrive-aux-fichiers-supprimes-dun-disque-dur-portable-dans-la-corbeille-ou-non/"><u>Qu'est-Ce Qui Arrive Aux Fichiers Supprimés D'un Disque Dur Portable : Dans La Corbeille Ou Non ?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/quick-solutions-to-overcome-the-windows-error-code-0xc004f211-challenge/"><u>Quick Solutions to Overcome the Windows Error Code 0Xc004f211 Challenge</u></a></li>
+<li><a href="https://win-great.techidaily.com/solution-guide-troubleshooting-when-your-pc-ignores-the-targeted-storage-device/"><u>Solution Guide: Troubleshooting When Your PC Ignores the Targeted Storage Device</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-prefetch-comprehensive-guide-and-seo-optimization-strategies-with-seo-powersuite/"><u>Understanding Prefetch: Comprehensive Guide & SEO Optimization Strategies with SEO PowerSuite</u></a></li>
 </ul></div>
 

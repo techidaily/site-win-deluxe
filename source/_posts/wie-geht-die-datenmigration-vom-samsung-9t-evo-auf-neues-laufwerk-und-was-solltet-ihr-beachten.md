@@ -1,7 +1,7 @@
 ---
 title: Wie Geht Die Datenmigration Vom Samsung 9T EVO Auf Neues Laufwerk Und Was Solltet Ihr Beachten?
-date: 2024-10-21T21:38:10.501Z
-updated: 2024-10-26T05:43:47.192Z
+date: 2024-10-30T18:12:41.120Z
+updated: 2024-10-31T18:22:10.449Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f57583c3e3045c6411c49cf79f1c57e2b65bdc7a79a3cbd20d20abb231b6bf0b.jpg
@@ -43,19 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -74,16 +61,16 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -105,16 +92,16 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -133,17 +120,17 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -163,15 +150,22 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -218,19 +212,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>[Updated] 2024 Approved Masterclass in Digital Animation The Art of Creating GIFs</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/5-strategien-um-ihr-iphone-bei-einem-notfall-sos-zu-behalten-expertentipps/"><u>5 Strategien, Um Ihr iPhone Bei Einem Notfall-SOS Zu Behalten - Expertentipps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-brother-hl-l2350dw-printer-drivers-get-your-software-updated-now/"><u>Download the Latest Brother HL-L2350DW Printer Drivers - Get Your Software Updated Now!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effizientes-klonen-von-crucial-ssds-auf-windows-11-leicht-verstandliche-und-einfache-losung/"><u>Effizientes Klonen Von Crucial SSDs Auf Windows 11: Leicht Verständliche Und Einfache Lösung</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/evaluating-google-chrome-a-review-by-massmail-software-experts/"><u>Evaluating Google Chrome: A Review by MassMail Software Experts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-digital-socialization-the-impact-of-facebook-twitter-instagram-and-youtube-on-society/"><u>Mastering Digital Socialization: The Impact of Facebook, Twitter, Instagram & Youtube on Society</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-quick-key-tricks-for-efficiency/"><u>Mastering Windows: Quick Key Tricks for Efficiency</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/maximizing-holiday-promotions-effective-strategies-using-massmail-email-tools/"><u>Maximizing Holiday Promotions: Effective Strategies Using MassMail Email Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/maximizing-roi-with-smart-email-segmentation-strategies-a-guide-using-massmail/"><u>Maximizing ROI with Smart Email Segmentation Strategies: A Guide Using MassMail</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/os-melhores-substitutos-do-imovie-para-android-em-2024-uma-comparacao-completa/"><u>Os Melhores Substitutos Do iMovie Para Android Em 2024: Uma Comparação Completa</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-qr-reading-difficulties-on-ios-devices-top-techniques-and-tips/"><u>Overcoming QR Reading Difficulties on iOS Devices: Top Techniques and Tips</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/soluciones-rapidas-para-reparar-windows-11-defender-que-deja-de-funcionar/"><u>Soluciones Rápidas Para Reparar Windows 11 Defender Que Deja De Funcionar</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oppo-reno-9a-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Oppo Reno 9A Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-secure-vimeo-to-local-downloaders/"><u>[New] In 2024, Secure Vimeo to Local Downloaders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-comprehending-instagrams-max-video-length/"><u>[Updated] 2024 Approved Comprehending Instagram's Max Video Length</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/10-most-common-mistakes-in-digital-marketing-insights-with-massmail-software/"><u>10 Most Common Mistakes in Digital Marketing: Insights with MassMail Software</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/avoid-losing-your-files-protect-from-total-wipeouts-on-sandisk-extreme-ssds/"><u>Avoid Losing Your Files: Protect From Total Wipeouts on SanDisk Extreme SSDs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/avoiding-pitfalls-in-your-email-campaigns-insights-from-techniques-2010-common-errors-and-fixes/"><u>Avoiding Pitfalls in Your Email Campaigns: Insights From 'Techniques 2010' – Common Errors and Fixes</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-45-free-rss-feed-sites-for-easy-content-distribution-with-massmail-software/"><u>Best 45 FREE RSS Feed Sites for Easy Content Distribution with MASSMAIL Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-pc-experience-with-the-most-innovative-powertoy-applications/"><u>Boost Your PC Experience with the Most Innovative PowerToy Applications</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-ultimate-4-webp-file-viewer-tools-for-quickly-unlocking-images-in-webp-format/"><u>Discover the Ultimate 4 WebP File Viewer Tools for Quickly Unlocking Images in WebP Format</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/effortless-ps4-saves-transfer-two-cost-free-strategies-for-using-an-exterior-hard-disk/"><u>Effortless PS4 Saves Transfer: Two Cost-Free Strategies for Using an Exterior Hard Disk</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-user-experience-with-responsive-html-designs-for-2024/"><u>Enhancing User Experience with Responsive HTML Designs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/leading-seo-agencies-based-in-chicago-expert-seo-assistance-and-strategies-for-urban-success/"><u>Leading SEO Agencies Based in Chicago | Expert SEO Assistance and Strategies for Urban Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-unresponsive-keyboard-arrows-how-to-restore-functionality/"><u>Solutions for Unresponsive Keyboard Arrows – How to Restore Functionality</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-insiders-guide-to-boosting-roi-in-email-campaigns-using-massmail-data-analytics/"><u>The Insider's Guide to Boosting ROI in Email Campaigns Using MassMail Data Analytics</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-ultimate-roadmap-to-repair-and-restore-compromised-foundations-in-depth-insights/"><u>The Ultimate Roadmap to Repair and Restore Compromised Foundations: In-Depth Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-razer-barracuda-headset-mic-fixes-for-windows-1110-compatibility/"><u>Troubleshooting Razer Barracuda Headset Mic: Fixes for Windows 11/10 Compatibility</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-approfondito-come-aggiornare-il-tuo-ssd-sullalienware-m17-r5/"><u>Tutorial Approfondito: Come Aggiornare Il Tuo SSD Sull'Alienware M17 R5</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unlock-successful-marketing-with-podcasts-mastering-strategies-from-2009-to-present/"><u>Unlock Successful Marketing with Podcasts: Mastering Strategies From 2009 to Present</u></a></li>
 </ul></div>
 
