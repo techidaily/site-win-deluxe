@@ -1,7 +1,7 @@
 ---
 title: "Understanding Referers: Comprehensive Guide & Top SEO Strategies with SEO PowerSuite"
-date: 2024-10-30T19:44:01.614Z
-updated: 2024-10-31T21:45:02.509Z
+date: 2024-10-30T21:33:19.255Z
+updated: 2024-11-06T19:08:42.999Z
 tags:
   - wiki
 categories:
@@ -40,6 +40,13 @@ In [HTML](https://tools.techidaily.com/link-assistant/products/), the referer in
 
 One way to access the referer information on the server-side is to use the $\_SERVER\['HTTP\_REFERER'\] variable in PHP, or the request.headers.referer property in Node.js. On the client-side, you can use the Document.referrer property in JavaScript to access the referer information.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Example
 
 Here is an example of how you might use the Document.referrer property in JavaScript to display a message on a webpage depending on where the user came from:
@@ -58,39 +65,19 @@ document.write("Welcome! We're not sure where you came from.");
 
 Note that the Document.referrer property is not always reliable, as it can be blocked or modified by the browser or by third-party extensions. In addition, it is not available for security reasons when the user navigates to a webpage using a secure (HTTPS) connection from a page with an insecure (HTTP) connection.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Preventing transmission of the referer information
 
 There are a few ways that users can stop the transmission of the referer information:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use a private browsing mode
 
 Many web browsers have a "private" or "incognito" mode that prevents the browser from storing history, search queries, and other data that could be used to track the user's activity. When private browsing mode is enabled, the browser will typically not send a referer header in HTTP requests.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use a third-party privacy extension
@@ -98,10 +85,16 @@ Many web browsers have a "private" or "incognito" mode that prevents the browser
 There are a number of browser extensions that can block or modify the referer header, as well as other headers and data that could be used to track the user's activity. Some examples of these extensions include Privacy Badger, Ghostery, and HTTPS Everywhere.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modify the browser settings
@@ -113,6 +106,13 @@ In some cases, it may be possible to disable the referer header by modifying the
 If you need to access a webpage over a secure (HTTPS) connection, but the referer header is being blocked or modified, you can try using a different protocol, such as HTTP or FTP, to access the webpage. This will bypass the referer header entirely, but it may not be possible in all cases.
 
 Keep in mind that while these methods can help to reduce the transmission of the referer information, they may not be completely effective in all cases, and they may have other trade-offs in terms of privacy and security.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## References
 
@@ -133,14 +133,15 @@ Keep in mind that while these methods can help to reduce the transmission of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-advanced-ai-for-professional-photography/"><u>[Updated] In 2024, Advanced AI for Professional Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-turning-traffic-into-cash-calculating-the-essential-youtube-number-for-2024/"><u>[Updated] Turning Traffic Into Cash Calculating the Essential Youtube Number for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/5-strategien-um-ihr-iphone-bei-einem-notfall-sos-zu-behalten-expertentipps/"><u>5 Strategien, Um Ihr iPhone Bei Einem Notfall-SOS Zu Behalten - Expertentipps</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/comment-changer-le-systeme-dexploitation-sur-un-nouveau-hdd-guide-complet/"><u>Comment Changer Le Système D'Exploitation Sur Un Nouveau HDD: Guide Complet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/get-started-on-vimeo-for-free-the-basics-of-video-editing/"><u>Get Started on Vimeo for Free The Basics of Video Editing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Pro Max Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/maximizing-holiday-promotions-effective-strategies-using-massmail-email-tools/"><u>Maximizing Holiday Promotions: Effective Strategies Using MassMail Email Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/maximizing-roi-with-smart-email-segmentation-strategies-a-guide-using-massmail/"><u>Maximizing ROI with Smart Email Segmentation Strategies: A Guide Using MassMail</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/soluciones-rapidas-para-reparar-windows-11-defender-que-deja-de-funcionar/"><u>Soluciones Rápidas Para Reparar Windows 11 Defender Que Deja De Funcionar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-optimize-visibility-choosing-the-right-hashtags-today/"><u>[Updated] 2024 Approved Optimize Visibility Choosing the Right Hashtags Today</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>2024 Approved Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/automatisierte-datensicherung-mit-windows-11-lass-es-dir-erklaren/"><u>Automatisierte Datensicherung Mit Windows 11: Lass Es Dir Erklären</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bug-free-gaming-effective-ways-to-fix-crashing-errors-in-persona-4-golden/"><u>Bug Free Gaming: Effective Ways to Fix Crashing Errors in Persona 4 Golden</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/exploring-the-role-of-email-promotions-in-growing-online-retail-startups-the-massmail-approach/"><u>Exploring the Role of Email Promotions in Growing Online Retail Startups: The Massmail Approach</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/seamless-ipod-to-iphone-transition-a-hassle-free-guide-for-users/"><u>Seamless iPod-to-iPhone Transition: A Hassle-Free Guide for Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-importance-of-emotion-in-marketing-strategy-with-massmail-software/"><u>The Importance of Emotion in Marketing Strategy with MassMail Software</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-14-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 14 without a computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-current-macos-the-complete-macos-versions-guide/"><u>What's the Current macOS? The Complete macOS Versions Guide</u></a></li>
 </ul></div>
 
