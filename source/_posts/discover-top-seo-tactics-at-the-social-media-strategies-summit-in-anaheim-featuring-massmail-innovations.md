@@ -1,7 +1,7 @@
 ---
 title: Discover Top SEO Tactics at The Social Media Strategies Summit in Anaheim - Featuring MassMail Innovations
-date: 2024-11-02T18:40:51.679Z
-updated: 2024-11-06T17:37:10.360Z
+date: 2024-11-20T18:28:22.607Z
+updated: 2024-11-26T17:30:55.067Z
 tags:
   - product
 categories:
@@ -33,10 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -50,13 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -77,10 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -91,43 +78,24 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -142,6 +110,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
@@ -153,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,18 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-project-board-to-public-display-imovie-on-youtube/"><u>[New] In 2024, From Project Board to Public Display IMovie on YouTube</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-best-apps-for-3d-video-intros-on-social-platforms/"><u>2024 Approved Best Apps for 3D Video Intros on Social Platforms</u></a></li>
-<li><a href="https://driver-error.techidaily.com/device-driver-problems-in-windows-7811-follow-these-steps-to-get-it-solved-now/"><u>Device Driver Problems in Windows 7/8/11? Follow These Steps to Get It Solved Now</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-hassle-free-tactics-sharing-igtv-in-insta-stories/"><u>In 2024, Hassle-Free Tactics Sharing IGTV in Insta Stories</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-reno-11f-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo Reno 11F 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/kuwaits-premier-seo-experts-comprehensive-rank-boosting-services-by-powersuite-specialists/"><u>Kuwait's Premier SEO Experts: Comprehensive Rank-Boosting Services by PowerSuite Specialists</u></a></li>
-<li><a href="https://fox-access.techidaily.com/silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams-for-2024/"><u>Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/solutions-pour-le-probleme-de-recuperation-non-fonctionnel-avec-la-sauvegarde-du-systeme-actuel-lenovo-onekey/"><u>Solutions Pour Le Problème De Récupération Non Fonctionnel Avec La Sauvegarde Du Système Actuel Lenovo OneKey</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-10-cloud-storage-plans-finding-the-lowest-costs-2024-edition/"><u>Top 10 Cloud Storage Plans Finding the Lowest Costs, 2024 Edition</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-forex-trading-techniques-that-guarantee-profit-for-skilled-investors-on-the-metatrader-4-platform/"><u>Top Forex Trading Techniques That Guarantee Profit for Skilled Investors on the MetaTrader 4 Platform</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tutorial-paso-a-paso-sobre-como-restaurar-tu-sistema-en-windows-11-claves-y-conocimientos-importantes-que-debes-tener/"><u>Tutorial Paso a Paso Sobre Cómo Restaurar Tu Sistema en Windows 11: Claves Y Conocimientos Importantes Que Debes Tener</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-prefetch-comprehensive-guide-and-seo-optimization-strategies-with-seo-powersuite/"><u>Understanding Prefetch: Comprehensive Guide & SEO Optimization Strategies with SEO PowerSuite</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-artful-expression-the-most-exceptional-9-sites-for-3d-graffiti-typefaces-for-2024/"><u>Unleashing Artful Expression The Most Exceptional 9 Sites for 3D Graffiti Typefaces for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-plain-definitions-in-storytelling-basics/"><u>[New] Plain Definitions in Storytelling Basics</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-easy-ways-to-merge-igtv-and-instagram-stories/"><u>[Updated] 2024 Approved Easy Ways to Merge IGTV & Instagram Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grateful-reels-exclusive-free-and-paid-otus/"><u>2024 Approved Grateful Reels Exclusive Free & Paid OTUs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-3d-modeling-applications-for-animators/"><u>2024 Approved Leading 3D Modeling Applications for Animators</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ejecute-la-copia-de-seguridad-y-restauracion-de-archivos-gratuitamente-usando-aomei-backupper/"><u>Ejecute La Copia De Seguridad Y Restauración De Archivos Gratuitamente Usando AOMEI Backupper</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instagrams-backward-video-display-an-insight/"><u>In 2024, Instagram's Backward Video Display An Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-event-id-1000-across-different-generations-of-windows-os/"><u>Mastering the Fix for Event ID 1000 Across Different Generations of Windows OS</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/solve-your-itunes-launch-issues-top-10-solutions-for-windows-11-users/"><u>Solve Your Itunes Launch Issues: Top 10 Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/srt-optimization-the-ultimate-performance-boosters-for-computers-for-2024/"><u>SRT Optimization The Ultimate Performance Boosters for Computers for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/two-methods-for-crafting-a-restore-disk-for-windows-server-201/"><u>Two Methods for Crafting a Restore Disk for Windows Server 201</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-11-irqlnotlessorequal/"><u>Windows 11 IRQL_NOT_LESS_OR_EQUALエラーの対処法：完全解析</u></a></li>
 </ul></div>
 

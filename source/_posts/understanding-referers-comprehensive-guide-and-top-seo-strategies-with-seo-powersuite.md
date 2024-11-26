@@ -1,7 +1,7 @@
 ---
 title: "Understanding Referers: Comprehensive Guide & Top SEO Strategies with SEO PowerSuite"
-date: 2024-11-11T00:58:01.908Z
-updated: 2024-11-17T03:38:32.751Z
+date: 2024-11-21T17:07:03.945Z
+updated: 2024-11-26T17:33:58.119Z
 tags:
   - wiki
 categories:
@@ -30,9 +30,17 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
    * [Use a different protocol](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Definition
 
 In the context of the web, a referer (comes from the misspelled word _referrer_) is the URL of the previous webpage that linked to the current webpage[\[1\]](https://tools.techidaily.com/link-assistant/products/). It is used to identify where the user came from, and can be used to track user behavior and help websites understand how they are being accessed. The referer information is sent as a header field in an HTTP request, and can be used by the server to customize the content or behavior of the webpage based on where the user came from.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Functionality
 
@@ -41,10 +49,7 @@ In [HTML](https://tools.techidaily.com/link-assistant/products/), the referer in
 One way to access the referer information on the server-side is to use the $\_SERVER\['HTTP\_REFERER'\] variable in PHP, or the request.headers.referer property in Node.js. On the client-side, you can use the Document.referrer property in JavaScript to access the referer information.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Example
@@ -66,10 +71,7 @@ document.write("Welcome! We're not sure where you came from.");
 Note that the Document.referrer property is not always reliable, as it can be blocked or modified by the browser or by third-party extensions. In addition, it is not available for security reasons when the user navigates to a webpage using a secure (HTTPS) connection from a page with an insecure (HTTP) connection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Preventing transmission of the referer information
@@ -84,22 +86,12 @@ Many web browsers have a "private" or "incognito" mode that prevents the browser
 
 There are a number of browser extensions that can block or modify the referer header, as well as other headers and data that could be used to track the user's activity. Some examples of these extensions include Privacy Badger, Ghostery, and HTTPS Everywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Modify the browser settings
 
 In some cases, it may be possible to disable the referer header by modifying the browser settings. For example, in Mozilla Firefox, you can go to "Privacy & Security" in the Options menu, and then uncheck the "Send referrer header" option under the "Tracking Protection" section.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use a different protocol
@@ -127,19 +119,20 @@ Keep in mind that while these methods can help to reduce the transmission of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlining-media-files-from-xmltxt-to-srt-mastery/"><u>[Updated] Streamlining Media Files From XML/TXT to SRT Mastery</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/10-most-common-mistakes-in-digital-marketing-insights-with-massmail-software/"><u>10 Most Common Mistakes in Digital Marketing: Insights with MassMail Software</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/avoid-losing-your-files-protect-from-total-wipeouts-on-sandisk-extreme-ssds/"><u>Avoid Losing Your Files: Protect From Total Wipeouts on SanDisk Extreme SSDs</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/avoiding-pitfalls-in-your-email-campaigns-insights-from-techniques-2010-common-errors-and-fixes/"><u>Avoiding Pitfalls in Your Email Campaigns: Insights From 'Techniques 2010' – Common Errors and Fixes</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-45-free-rss-feed-sites-for-easy-content-distribution-with-massmail-software/"><u>Best 45 FREE RSS Feed Sites for Easy Content Distribution with MASSMAIL Software</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/collaborative-listening-easily-distributing-your-audible-library-to-pals/"><u>Collaborative Listening: Easily Distributing Your Audible Library to Pals</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-tips-for-digitizing-internet-radio-programming-for-2024/"><u>Essential Tips for Digitizing Internet Radio Programming for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a78-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A78 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-building-striking-podcast-branding-logo-design-guide/"><u>In 2024, Building Striking Podcast Branding Logo Design Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-dll-error-for-opencl-applications/"><u>Overcoming DLL Error for OpenCL Applications</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-insiders-guide-to-boosting-roi-in-email-campaigns-using-massmail-data-analytics/"><u>The Insider's Guide to Boosting ROI in Email Campaigns Using MassMail Data Analytics</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-ultimate-roadmap-to-repair-and-restore-compromised-foundations-in-depth-insights/"><u>The Ultimate Roadmap to Repair and Restore Compromised Foundations: In-Depth Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-photoshop-wizardry-for-bending-photos/"><u>[New] 2024 Approved Photoshop Wizardry for Bending Photos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-ipad-time-lapse-filmmaking/"><u>[New] 2024 Approved The Ultimate Guide to iPad Time-Lapse Filmmaking</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-9-uncharted-upscales-for-vivid-visuals/"><u>[Updated] 9 Uncharted Upscales for Vivid Visuals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-essential-steps-to-upload-tiktok-content-on-chrome-os/"><u>[Updated] Essential Steps to Upload TikTok Content on Chrome OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-15-creative-strategies-for-free-capture-of-online-workshops/"><u>2024 Approved 15 Creative Strategies for Free Capture of Online Workshops</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/best-6-iphone-voice-memo-applications-you-should-try/"><u>Best 6 iPhone Voice Memo Applications You Should Try</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/beste-methoden-zur-suche-nach-after-effects-projekte-wiederholungen-finde-deine-dateien-einfach-wieder/"><u>Beste Methoden Zur Suche Nach After Effects Projekte Wiederholungen - Finde Deine Dateien Einfach Wieder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/demystifying-not-provided-definitions-and-optimization-techniques-for-enhanced-seo-performance/"><u>Demystifying 'Not Provided': Definitions & Optimization Techniques for Enhanced SEO Performance</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-methods-to-pause-ongoing-windows-11-updates/"><u>Effective Methods to Pause Ongoing Windows 11 Updates</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-installation-of-macos-software-through-parallels-virtualization-discover-the-ease-with-massmail-tools/"><u>Effortless Installation of MacOS Software Through Parallels Virtualization - Discover the Ease with MassMail Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/essential-data-and-settings-the-ultimate-guide-to-preparing-your-system-for-windows-11/"><u>Essential Data & Settings: The Ultimate Guide to Preparing Your System for Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-camon-20-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Camon 20 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/leading-seo-solutions-providers-in-dubai-optimize-your-digital-footprint-effectively-with-top-tier-techniques/"><u>Leading SEO Solutions Providers in Dubai - Optimize Your Digital Footprint Effectively with Top-Tier Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva-for-2024/"><u>The Path to Perfect Presentation Cutting Out Image Backdrops on Canva for 2024</u></a></li>
 </ul></div>
 

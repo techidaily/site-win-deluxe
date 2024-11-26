@@ -1,7 +1,7 @@
 ---
 title: "The Essence of Finances: How MassMail Helps Understand Your Relationship with Money"
-date: 2024-11-10T01:24:43.015Z
-updated: 2024-11-17T00:05:57.161Z
+date: 2024-11-25T16:13:47.290Z
+updated: 2024-11-26T18:04:34.373Z
 tags:
   - product
 categories:
@@ -22,19 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -48,6 +35,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -63,13 +54,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -83,10 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -101,20 +82,21 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -124,22 +106,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -153,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,18 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-masterful-picks-top-6-mac-compatible-capture-tools-for-2024/"><u>[Updated] Masterful Picks Top 6 Mac-Compatible Capture Tools for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows7-11hdd/"><u>絶対必見！全てのWindows機（7-11）向け外付けHDD自動増分バックアップ方法 : 無料チュートリアル</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728464589173-usb/"><u>失われたUSBデータを取り戻せる究極の方法：未アロットメントについて</u></a></li>
-<li><a href="https://win-top.techidaily.com/configuring-instant-cleanup-how-to-purge-ageing-backups-past-x-days/"><u>Configuring Instant Cleanup: How to Purge Ageing Backups Past X Days</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-steps-to-cropping-mkv-video-format-a-users-guide/"><u>Easy Steps to Cropping MKV Video Format - A User's Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/highlighted-screenplay-scenes-bundle/"><u>Highlighted Screenplay Scenes Bundle</u></a></li>
-<li><a href="https://win-online.techidaily.com/how-to-restore-images-and-videos-from-ssdcf-memory-cards-a-comprehensive-guide/"><u>How to Restore Images & Videos From SSDCF Memory Cards: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/massmail-mastery-delivering-humor-and-high-engagement-in-your-marketing-automation/"><u>MassMail Mastery: Delivering Humor and High Engagement in Your Marketing Automation</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/modern-approaches-to-secure-online-transactions-in-2009-ensuring-safe-virtual-shopping-with-massmail-technology/"><u>Modern Approaches to Secure Online Transactions in 2009 - Ensuring Safe Virtual Shopping with MassMail Technology</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/scarica-app-di-winx-video-intelligenza-artificiale-gratuita-su-android-e-ios/"><u>Scarica App Di Winx Video Intelligenza Artificiale Gratuita Su Android E iOS</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securing-your-files-on-external-hard-drive-with-windows-11-a-step-by-step-guide/"><u>Securing Your Files on External Hard Drive with Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-9-best-free-video-compressors-for-windows-10/"><u>Updated 2024 Approved 9 Best Free Video Compressors for Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-from-phone-screen-to-home-screen-enabling-fb-video-viewing-on-appletv/"><u>[New] 2024 Approved From Phone-Screen to Home Screen Enabling FB Video Viewing on AppleTV</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-enhancing-audience-connection-through-android-and-ios-streams/"><u>[New] In 2024, Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elevate-visual-stories-editing-music-for-canva-clips/"><u>[Updated] 2024 Approved Elevate Visual Stories Editing Music for Canva Clips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-synergy-of-enterprises-and-immersive-virtual-worlds/"><u>[Updated] 2024 Approved Synergy of Enterprises and Immersive Virtual Worlds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069530349-updated-in-2024-efficient-chrome-os-snaps-4-techniques-to-try/"><u>[Updated] In 2024, Efficient Chrome OS Snaps - 4 Techniques to Try!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/7-hacia-una-unidad-ssd-sin-necesidad-de-reinstalacion/"><u>7 Hacia Una Unidad SSD Sin Necesidad De Reinstalación</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-guide-on-utilizing-command-prompt-for-file-cloning-in-windows/"><u>Comprehensive Guide on Utilizing Command Prompt for File Cloning in Windows</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/hoe-vind-je-de-beste-manier-om-geweest-gewone-videos-terug-te-plakken-in-ur-prullenzak/"><u>Hoe Vind Je De Beste Manier Om Geweest Gewone Videos Terug Te Plakken in Ur Prullenzak?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-access-denied-file-and-folder-errors-on-windows/"><u>How to Fix Access Denied File and Folder Errors on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-endless-load-screen-in-among-us-and-enjoy-seamless-gameplay/"><u>How to Fix the Endless Load Screen in Among Us and Enjoy Seamless Gameplay</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-easycapture-pro-free-for-windows-10/"><u>In 2024, EasyCapture Pro - Free for Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-updated-samsung-m2020-carrier-modem-and-audio-interface-drivers-free/"><u>Install Updated Samsung M2020 Carrier Modem and Audio Interface Drivers - Free</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revive-deleted-notifications-a-comprehensive-tutorial-for-iphone-users/"><u>Revive Deleted Notifications: A Comprehensive Tutorial for iPhone Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/solution-rapide-pour-le-message-derreur-fichier-introuvable-dans-le-systeme-guide-des-10-astuces/"><u>Solution Rapide Pour Le Message D'erreur 'Fichier Introuvable Dans Le Système' - Guide Des 10 Astuces</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tecnicas-de-sincronizacion-instantanea-para-archivos-y-carpetas-en-windows-10-8-y-7-una-guia-completa/"><u>Técnicas De Sincronización Instantánea Para Archivos Y Carpetas en Windows 10, 8 Y 7: Una Guía Completa</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728488730883-windows-111087usb/"><u>Windows 11/10/8/7用に特別設計された究極のUSBバックアップソフトウェア</u></a></li>
 </ul></div>
 

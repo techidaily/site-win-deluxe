@@ -1,7 +1,7 @@
 ---
 title: Email Trends Shift Towards Mobiles as Desktop Use Drops - Insights From Massmail Data Analysis
-date: 2024-11-16T00:34:10.256Z
-updated: 2024-11-16T23:42:50.971Z
+date: 2024-11-21T18:03:32.615Z
+updated: 2024-11-26T16:41:55.707Z
 tags:
   - product
 categories:
@@ -36,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -45,10 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -73,54 +74,28 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -136,10 +111,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -153,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,15 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-keep-it-hot-ideas-for-uninterrupted-snapchat-connections/"><u>[New] 2024 Approved Keep It Hot - Ideas for Uninterrupted Snapchat Connections</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-dark-domain-vs-radiant-realm-the-final-face-off/"><u>[Updated] Dark Domain vs Radiant Realm The Final Face-Off</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-hit-top-rank-firstrow-pursuits-outside-sports/"><u>[Updated] In 2024, Hit Top Rank Firstrow Pursuits Outside Sports</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-simplified-avatars-navigating-the-metaverse-realm-for-2024/"><u>[Updated] Simplified Avatars Navigating the Metaverse Realm for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-anticipation-elevating-the-unboxing-experience/"><u>[Updated] The Art of Anticipation Elevating the Unboxing Experience</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/breaking-free-from-persistent-error-loops-on-pc-tips-and-tricks-for-windows-users-versions-10-81-8/"><u>Breaking Free From Persistent Error Loops on PC - Tips & Tricks for Windows Users (Versions 10, 8.1, 8)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comprendre-les-differences-cles-sauvegarde-du-systeme-vs-sauvegarde-sur-disque-dur-guide-complet/"><u>Comprendre Les Différences Clés : Sauvegarde Du Système Vs. Sauvegarde Sur Disque Dur - Guide Complet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-recover-accidentally-deleted-drives-on-windows-1011-a-step-by-step-guide/"><u>How to Recover Accidentally Deleted Drives on Windows 10/11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-users-guide-to-picture-softening-four-ways/"><u>IPhone Users' Guide to Picture Softening (Four Ways)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-conversion-rates-leveraging-email-campaigns-using-massmail-to-drive-sales-success/"><u>Mastering Conversion Rates: Leveraging Email Campaigns Using MassMail to Drive Sales Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-fb-top-10-crafting-engaging-songs-for-fb-videos-for-2024/"><u>[New] FB Top 10 Crafting Engaging Songs for FB Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capture-webpages-entirety-on-screen/"><u>[Updated] Capture Webpage's Entirety on Screen</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/conversion-simple-et-rapide-meilleur-logiciel-pour-cloner-votre-hdd-vers-une-nouvelle-ssd-samsung-860-pro/"><u>Conversion Simple Et Rapide: Meilleur Logiciel Pour Cloner Votre HDD Vers Une Nouvelle SSD Samsung 860 Pro</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/erhohen-sie-die-kapazitat-ihres-dell-xps-ssd-mit-zwei-unkomplizierten-klonverfahren/"><u>Erhöhen Sie Die Kapazität Ihres Dell XPS SSD Mit Zwei Unkomplizierten Klonverfahren</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-a14-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-elite-collection-best-kung-fu-arcade-games/"><u>In 2024, The Elite Collection Best Kung Fu Arcade Games</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-showdown-deciding-between-the-iphone-1nfone-14-pro-and-iphone-14-pro-max-a-detailed-guide-from-zdnet/"><u>IPhone Showdown: Deciding Between the iPhone 1Nfone 14 Pro and iPhone 14 Pro Max – A Detailed Guide From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/kein-risiko-fur-verlorene-dateien-professionelle-duplikate-mit-usb-stick-kopieren-1-zu-1-sichern/"><u>Kein Risiko Für Verlorene Dateien: Professionelle Duplikate Mit USB-Stick Kopieren 1 Zu 1 Sichern</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/meet-jonna-the-talented-writer-behind-the-bestseller-series/"><u>Meet Jonna: The Talented Writer Behind the Bestseller Series</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/resolving-issues-when-your-seagate-exernal-usb-drive-isnt-showing-up/"><u>Resolving Issues When Your Seagate Exernal USB Drive Isn't Showing Up</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/sin-syncback-las-soluciones-de-copia-de-seguridad-superiores-para-usuarios-de-apple/"><u>Sin SyncBack: Las Soluciones De Copia De Seguridad Superiores Para Usuarios De Apple</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728509306292-win11-ssd/"><u>Win11 自建磁碟到SSD切換手冊:一步一步解析</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-powered-disk-cloning-no-add-ons-needed/"><u>Windows-Powered Disk Cloning, No Add-Ons Needed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/xiaomi-13t-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Xiaomi 13T Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-best-practices-amplifying-video-and-audio-clarity-for-2024/"><u>YouTube's Best Practices Amplifying Video and Audio Clarity for 2024</u></a></li>
 </ul></div>
 
