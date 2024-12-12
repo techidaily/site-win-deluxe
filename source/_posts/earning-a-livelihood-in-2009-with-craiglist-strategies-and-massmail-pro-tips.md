@@ -1,7 +1,7 @@
 ---
 title: Earning a Livelihood in 2009 with Craiglist Strategies and MassMail Pro Tips
-date: 2024-12-03T05:57:30.081Z
-updated: 2024-12-06T10:24:42.621Z
+date: 2024-12-08T01:15:17.478Z
+updated: 2024-12-11T23:02:41.219Z
 tags:
   - product
 categories:
@@ -44,10 +44,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -66,12 +62,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -83,7 +83,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -94,20 +94,20 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,14 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-maximizing-vscos-potential/"><u>2024 Approved Expert Tips for Maximizing VSCO's Potential</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/5-effective-solutions-to-free-up-space-in-your-windows-10-recovery-area/"><u>5 Effective Solutions to Free Up Space in Your Windows 10 Recovery Area</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-how-to-disable-subtitles-on-amazon-prime-videos/"><u>A Step-by-Step Guide: How To Disable Subtitles On Amazon Prime Videos</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/bring-back-whats-yours-using-clonezilla-for-effortless-recovery-of-treasured-files-and-photos/"><u>Bring Back What's Yours: Using Clonezilla for Effortless Recovery of Treasured Files and Photos</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-deleting-data-from-iphone-using-stellar-software/"><u>Expert Tips on Deleting Data From iPhone Using Stellar Software</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/fehlerbehebung-wiederherstellungspunkt-nicht-gefunden-in-windows-11-losungen-und-schritte/"><u>Fehlerbehebung: Wiederherstellungspunkt Nicht Gefunden in Windows 11 - Lösungen Und Schritte</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-moto-g84-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Moto G84 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-transformers-cinematic-journey-a-viewers-guide-for-perfect-ordered-watching/"><u>The Complete Transformers Cinematic Journey: A Viewer's Guide for Perfect Ordered Watching</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728485721162-windows-11/"><u>Windows 11 システムセキュリティ設定・オンオフ方法</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-tiktok-facebook-content-exchange/"><u>[New] Navigating the TikTok-Facebook Content Exchange</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-pin-a-message-on-discord/"><u>[Updated] 2024 Approved How to Pin A Message on Discord?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-mastering-hd-video-the-best-android-players/"><u>[Updated] 2024 Approved Mastering HD Video The Best Android Players</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-yis-action-cam-breaking-barriers-with-4k-film/"><u>[Updated] Yi's Action Cam Breaking Barriers with 4K Film</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-filmoras-recipe-for-captivating-youtube-trailers/"><u>2024 Approved Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>2024 Approved Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/superduperwindows-10117/"><u>取代SuperDuper成為Windows 10、11或7用戶最好的同業中人選項</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-nokia-g42-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Nokia G42 5G?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-deplacer-avec-efficacite-les-fichiers-de-windows-10-vers-un-ssd-sans-clonage-direct/"><u>Comment Déplacer Avec Efficacité Les Fichiers De Windows 10 Vers Un SSD Sans Clonage Direct</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-methods-for-extracting-mp4-footage-from-memory-cards/"><u>Easy Methods for Extracting MP4 Footage From Memory Cards</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/einfache-methode-zum-backup-von-windows-10-dateien-und-einstellungen/"><u>Einfache Methode Zum Backup Von Windows 10 Dateien Und Einstellungen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/inkrementelles-tutorial-zum-einrichten-von-windows-xp-auf-einem-windows-10-system/"><u>Inkrementelles Tutorial Zum Einrichten Von Windows XP Auf Einem Windows 10 System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-levitns-latest-smart-home-gadgets-unveiling-the-groundbreaking-first-matter-outdoor-plug-tech-insight-from-zdnet/"><u>Introducing Levitn's Latest Smart Home Gadgets: Unveiling the Groundbreaking First Matter Outdoor Plug - Tech Insight From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-quality-western-digital-duplikat-software-professionelles-tool-zur-ubertragung-von-daten-von-hdds-auf-wd-ssd-modelle/"><u>Top Quality Western Digital Duplikat-Software: Professionelles Tool Zur Übertragung Von Daten Von HDDs Auf WD SSD Modelle</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-troubleshooting-manual-resolving-issues-with-your-antivirus-and-threat-shield/"><u>Ultimate Troubleshooting Manual: Resolving Issues with Your Antivirus & Threat Shield</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unraveling-the-differences-antivirus-software-versus-anti-malware-making-the-right-decision/"><u>Unraveling the Differences: Antivirus Software Versus Anti-Malware – Making the Right Decision</u></a></li>
 </ul></div>
 

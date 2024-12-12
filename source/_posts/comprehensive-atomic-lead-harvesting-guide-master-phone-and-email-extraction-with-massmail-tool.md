@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Atomic Lead Harvesting Guide: Master Phone & Email Extraction with MassMail Tool"
-date: 2024-11-29T18:48:44.866Z
-updated: 2024-12-06T10:41:11.558Z
+date: 2024-12-07T20:01:02.773Z
+updated: 2024-12-11T20:27:36.501Z
 tags:
   - product
 categories:
@@ -31,10 +31,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -66,29 +62,21 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,16 +86,24 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-slimsky-saver-big-files-low-costs/"><u>2024 Approved SlimSky Saver - Big Files, Low Costs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bring-back-the-boom-solutions-for-noise-problems-in-fallout-4-pc-games/"><u>Bring Back the Boom: Solutions for Noise Problems in Fallout 4 PC Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/cyberpunk/"><u>Cyberpunk 지구: 아름다운 소나타가 된 미완제의 시연에 대한 평가</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-troubleshooting-techniques-for-a-hot-running-cpu-by-yl-software-experts/"><u>Effective Troubleshooting Techniques for a Hot-Running CPU by YL Software Experts</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/immersive-slytherin-trio-scenes-high-quality-wallpapers-and-backgrounds-by-yl-computings-graphics/"><u>Immersive Slytherin Trio Scenes: High-Quality Wallpapers & Backgrounds by YL Computing's Graphics</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-note-30-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Note 30</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/october-witnesses-bitcoin-soaring-by-26-as-confirmed-by-yl-computing-and-yl-software-research-findings/"><u>October Witnesses Bitcoin Soaring by 26% as Confirmed by YL Computing and YL Software Research Findings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/roblox-low-memory-alert-fix-for-iphone-users-effective-strategies-and-solutions/"><u>Roblox Low Memory Alert Fix for iPhone Users: Effective Strategies and Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/solving-common-issues-a-guide-for-when-your-mouse-wont-work-right-expertise-by-yl-software-experts/"><u>Solving Common Issues: A Guide for When Your Mouse Won't Work Right - Expertise by YL Software Experts</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-11-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 11</u></a></li>
-<li><a href="https://win-help.techidaily.com/top-seleccion-de-software-para-copiar-windows-10-en-un-ssd-compacto/"><u>Top Seleccion De Software Para Copiar Windows 10 en Un SSD Compacto</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unraveling-the-influence-of-the-taiping-uprising-in-shaping-modern-chinese-society-and-politics-yl-computing-and-software-solutions/"><u>Unraveling the Influence of the Taiping Uprising in Shaping Modern Chinese Society and Politics | YL Computing & Software Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-10-top-must-have-gear-items-for-youtubers/"><u>[New] 2024 Approved 10 Top Must-Have Gear Items for YouTubers</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-compre-written-guide-to-the-latest-videoshow-version/"><u>[Updated] 2024 Approved Compre Written Guide to the Latest VideoShow Version</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-present-ppt-on-google-meet/"><u>[Updated] How to Present PPT on Google Meet?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-10-companion-apps-for-seamless-video-to-mp3-conversions/"><u>[Updated] In 2024, Top 10 Companion Apps for Seamless Video to Mp3 Conversions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-selecting-audio-for-your-movie-trailer/"><u>2024 Approved Selecting Audio for Your Movie Trailer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-hp-laserjet-5200-printer-driver-downloads-supported-on-windows-11-10-and-8-systems/"><u>Easy Guide to HP LaserJet 5200 Printer Driver Downloads - Supported on Windows 11, 10 & 8 Systems</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-email-strategies-insights-from-successful-brand-templates-with-massmail-software/"><u>Effective Email Strategies: Insights From Successful Brand Templates with MassMail Software</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-apply-for-a-complimentary-ssl-certificate-with-massmail-easy-setup-tutorial/"><u>How to Apply for a Complimentary SSL Certificate with MassMail - Easy Setup Tutorial</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/resolving-task-scheduler-malfunctions-in-windows-11/"><u>Resolving Task Scheduler Malfunctions in Windows 11</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/safeguard-your-ebay-venture-top-strategies-to-shield-yourself-from-online-auction-frauds-with-massmail-solutions/"><u>Safeguard Your eBay Venture: Top Strategies to Shield Yourself From Online Auction Frauds with MassMail Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-elite-circle-of-seo-experts-based-in-belfast-comprehensive-strategies-and-solutions-by-seo-pros/"><u>The Elite Circle of SEO Experts Based in Belfast: Comprehensive Strategies and Solutions by SEO Pros</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-list-of-ios-compatible-fb-videos-downloader-apps/"><u>The Ultimate List of iOS-Compatible FB Videos Downloader Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-sharpness-of-panasonics-hc-wxf991-camcorder/"><u>Unveiling the Sharpness of Panasonic's HC-WXF991 Camcorder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/km-bthmyl-mlfat-windows-togo-fy-alkrs-alkhargy-alishara-il-windows-11-10-8-9/"><u>قم بتحميل ملفات Windows ToGo في القرص الخارجي: الإشارة إلى Windows 11, 10, 8, 9</u></a></li>
 </ul></div>
 
