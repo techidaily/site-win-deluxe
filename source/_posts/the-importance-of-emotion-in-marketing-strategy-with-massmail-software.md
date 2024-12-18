@@ -1,7 +1,7 @@
 ---
 title: The Importance of Emotion in Marketing Strategy with MassMail Software
-date: 2024-12-08T02:13:32.826Z
-updated: 2024-12-11T21:57:26.334Z
+date: 2024-12-16T17:33:54.939Z
+updated: 2024-12-18T16:51:16.558Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -52,11 +52,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,6 +86,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -86,21 +98,17 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -109,10 +117,6 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-when-to-drop-new-episodes-podcast-wisdom/"><u>[New] In 2024, When to Drop New Episodes Podcast Wisdom</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-x-professional-audio-toolkit-personal-computing-for-2024/"><u>[New] X-Professional Audio Toolkit, Personal Computing for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-insights-into-youtube-live-image-crafting/"><u>[Updated] Essential Insights Into YouTube Live Image Crafting</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/win32/"><u>処理終了：エラー無くWin32レジストリのバックアップ専用ロックを確保する方法</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guida-completa-per-ripristinare-una-partizione-non-trovata-in-windows-11-utilizzando-le-fasi-di-recupero-specificate/"><u>Guida Completa per Ripristinare Una Partizione Non Trovata in Windows 11 Utilizzando Le Fasi Di Recupero Specificate</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-view-old-stories-on-facebook-for-2024/"><u>How to View Old Stories on Facebook for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/identifying-and-restoring-corrupted-email-messages-with-massmail-tech-tools/"><u>Identifying and Restoring Corrupted Email Messages with MassMail Tech Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-redmi-note-12r-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi Redmi Note 12R Easily?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728507856826-iphone3/"><u>IPhone圖片修復的3個最簡單技巧 - 真體驗有效性</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-email-metrics-in-2011-essential-kpis-and-innovative-techniques-with-massmail-tools/"><u>Mastering Email Metrics in 2011: Essential KPIs and Innovative Techniques with Massmail Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-website-rankings-a-deep-dive-into-page-strength-and-effective-seo-strategies-using-seo-powersuite/"><u>Mastering Website Rankings: A Deep Dive Into Page Strength and Effective SEO Strategies Using SEO PowerSuite</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-fps-range-for-gradual-action-footage-for-2024/"><u>Prime FPS Range for Gradual Action Footage for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-activatedeactivate-on-screen-keyboard-function-in-windows-10-easily/"><u>Step-by-Step Tutorial: Activate/Deactivate On-Screen Keyboard Function in Windows 10 Easily</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728473941873-windows-11/"><u>Windows 11で自動バックアップのためにバッチファイルを利用する詳細ガイド</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skew-it-right-a-step-by-step-guide-for-photo-warping/"><u>[New] Skew It Right A Step-by-Step Guide for Photo Warping</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-seamless-video-playback-a-facebook-feature-explanation/"><u>[Updated] 2024 Approved Seamless Video Playback A Facebook Feature Explanation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-examining-social-media-comment-standouts/"><u>[Updated] Examining Social Media Comment Standouts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlining-your-iphone-memo-experience/"><u>[Updated] In 2024, Streamlining Your iPhone Memo Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/7-premier-pickx-best-free-audio-players-for-mobile-users-iosandroid-included/"><u>7 Premier PickX: Best Free Audio Players for Mobile Users (iOS/Android Included)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728509265215-windows-10-windows-11/"><u>恢復 Windows 10：移回過渡到 Windows 11後的原始系統 - 三種可行解決辦法</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-reinitialiser-le-bureau-lenovo-thinkcentre-en-mode-de-fabrication-dorigine-methodes-completes/"><u>Comment Réinitialiser Le Bureau Lenovo ThinkCentre en Mode De Fabrication D'Origine? - Méthodes Complètes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-intel-network-driver-now-compatible-with-windows-11-10-and-7/"><u>Get Your Intel Network Driver Now: Compatible with Windows 11, 10, and 7</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guide-detaille-mettre-en-ordre-le-demarrage-de-windows-server-201solutions-rapides-et-fiables/"><u>Guide Détaillé: Mettre en Ordre Le Démarrage De Windows Server 201_Solutions Rapides Et Fiables</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-ios-18-easy-ways-to-personalize-the-control-center-on-your-iphone/"><u>Mastering iOS 18: Easy Ways to Personalize the Control Center on Your iPhone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/organizational-management-of-antivirus-and-security-measures-a-comprehensive-overview-with-malwarefox-solutions/"><u>Organizational Management of Antivirus & Security Measures: A Comprehensive Overview with MalwareFox Solutions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/server-2016-has-been-replaced-with-the-newer-version-server-2019-but-still-maintains-relevance-for-users-who-might-be-updating-their-servers-from-an-older-t157/"><u>Server 2016 Has Been Replaced with the Newer Version, Server 2019, but Still Maintains Relevance for Users Who Might Be Updating Their Servers From an Older to a Newer Model.</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-converter-for-edb-convert-large-edb-file-to-pst/"><u>Stellar Converter for EDB Convert Large EDB File to PST</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/story-2-the-predator-introduction-pitfall/"><u>Story 2: The Predator Introduction Pitfall</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-prevent-darkened-screens-while-gaming-on-win/"><u>Strategies to Prevent Darkened Screens While Gaming on WIN</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-qi2-charging-revolution-unveiled-how-this-all-in-one-solution-is-set-to-delight-apple-users-detailed-insights-from-zdnet/"><u>The Qi2 Charging Revolution Unveiled: How This All-in-One Solution Is Set to Delight Apple Users – Detailed Insights From ZDNET</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-4-simple-strategies-for-effective-mi-to-mi-data-transfers/"><u>Top 4 Simple Strategies for Effective MI-to-MI Data Transfers</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/wave-browser-malware-effective-methods-for-quick-removal/"><u>Wave Browser Malware: Effective Methods for Quick Removal</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/uskorennaya-migraciya-fajlov-s-hdd-na-ssd-v-windows-1011-dva-sposoba-dlya-polzovatelej/"><u>Ускоренная Миграция Файлов С HDD На SSD В Windows 10/11: Два Способа Для Пользователей</u></a></li>
 </ul></div>
 

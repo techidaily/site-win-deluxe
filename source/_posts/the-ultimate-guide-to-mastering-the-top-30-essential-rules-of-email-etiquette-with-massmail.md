@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Mastering the Top 30 Essential Rules of Email Etiquette with MassMail
-date: 2024-12-09T07:59:02.898Z
-updated: 2024-12-11T21:05:05.446Z
+date: 2024-12-15T17:09:12.095Z
+updated: 2024-12-18T17:31:55.951Z
 tags:
   - product
 categories:
@@ -36,10 +36,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -53,6 +49,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -75,7 +75,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -86,21 +86,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -111,7 +111,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,19 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-audio-integration-in-online-journals/"><u>[New] 2024 Approved The Art of Audio Integration in Online Journals</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-the-strategists-approach-to-locating-and-joining-specialized-discord-channels/"><u>[New] The Strategist's Approach to Locating and Joining Specialized Discord Channels</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-navigating-ppt-presentations-successfully-in-google-meet/"><u>[Updated] Navigating PPT Presentations Successfully in Google Meet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-converting-twitter-video-lyrics-to-custom-gif-animations/"><u>2024 Approved Converting Twitter Video Lyrics to Custom GIF Animations</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-resetting-your-youtube-reputation/"><u>2024 Approved Resetting Your YouTube Reputation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-vr-headset-companies/"><u>2024 Approved Top VR Headset Companies</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/fastest-way-to-discover-contacts-leveraging-massmail-solutions/"><u>Fastest Way to Discover Contacts: Leveraging MassMail Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-does-the-samsung-galaxy-s10plus-stack-up-against-its-successor-the-s20/"><u>How Does the Samsung Galaxy S10+ Stack Up Against Its Successor, the S20?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-fix-windows-11-not-detecting-cddvd-drives-a-comprehensive-guide/"><u>How to Fix Windows 11 Not Detecting CD/DVD Drives: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>In 2024, The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategic-wordplay-crafting-engaging-blurbs-for-2024/"><u>Strategic Wordplay Crafting Engaging Blurbs for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/syncing-messages-between-iphones-seamlessly-no-backup-required/"><u>Syncing Messages Between iPhones Seamlessly, No Backup Required</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-pbns-a-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding PBNs: A Comprehensive Guide with Essential SEO Strategies</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-5-analogi-spyfu-stati-i-seo-powersuite-alternativy/"><u>Топ-5 Аналоги SpyFu: Статьи И SEO PowerSuite Альтернативы</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ultimate-ranking-the-leading-15-affordable-online-image-editors/"><u>[New] 2024 Approved Ultimate Ranking The Leading 15 Affordable Online Image Editors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-top-analytics-platforms-for-better-instagram-metrics-for-2024/"><u>[New] The Essential Guide to Top Analytics Platforms for Better Instagram Metrics for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-webcam-use-for-professional-meeting-records/"><u>[Updated] Mastering Webcam Use for Professional Meeting Records</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y78-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y78 5G Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-se-2020-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone SE (2020) & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-mac-screen-recorder-with-audio-for-2024/"><u>Best Mac Screen Recorder with Audio for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-access-and-manage-the-pdf-recycling-feature-in-adobe-acrobat/"><u>How to Access and Manage the PDF Recycling Feature in Adobe Acrobat</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-expand-your-storage-a-step-by-step-cloning-guide-from-small-ssd-to-bigger-drive-comparison/"><u>How To Expand Your Storage: A Step-by-Step Cloning Guide From Small SSD to Bigger Drive Comparison</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastery-di-clonazione-dischi-ssd-con-mbr-per-una-partenza-sicura-su-windows/"><u>Mastery Di Clonazione Dischi SSD Con MBR per Una Partenza Sicura Su Windows</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/when-working-with-clients-with-many-problems-it-is-best-to-set-how-many-initial-goals/"><u>When Working with Clients with Many Problems, It Is Best to Set How Many Initial Goals?</u></a></li>
 </ul></div>
 

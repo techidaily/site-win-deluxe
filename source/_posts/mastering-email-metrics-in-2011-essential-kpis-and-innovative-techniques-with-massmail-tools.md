@@ -1,7 +1,7 @@
 ---
 title: "Mastering Email Metrics in 2011: Essential KPIs and Innovative Techniques with Massmail Tools"
-date: 2024-12-07T06:43:11.637Z
-updated: 2024-12-12T03:08:07.804Z
+date: 2024-12-12T18:33:40.655Z
+updated: 2024-12-18T16:56:29.492Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -39,10 +39,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -59,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,33 +70,41 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,21 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevate-your-social-media-presence-h-videos-reimagined-for-igtv/"><u>[New] 2024 Approved Elevate Your Social Media Presence H-Videos Reimagined for IGTV</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-shorts-a-step-by-step-creation-guide/"><u>[New] Mastering YouTube Shorts A Step-by-Step Creation Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-navigating-iphone-camera-not-auto-focusing-woes/"><u>[New] Navigating iPhone Camera Not Auto-Focusing Woes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficient-methods-for-acquiring-and-implementing-newest-epson-printer-drivers-on-a-windows-10-system/"><u>Efficient Methods for Acquiring and Implementing Newest Epson Printer Drivers on a Windows 10 System</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/fixing-issues-why-is-my-windows-1011s-wd-backup-feature-failing-solutions-inside/"><u>Fixing Issues: Why Is My Windows 10/11'S WD Backup Feature Failing? Solutions Inside!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/gratis-herunterladen-von-windows-10-recovery-tool-handbuch-aktuelle-anleitung-fur-2024/"><u>Gratis Herunterladen Von Windows 10 Recovery Tool Handbuch - Aktuelle Anleitung Für 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/gratuit-creeksels-bewerking-voor-ongelukt-formatierde-hard-disk/"><u>Gratuit Creeksels Bewerking Voor Ongelukt Formatierde Hard Disk</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ipad/"><u>IPad重建失去的記事本：緊急修復沒有後備版本時，這是解決方法</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723203255101-kb4056892-windows-10-update-wont-install-solved/"><u>KB4056892 Windows 10 Update Won't Install [SOLVED]</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/optimal-live-streaming-scenery-ideas-for-2024/"><u>Optimal Live Streaming Scenery Ideas for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-accessing-and-downloading-podcasts-via-apple-device-for-2024/"><u>Step-by-Step Accessing & Downloading Podcasts via Apple Device for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-virus-cleanup-process-with-the-help-of-malwarefox-tool/"><u>Step-by-Step Virus Cleanup Process with the Help of MalwareFox Tool</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows-11-reparieren-ohne-installationsmedien-effizientes-losungstutorial/"><u>Windows 11 Reparieren Ohne Installationsmedien – Effizientes Lösungstutorial</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/zwei-einfache-methoden-zum-sicheren-loschen-einer-sandisk-ssd-auf-einem-windows-rechner/"><u>Zwei Einfache Methoden Zum Sicheren Löschen Einer Sandisk SSD Auf Einem Windows-Rechner</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-benq-bl2711u-revealed-embracing-the-future-of-4k-technology/"><u>[New] BenQ BL2711U Revealed Embracing the Future of 4K Technology</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-direct-capture-screen-record-on-pcmac-plus-youtube-upload/"><u>[New] In 2024, Direct Capture Screen Record on PC/Mac + YouTube Upload</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-appreciation-showcase-outro-themes-for-all-budgets/"><u>[Updated] Appreciation Showcase Outro Themes for All Budgets</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-navigate-to-fun-with-tiktok-download-and-setup-for-macbook-for-2024/"><u>[Updated] Navigate to Fun with TikTok Download & Setup for MacBook for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-patching-the-full-screen-problem-in-obs/"><u>[Updated] Patching the Full-Screen Problem in OBS</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-hiren-boot-cd-disk-erasure-process-explained-in-detail/"><u>1. Hiren Boot CD Disk Erasure Process Explained in Detail</u></a></li>
+<li><a href="https://games-able.techidaily.com/busting-the-mystery-top-four-reasons-for-high-vr-prices/"><u>Busting the Mystery: Top Four Reasons for High VR Prices</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-ranking-guide-best-seo-firms-in-birmingham-your-ultimate-resource/"><u>Comprehensive Ranking Guide: Best SEO Firms in Birmingham - Your Ultimate Resource</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-the-power-of-nuc-like-amd-ryzen-mini-pc-with-a-stunning-4k-touchscreen-impressive-ryzen-9-6900hx-cpu-and-ultra-fast-storage/"><u>Discover the Power of NUC-Like AMD Ryzen Mini PC with a Stunning 4K Touchscreen, Impressive Ryzen 9 6900HX CPU, and Ultra Fast Storage!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-strategies-for-handling-partition-issues-using-acronis-disk-director/"><u>Effective Strategies for Handling Partition Issues Using Acronis Disk Director</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/exploring-superior-options-to-buzzsumo-for-in-depth-content-insights-and-effective-seo-techniques-the-ultimate-toolkit/"><u>Exploring Superior Options to BuzzSumo for In-Depth Content Insights and Effective SEO Techniques | The Ultimate Toolkit</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guia-paso-a-paso-para-crear-una-imagen-del-sistema-con-windows-10/"><u>Guía Paso a Paso Para Crear Una Imagen Del Sistema Con Windows 10</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guide-sharing-tunes-via-facetime-on-iphone-with-ios-15-upgrade/"><u>Guide: Sharing Tunes via Facetime on iPhone with iOS 15 Upgrade</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-facebook-visual-exploration-a-step-by-step-guide/"><u>Mastering Facebook Visual Exploration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-forex-strategies-utilizing-bollinger-bands-on-the-mt4-platform/"><u>Mastering Forex Strategies: Utilizing Bollinger Bands on the MT4 Platform</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728504445523-office/"><u>Office</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/showmore-screen-recorder-review-2023-for-2024/"><u>ShowMore Screen Recorder Review 2023 for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unlocking-search-success-how-google-webmaster-tools-shape-your-seo-strategy-for-higher-visibility/"><u>Unlocking Search Success: How Google Webmaster Tools Shape Your SEO Strategy for Higher Visibility</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Referers: Comprehensive Guide & Top SEO Strategies with SEO PowerSuite"
-date: 2024-12-05T06:25:29.157Z
-updated: 2024-12-12T04:18:06.231Z
+date: 2024-12-12T18:11:39.804Z
+updated: 2024-12-18T18:09:33.408Z
 tags:
   - wiki
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 >
 
 ## Referer
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 In the context of the web, a referer (comes from the misspelled word _referrer_) is the URL of the previous webpage that linked to the current webpage[\[1\]](https://tools.techidaily.com/link-assistant/products/). It is used to identify where the user came from, and can be used to track user behavior and help websites understand how they are being accessed. The referer information is sent as a header field in an HTTP request, and can be used by the server to customize the content or behavior of the webpage based on where the user came from.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Functionality
@@ -43,10 +47,6 @@ In the context of the web, a referer (comes from the misspelled word _referrer_)
 In [HTML](https://tools.techidaily.com/link-assistant/products/), the referer information is not directly accessible to the webpage itself. Instead, it is passed as a header field in the HTTP request that is sent from the browser to the server when the webpage is requested. The server can then use this information to customize the content or behavior of the webpage in various ways.
 
 One way to access the referer information on the server-side is to use the $\_SERVER\['HTTP\_REFERER'\] variable in PHP, or the request.headers.referer property in Node.js. On the client-side, you can use the Document.referrer property in JavaScript to access the referer information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Example
 
@@ -70,16 +70,12 @@ Note that the Document.referrer property is not always reliable, as it can be bl
 
 There are a few ways that users can stop the transmission of the referer information:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use a private browsing mode
 
 Many web browsers have a "private" or "incognito" mode that prevents the browser from storing history, search queries, and other data that could be used to track the user's activity. When private browsing mode is enabled, the browser will typically not send a referer header in HTTP requests.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use a third-party privacy extension
@@ -91,7 +87,7 @@ There are a number of browser extensions that can block or modify the referer he
 In some cases, it may be possible to disable the referer header by modifying the browser settings. For example, in Mozilla Firefox, you can go to "Privacy & Security" in the Options menu, and then uncheck the "Send referrer header" option under the "Tracking Protection" section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use a different protocol
@@ -99,6 +95,10 @@ In some cases, it may be possible to disable the referer header by modifying the
 If you need to access a webpage over a secure (HTTPS) connection, but the referer header is being blocked or modified, you can try using a different protocol, such as HTTP or FTP, to access the webpage. This will bypass the referer header entirely, but it may not be possible in all cases.
 
 Keep in mind that while these methods can help to reduce the transmission of the referer information, they may not be completely effective in all cases, and they may have other trade-offs in terms of privacy and security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -119,20 +119,16 @@ Keep in mind that while these methods can help to reduce the transmission of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ivot-your-playlists-with-these-straightforward-tricks/"><u>[New] Pivot Your Playlists with These Straightforward Tricks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-imovies-crop-technique-a-guide-for-2024/"><u>[Updated] IMovie's Crop Technique A Guide for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-vanquish-virtual-spectators-boosting-youtube-traffic/"><u>[Updated] In 2024, Vanquish Virtual Spectators Boosting YouTube Traffic</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-innovative-techniques-for-captivating-fb-video-content-for-2024/"><u>[Updated] Innovative Techniques for Captivating FB Video Content for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-unlocking-creative-potential-turning-graphics-into-stickers-on-chat-apps/"><u>2024 Approved Unlocking Creative Potential Turning Graphics Into Stickers on Chat Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/becoming-a-film-director-follow-these-5-key-stages-for-success/"><u>Becoming a Film Director? Follow These 5 Key Stages for Success!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/complete-process-of-shifting-a-sim-card-from-android-device-to-iphone/"><u>Complete Process of Shifting a SIM Card From Android Device to iPhone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-the-red-dead-redemption-2-wont-start-error/"><u>Expert Advice on Fixing the 'Red Dead Redemption 2 Won't Start' Error</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/hoe-vind-je-de-beste-manier-om-geweest-gewone-videos-terug-te-plakken-in-ur-prullenzak/"><u>Hoe Vind Je De Beste Manier Om Geweest Gewone Videos Terug Te Plakken in Ur Prullenzak?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-breaking-down-how-to-skip-edgenuity-videos-easily/"><u>In 2024, Breaking Down How To Skip Edgenuity Videos Easily</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/professioneller-umrustungsleitfaden-fur-ssd-auf-ihren-lenovo-ideapad-l340/"><u>Professioneller Umrüstungsleitfaden Für SSD Auf Ihren Lenovo Ideapad L340</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/solution-rapide-pour-le-message-derreur-fichier-introuvable-dans-le-systeme-guide-des-10-astuces/"><u>Solution Rapide Pour Le Message D'erreur 'Fichier Introuvable Dans Le Système' - Guide Des 10 Astuces</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tecnicas-de-sincronizacion-instantanea-para-archivos-y-carpetas-en-windows-10-8-y-7-una-guia-completa/"><u>Técnicas De Sincronización Instantánea Para Archivos Y Carpetas en Windows 10, 8 Y 7: Una Guía Completa</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-tips-for-restoring-lost-bookmarks-in-google-chrome-top-4-methods/"><u>Ultimate Tips For Restoring Lost Bookmarks In Google Chrome – Top 4 Methods</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728498920325-4/"><u>インコモン・トラブルシューティング：ゴミ箱削除後、データを取り戻す4方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-more-than-just-watch-time-understanding-youtube-views-calculation/"><u>[Updated] 2024 Approved More than Just Watch Time Understanding YouTube Views Calculation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-superstars-with-a-subscriber-base-for-2024/"><u>[Updated] Superstars with a Subscriber Base for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/accelerez-votre-virtual-machine-hyper-v-rapidement-conseils-doptimisation-efficace/"><u>Accélérez Votre Virtual Machine Hyper-V Rapidement : Conseils D'Optimisation Efficace</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bridging-apple-tvplus-with-chromecast-a-step-by-step-tutorial-for-easy-content-sharing/"><u>Bridging Apple TV+ with Chromecast: A Step-by-Step Tutorial for Easy Content Sharing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-opinion-on-mophies-powerstation-ac-charger-worth-every-penny-for-its-ease-of-use/"><u>Expert Opinion on Mophie's Powerstation AC Charger - Worth Every Penny for Its Ease of Use</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-dissecting-and-ranking-cost-saving-clouds/"><u>In 2024, Dissecting and Ranking Cost-Saving Clouds</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ssdhddwindows-1110/"><u>SSDをHDDに移行するためのWindows 11/10フリー・チュートリアル【ステップバイステップ】</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-when-sea-of-thieves-refuses-to-launch-correctly/"><u>Step-by-Step Fix for When Sea of Thieves Refuses to Launch Correctly</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-editing-account-preferences-in-control-panel-for-yl-software-users/"><u>Step-by-Step Tutorial: Editing Account Preferences in Control Panel for YL Software Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/iques-for-exceptional-audio-recording-without-a-mic/"><u>Techniques for Exceptional Audio Recording without a Mic</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-step-by-step-tutorial-preventing-contact-sync-on-your-iphone/"><u>Ultimate Step-by-Step Tutorial: Preventing Contact Sync on Your iPhone</u></a></li>
 </ul></div>
 
