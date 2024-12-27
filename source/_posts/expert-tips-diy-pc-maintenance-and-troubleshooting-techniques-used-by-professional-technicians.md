@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians"
-date: 2024-10-19T11:15:28.197Z
-updated: 2024-10-19T19:16:20.605Z
+date: 2024-12-20T04:10:04.898Z
+updated: 2024-12-27T03:46:34.792Z
 tags:
   - product
   - antivirus
@@ -32,13 +32,6 @@ If something happens to your computer, you call the service repair guys to fix t
 
 If your computer is slow and not responding correctly, then you can do a few things to fix it. You need to remove the unnecessary software from your computer. They clogged the hard drive and slowed down your computer. So visit control panel and remove apps that you don’t use. Also, you should delete unnecessary files from your hard drive. If your hard drive is almost full, then your computer is not going to work fast. You can also consider upgrading to SSDs; they are faster than HDD. Your computer saves some temporary files; sometimes when the PC has lots of temporary files it slows down, so delete the temporary files. To do that press the **Windows** button and **R** together to open the run dialogue. Now type **%temp%** and press **enter**.![Delete Temporary Files 1](https://www.malwarefox.com/wp-content/uploads/2019/01/Delete-Temporary-Files-1.jpg)You will see the temporary file window, now **select all files** and the press **Shift key & Del** button together. Lots of startup apps also slow down your computer. They keep running in the background and use the system resources. So, you can remove unnecessary startup application to boost the speed of your computer. **Right click** on the taskbar and choose **Task Manager**.![How to Fix Computer like Service Reapir Guys](https://www.malwarefox.com/wp-content/uploads/2019/01/Launch-Task-Manager-1.jpg)Now click on the **Startup** tab. To disable the startup of an application **select the app** and click on the **Disable** button. You can disable the unnecessary apps but make sure to leave the necessary software like antivirus.![Disable Startup Apps](https://www.malwarefox.com/wp-content/uploads/2019/01/Disable-Startup-Apps.jpg)To increase the speed of your computer you can also run the disk defragment tool. Open **My Computer** and **right-click** on the partition and choose **Properties**.![Disk Optimize](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Optimize-1.jpg)Now click on the **Tools** tab, and then click on **Optimize** under Optimize and defragment the drive.![Defrag the Drive 1](https://www.malwarefox.com/wp-content/uploads/2019/01/Defrag-the-Drive-1.jpg)Now select a drive and click on **Optimize**.![Defrag the Drive 2](https://www.malwarefox.com/wp-content/uploads/2019/01/Defrag-the-Drive-2.jpg)You can also run the Disk Cleanup tool to free some storage so that your PC runs smoothly. To do that again go to My Computer and **right click** on the partition and choose **Properties**.![Disk Optimize](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Optimize-1.jpg)On the **General** tab click on **Disk Cleanup**.![Disk Cleanup 1](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Cleanup-1.jpg)It will analyze the storage that can be free. You can select the files to remove in the next window.![Disk Cleanup 2](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Cleanup-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Removing Malware or Virus
 
 How many times did you pay someone to remove the virus infection from your PC? Removing viruses and malware is not rocket science. There are lots of tools that automatically scan and remove viruses from the system. Then why to pay for this. Yes, you may need to purchase the antivirus tools for this. But, the service repair guys always take extra charge from you.
@@ -48,10 +41,7 @@ How many times did you pay someone to remove the virus infection from your PC? R
 There are lots of good antivirus and antimalware you can purchase their subscription and clean your PC. All you have to do is to install the antivirus and run the scan. Sometimes, viruses don’t let you download antivirus. To overcome from this situation download the tool on some other computer and then boot your PC in safe mode then install the antivirus. To run the Windows in safe mode press **Ctrl+F8** key during the startup and choose safe mode.![](https://www.malwarefox.com/wp-content/uploads/2017/10/MalwareFox-1.jpg)Install the MalwareFox anti-malware to remove the nasty malware infection from your system. It is capable of eliminating ransomware, spyware, [rootkits](https://tools.techidaily.com/malwarefox/products/), [trojans](https://tools.techidaily.com/malwarefox/products/), [browser hijackers](https://tools.techidaily.com/malwarefox/products/) efficiently. Its interface is simple, and you can operate it smoothly. \[thrive\_link color=’red’ link=’https://www.malwarefox.com/free-download/’ target=’\_blank’ size=’medium’ align=’aligncenter’\]Download MalwareFox\[/thrive\_link\]
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgrading or Changing Computer’s Part
@@ -62,29 +52,27 @@ If you want to upgrade some part on your machine, then you don’t need to pay f
 
 When you accidentally deleted an important file, and it is not in the recycle bin, then you call so-called data recovery guys to do the job for you. They don’t have magical powers to recover your files. They use some tools to recover the deleted files. So you can use that yourself.![Recovering Deleted Data](https://www.malwarefox.com/wp-content/uploads/2017/12/6.png)When you delete a file from the hard drive, it doesn’t get removed immediately. The system just removes its name from the index file. So you cannot find it. Some tools scan for such data and help you to recover them. Such a tool is [Recuva](https://www.ccleaner.com/recuva). It is developed by Piriform and comes in free and paid version. For me, its a life saver. If it doesn’t do the job, then you can switch to some paid recovery software. But before investing money research a little bit about the product. There are lots of fake products in the market.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing Windows Errors
 
 If you are getting a windows error, then there is no need to call service repair guys. You can fix those errors with yourself with a little bit of research. When you receive an error window provide an error code to identify it. Note down the error code and search about it on the internet. I am sure you will find a solution.![Windows Repair by Tweaking.com](https://www.malwarefox.com/wp-content/uploads/2017/12/1.png)If you want a more simple solution, then download a system repair tool. [Windows Repair by Tweaking.com](http://www.tweaking.com/) is such a software. It automatically scans for missing system files and registry entry and fixes them. [Iolo System Mechanic](https://www.iolo.com/products/system-mechanic-professional/) is another useful tool in such cases.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reinstalling the Operating System
 
 If nothing is working, then you can reinstall the operating system by yourself. Reinstalling the OS will fix most of your issues. It will [fix the slow down problem](https://www.windowschimp.com/fix-slow-boot/) and also replaces the missing and corrupted system files. Your system will be restored to default settings, and you can have a fresh PC. You can use Windows CD/DVD to reinstall it or also can use inbuilt reset tool. To [reset the Windows 10](https://www.windowschimp.com/factory-reset-windows-10/), right click on the Start button and choose Settings. Now click on Update & Security. Then click on Recovery in the left side pane. Then click on the Get started under Reset this PC. You will see two options, one is Keep my files, and the other one is Remove everything. Keep my files will remove apps and settings but won’t delete your personal files. However, the remove everything option will remove everything from your PC including your personal data. Choose an option and then follow the screen instruction to reset Windows 10\. Check [best computer repair software used by technicians](https://tools.techidaily.com/malwarefox/products/) to avoid meeting them.
 
 ![TotalAv Logo](https://www.malwarefox.com/wp-content/uploads/2024/02/totalav-svg.webp "totalav-svg")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Stay malware-free with reliable antivirus**
 
@@ -99,6 +87,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 ✔️ 30 Day Money-Back
 
 [](https://tools.techidaily.com/malwarefox/products/) Get TotalAV > 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -125,18 +117,14 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-rhythmic-reconnaissance-video-music-matchmaking/"><u>[New] Rhythmic Reconnaissance Video Music Matchmaking</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-key-iphone-shot-design-guidelines-unveiled/"><u>[Updated] In 2024, Key iPhone Shot Design Guidelines Unveiled</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/android-playground-the-hottest-wildlife-games/"><u>Android Playground The Hottest Wildlife Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hdr-reality-check-does-aurora-meet-expectations-for-2024/"><u>HDR Reality Check Does Aurora Meet Expectations for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/kein-risiko-fur-verlorene-dateien-professionelle-duplikate-mit-usb-stick-kopieren-1-zu-1-sichern/"><u>Kein Risiko Für Verlorene Dateien: Professionelle Duplikate Mit USB-Stick Kopieren 1 Zu 1 Sichern</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/meet-jonna-the-talented-writer-behind-the-bestseller-series/"><u>Meet Jonna: The Talented Writer Behind the Bestseller Series</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-s17e-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo S17e</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/resolving-issues-when-your-seagate-exernal-usb-drive-isnt-showing-up/"><u>Resolving Issues When Your Seagate Exernal USB Drive Isn't Showing Up</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/sin-syncback-las-soluciones-de-copia-de-seguridad-superiores-para-usuarios-de-apple/"><u>Sin SyncBack: Las Soluciones De Copia De Seguridad Superiores Para Usuarios De Apple</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tutorial-come-eseguire-il-backup-di-una-installazione-windowslinux-su-unssd-con-partizioni-separate/"><u>Tutorial: Come Eseguire Il Backup Di Una Installazione Windows/Linux Su Un'SSD Con Partizioni Separate</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728509306292-win11-ssd/"><u>Win11 自建磁碟到SSD切換手冊:一步一步解析</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-influencer-collaborations-impacting-video-view-counts/"><u>[Updated] 2024 Approved Influencer Collaborations Impacting Video View Counts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-a-streamers-dream-unifying-obs-and-zoom-with-steps/"><u>2024 Approved A Streamer's Dream Unifying OBS & Zoom with Steps</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-troubleshooting-techniques-for-a-hot-running-cpu-by-yl-software-experts/"><u>Effective Troubleshooting Techniques for a Hot-Running CPU by YL Software Experts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/immersive-slytherin-trio-scenes-high-quality-wallpapers-and-backgrounds-by-yl-computings-graphics/"><u>Immersive Slytherin Trio Scenes: High-Quality Wallpapers & Backgrounds by YL Computing's Graphics</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/october-witnesses-bitcoin-soaring-by-26-as-confirmed-by-yl-computing-and-yl-software-research-findings/"><u>October Witnesses Bitcoin Soaring by 26% as Confirmed by YL Computing and YL Software Research Findings</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/solving-common-issues-a-guide-for-when-your-mouse-wont-work-right-expertise-by-yl-software-experts/"><u>Solving Common Issues: A Guide for When Your Mouse Won't Work Right - Expertise by YL Software Experts</u></a></li>
+<li><a href="https://win-web3.techidaily.com/understanding-the-utilization-of-comments-feature-in-aomei-backup-software/"><u>Understanding the Utilization of Comments Feature in AOMEI Backup Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-live-thumbnails-a-comprehensive-look-for-2024/"><u>YouTube Live Thumbnails A Comprehensive Look for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/1728479305695-windows/"><u>フォルダを効率的に同期するための理想的な Windows プログラム</u></a></li>
 </ul></div>
 

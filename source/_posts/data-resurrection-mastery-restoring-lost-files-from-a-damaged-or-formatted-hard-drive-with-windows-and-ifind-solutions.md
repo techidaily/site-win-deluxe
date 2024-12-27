@@ -1,7 +1,7 @@
 ---
 title: "Data Resurrection Mastery: Restoring Lost Files From a Damaged or Formatted Hard Drive with Windows and iFinD Solutions"
-date: 2024-12-17T16:17:55.359Z
-updated: 2024-12-18T16:45:41.739Z
+date: 2024-12-24T05:45:25.650Z
+updated: 2024-12-27T05:43:27.468Z
 tags:
   - product
 categories:
@@ -16,9 +16,17 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Recover Hard Drive Data After Formatting/Failure/Broken? \[Windows\]
 
 * ![Recover Hard Drive Data](https://www.ifind-recovery.com/wp-content/uploads/2024/03/1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Has your heart ever dropped, realizing that precious family photos or critical business files in your external hard drive are lost because the hard drive was incidentally formatted or corrupted? We’ve all been there! It’s a cold sweat moment when you realize your digital memories and valuable data are gone instantly.
 
@@ -28,12 +36,16 @@ Whatever the hard drive data loss scenarios, it feels like your digital life is 
 [2: How to Recover Lost Files from a Formatted or Failed Hard Drive for Free?](https://www.ifind-recovery.com/how-to/how-to-recover-hard-drive-data-after-formatting-failure-broken-windows/#part2)  
 [3: Common Data Loss Scenarios](https://www.ifind-recovery.com/how-to/how-to-recover-hard-drive-data-after-formatting-failure-broken-windows/#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Standards of a Good Data Recovery Tool
 
 Why not use a data recovery tool to **recover files from your formatted hard drive**? Data recovery is not new words. When you just type ‘data recovery software’ in search engine, there are enormous results. However, finding a good data recovery tool out of these results, it’s not easy. Before teaching you how to recover your lost files from the formatted hard drive, I’d like to teach you how to tell a professional data recovery tool. You can also skip to the next part of how to recover guide (more hereof later).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Advanced Recovery Algorithms
@@ -48,6 +60,10 @@ One of the most common data loss scenarios is the accidental deletion or formatt
 
 Whether you have accidentally deleted a crucial document or your precious family photos, no matter the [recovery file types are excel](https://www.ifind-recovery.com/how-to/recover-excel-file/), doc., PowerPoint, JPG., PNG, GIF., etc., this tool can help you easily recover them all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fast and Efficient Performance
 
 Time is of the essence when it comes to data recovery, and the [best data recovery tool](https://www.ifind-recovery.com/how-to/best-data-recovery-software-for-windows-and-mac-for-2024/) understands this well. The software is designed to deliver fast and efficient performance, minimizing the time required for scanning and recovering data.
@@ -60,23 +76,19 @@ The professional data recovery software boasts an extensive file support system 
 
 Its comprehensive file support ensures you can retrieve valuable data regardless of format or file type.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Resolves Any Data Loss Situations
 
 Apart from losing data from a formatted hard drive, there are many other situations that you faced to get the lost data back. Maybe you accidentally dragged your Ph.D. thesis into the trash can icon and then emptied it. Perhaps a sudden power outage corrupted your external drive. Or a pesky piece of malware found its way onto your computer, encrypted and holding your files for ransom.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Scan Result List
 
 A recommended data recovery tool understands the importance of time and efficiency in data recovery scenarios. It must offer a “Scan Result List” feature, which allows you to save each scan result.
 
 This functionality can be a true time-saver, as you won’t have to start the scanning process from scratch whenever you need to recover data. Instead, you can access the saved scan results and continue from where you left off, streamlining the recovery process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## User-Friendly Interface
 
@@ -99,6 +111,10 @@ The [iFinD Data Recovery](https://www.ifind-recovery.com/) tool is a comprehensi
 Its cutting-edge algorithms and techniques can scan and recover data from a wide range of storage devices, including hard disk drives (HDDs), solid-state drives (SSDs), USB drives, SD cards, and more.
 
 Whether you are dealing with [recovering lost photos](https://www.ifind-recovery.com/how-to/how-to-recover-deleted-photos-from-sd-card/), videos, documents, or any other file type, this versatile tool has got you covered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Free Download and Install
 
@@ -132,16 +148,12 @@ In more severe cases, entire partitions can become deleted or unrecognizable, re
 Once you choose the appropriate recovery mode, the software will display a list of partitions or storage devices connected to your system. Carefully identify the hard drive which has been formatted and select it from the storage devices display list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 4: Start the Scan
 
 ![a full scan of the lost data](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/soft3_1.png?resize=960%2C600&ssl=1 "soft3_1")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After selecting the desired storage device, it’s time to begin scanning. iFinD [Data Recovery software](https://www.ifind-recovery.com/ifind-data-recovery-software-free-download/) employs advanced algorithms and techniques to thoroughly scan the selected device, leaving no stone unturned in locating your lost files in your formatted/failed hard drive.
 
@@ -163,21 +175,17 @@ Remember, it’s crucial not to save the recovered files back onto the same devi
 
 ## Common Data Loss Scenarios
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Accidental deletion
 
 One of the most common causes of [data loss](https://www.ifind-recovery.com/data-recovery-infographics/infographics-top-6-types-of-data-loss/) is accidental deletion. Whether it’s a simple slip of the finger or a misguided attempt to free up storage space, accidentally deleting important files can be a difficult experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Hardware failure
 
 Hardware failures, such as hard disk crashes, SSD malfunctions, or physical damage to storage devices, may lead to data loss. These failures can result from manufacturing defects, physical shocks, or age-related wear and tear.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Logical errors and corruption
 
@@ -209,17 +217,9 @@ With its ability to recover data from various storage devices and file systems, 
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Show Us some Love:
 
@@ -242,7 +242,7 @@ In "Knowledge Base"
 [![how to recover repair corrupted word file](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2019/03/how-to-recover-repair-corrupted-word-file.jpg?fit=1200%2C781&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/a-comprehensive-new-guide-on-how-to-recover-unsaved-word-documents/ "A Comprehensive New Guide on How to Recover Unsaved Word Documents")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### [A Comprehensive New Guide on How to Recover Unsaved Word Documents](https://www.ifind-recovery.com/how-to/a-comprehensive-new-guide-on-how-to-recover-unsaved-word-documents/ "A Comprehensive New Guide on How to Recover Unsaved Word Documents")
@@ -276,24 +276,19 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/iscover-new-heights-top-10-adventure-channels/"><u>[New] Discover New Heights Top 10 Adventure Channels</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-unified-media-playback-on-youtube-flv-files-tutorial/"><u>[New] In 2024, Unified Media Playback on YouTube FLV Files Tutorial</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-visual-journey-samsungs-ue590-reviewed/"><u>[Updated] 2024 Approved The Ultimate Visual Journey - Samsung's UE590 Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-excellent-choice-7-premium-mac-videos/"><u>[Updated] In 2024, Excellent Choice 7 Premium Mac Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-jumpstart-your-channel-key-hashtags-for-6-figure-impact/"><u>[Updated] In 2024, Jumpstart Your Channel Key Hashtags for 6-Figure Impact</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-recommendation-best-websites-for-downloading-snapchat-ringtone/"><u>[Updated] In 2024, Recommendation Best Websites For Downloading Snapchat Ringtone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/adobes-flash-player-and-its-security-risks-insights-from-malwarefox/"><u>Adobe's Flash Player and Its Security Risks, Insights From MalwareFox</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-prevent-automatic-song-playback-in-apple-music/"><u>How to Prevent Automatic Song Playback in Apple Music</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-13-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/missing-content-alert-what-to-do-when-pages-go-missing-http-error/"><u>Missing Content Alert: What To Do When Pages Go Missing (HTTP Error</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/missing-content-warning-webpage-does-not-exist-error-similar-problem/"><u>Missing Content Warning: Webpage Does Not Exist (Error # Similar Problem)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-guide-to-undoing-deletion-of-an-eclipse-project-master-the-modi-simplici-technique/"><u>Quick Guide to Undoing Deletion of an Eclipse Project - Master the Modi Simplici Technique.</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/schritt-fur-schritt-anleitung-zum-loschen-von-festplatten-auf-niedriger-ebene-unter-windows-11/"><u>Schritt-Für-Schritt-Anleitung Zum Löschen Von Festplatten Auf Niedriger Ebene Unter Windows 11</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/seamless-conversion-guide-migrating-hyper-v-virtual-machines-to-vmware-and-vice-versa/"><u>Seamless Conversion Guide: Migrating Hyper-V Virtual Machines to VMware and Vice Versa</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securekey-assessment-utility-ensuring-robustness-of-your-secret-keys-with-professional-analysis/"><u>SecureKey Assessment Utility: Ensuring Robustness of Your Secret Keys with Professional Analysis</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/sichere-speicherung-mit-wd-my-cloud-auf-google-drive-top-freie-software-fur-die-datensicherung/"><u>Sichere Speicherung Mit WD My Cloud Auf Google Drive - Top-Freie Software Für Die Datensicherung</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015783019-unstuck-at-last-fix-windows-11s-malfunctioning-microphone-today/"><u>Unstuck at Last: Fix Windows 11'S Malfunctioning Microphone Today!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/usb-flash-drive-revival-with-ifind-data-restore-a-step-by-step-tutorial-to-salvage-your-valuable-files/"><u>USB Flash Drive Revival with IFind Data Restore: A Step-by-Step Tutorial to Salvage Your Valuable Files</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-boosting-performance-on-an-intel-imac/"><u>Comprehensive Guide to Boosting Performance on an Intel iMac</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/cpu-overheat-solutions-expert-guide-by-yl-computings-tech-specialists/"><u>CPU Overheat Solutions: Expert Guide by YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-steps-to-modify-your-windows-control-panel-preferences-expert-guide-by-yl-computing/"><u>Easy Steps to Modify Your Windows Control Panel Preferences - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-an-advanced-gpt-4-chatbot-at-no-cost-set-up-locally-on-your-pc/"><u>Experience an Advanced GPT-4 Chatbot at No Cost: Set Up Locally on Your PC</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/exploring-aftermath-unveiling-the-outcomes-of-the-boxer-rebellion-insights-by-yl-computing-and-yl-software/"><u>Exploring Aftermath: Unveiling the Outcomes of the Boxer Rebellion - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-6s-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 6s Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-can-i-set-up-extra-displays-with-windows-10-expert-tips-from-yl-computing/"><u>How Can I Set Up Extra Displays with Windows 10? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y17s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y17s Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incremental-intelligence-a-deep-dive-into-gpt-models/"><u>Incremental Intelligence: A Deep Dive Into GPT Models</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-fixing-the-initialization-failure-of-vanguard-on-valorant/"><u>Solution Steps: Fixing the 'Initialization Failure of Vanguard' On Valorant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dilemma-how-to-overcome-windows-update-error-code-0x80070643/"><u>Solving the Dilemma: How to Overcome Windows Update Error Code 0X80070643</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>Updated The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/yl-softwares-ultimate-walkthrough-protecting-your-system-by-backing-up-the-registry/"><u>YL Software's Ultimate Walkthrough: Protecting Your System by Backing Up the Registry</u></a></li>
 </ul></div>
 
