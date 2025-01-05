@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Intrusive Advertisements: A Comprehensive Guide to Halting Promotions on Facebook & Curbing Targeted Ads in Messenger"
-date: 2024-12-25T06:50:57.559Z
-updated: 2024-12-26T23:17:57.754Z
+date: 2024-12-29T16:25:46.164Z
+updated: 2025-01-05T16:42:59.420Z
 tags:
   - product
   - antivirus
@@ -54,10 +54,6 @@ The process above is done as follows:
 
 [![Newsfeed Ad options](https://www.malwarefox.com/wp-content/uploads/2019/08/Newsfeed-Ad-options.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/08/Newsfeed-Ad-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. When a sponsored Ad appears on your Facebook page, click on the 3 dots button placed on the upper right corner of the post you are viewing  
    1. Click on “Hide Ad” if you don’t want this kind of Ad to appear again  
    2. Alternatively, click on “Report Ad”, if the Ad is offensive to you in any way
@@ -66,6 +62,10 @@ The process above is done as follows:
 [How to Block Ads in Android Chrome](https://tools.techidaily.com/malwarefox/products/)
 
 [![Report Facebook Ads](https://www.malwarefox.com/wp-content/uploads/2019/08/report-facebook-ads.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/report-facebook-ads.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Furthermore, if you choose to simply adjust the preferences on your profile settings; you can follow the steps outlined below;
 
@@ -76,10 +76,6 @@ Furthermore, if you choose to simply adjust the preferences on your profile sett
 3. The page should be redirected to your Ad preferences dashboard.  
 [![Facebook Ads Settings](https://www.malwarefox.com/wp-content/uploads/2019/08/Facebook-Ads-Settings.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Facebook-Ads-Settings.png)
 4. Click on “Your Interests” and check the information to see if it’s accurate. The “Your Interests” section allows you to provide information that reveals and personalizes your interests
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Then, click on “Your Information” to also verify your data as the above step 6\. This part includes your info such as age, job title, etc. This particular section provides information to advertisers for picking their target audience.
 6. Click on “Ad settings” and indicate whether or not you allow Facebook to use your data and behavior on other sites and Apps for advertising purposes
@@ -94,7 +90,7 @@ Top-quality and system-level Ad blockers can completely remove Ads from your Fac
 [How to Remove Adware from Google Chrome](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get rid of Ads From Facebook Messenger
@@ -102,6 +98,10 @@ Top-quality and system-level Ad blockers can completely remove Ads from your Fac
 You cannot permanently remove ads from the messenger.
 
 There are several options for the ads you see in Messenger Inbox. Tap ![](https://scontent.fpnq2-1.fna.fbcdn.net/v/t39.2365-6/22812342_1589988251066512_1397441818198540288_n.png?_nc_cat=104&_nc_oc=AQlgtcmLnc6UHwPGaH6EoLUA9KAo7zHyuEEh8ElUh2OKUEV4N9zSqEHE1nn5gi3nhN0&_nc_ht=scontent.fpnq2-1.fna&oh=e47529341b51bcf42b7ff31fc9852bf6&oe=5E0A6B97) on the ad to view the following options:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Hide ad**: Hide a specific ad you don’t want to see.
 * **Report ad**: Report an ad that may have offensive content.
@@ -113,7 +113,7 @@ And if you are not so bothered by constant Ads, customizing your settings is als
 [5 Things to do when your Facebook Account is Hacked](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Remove Facebook Adware
@@ -123,7 +123,7 @@ Some rogue applications might take advantage of your need of removing ads and of
 You should get rid of such pesky ads by using a [browser hijacker remover](https://tools.techidaily.com/malwarefox/products/) or [adware removal tool](https://tools.techidaily.com/malwarefox/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -151,21 +151,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-top-12-gear-best-on-the-go-flip-screen-cameras/"><u>[New] 2024 Approved Explore Top 12 Gear Best On-the-Go Flip-Screen Cameras</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortlessly-edit-images-using-snapseed-tips/"><u>[Updated] 2024 Approved Effortlessly Edit Images Using Snapseed Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-silent-swords-righteous-battles-the-next-top-gaming-list/"><u>[Updated] In 2024, Silent Swords, Righteous Battles The Next Top Gaming List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/"><u>2024 Approved Sky's Limit for Your Visual Stories Unlimited Free Options and Premium Choices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-linguistic-odyssey-unlocking-turkey-korea-bonds/"><u>A Linguistic Odyssey: Unlocking Turkey-Korea Bonds</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/content-sharing-insights-from-2010-how-email-and-facebook-are-taking-over-the-power-of-massmail-for-effective-engagement/"><u>Content Sharing Insights From 2010: How Email and Facebook Are Taking Over - The Power of MassMail for Effective Engagement</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortless-transition-upgrading-to-a-solid-state-drive-as-primary-hardware-for-windows-10-systems/"><u>Effortless Transition: Upgrading to a Solid-State Drive as Primary Hardware for Windows 10 Systems</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/fixing-the-error-when-you-cant-access-default-mail-folder-settings-in-microsoft-outlook/"><u>Fixing the Error When You Can't Access Default Mail Folder Settings in Microsoft Outlook</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 7 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>In 2024, The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/master-live-broadcasts-with-manycam-premium-virtual-webcam-solutions-unveiled/"><u>Master Live Broadcasts with ManyCam - Premium Virtual Webcam Solutions Unveiled</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/profi-ssd-ersatz-fur-samsung-book-9-professional-schritt-fur-schritt-anleitung-zum-upgrade/"><u>Profi-SSD-Ersatz Für Samsung Book 9 Professional - Schritt-Für-Schritt Anleitung Zum Upgrade</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/spisok-samyh-uspeshnyh-amerikanskih-seo-kompanij-dlya-internet-vidimosti-marketreach-premier-solutions/"><u>Список Самых Успешных Американских SEO-Компаний Для Интернет-Видимости | MarketReach Premier Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-seo-konsultanty-v-myunipule-poisk-nailuchshego-resheniya-dlya-vashej-marketingovoj-kampanii/"><u>Топ SEO-Консультанты В Мюнипуле: Поиск Наилучшего Решения Для Вашей Маркетинговой Кампании</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-5-instrumentov-seo-and-prilozhenij-dlya-windowspk-v-2024-opisanie-i-sravnenie/"><u>Топ-5 Инструментов SEO & Приложений Для Windows/ПК В 2024: Описание И Сравнение</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>[New] In 2024, Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-strategies-for-storing-real-time-webcam-talks/"><u>[New] In 2024, Strategies for Storing Real-Time Webcam Talks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-space-stewards-premium-service-review/"><u>[New] Optimal Space Stewards Premium Service Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-sony-vegas-youtube-video-editing-basics-for-2024/"><u>[Updated] Mastering Sony Vegas YouTube Video Editing Basics for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728504260806-windows-115/"><u>失われたファイルをWindows 11で回収する：検索しやすい5つのテクニック</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-exporter-automatiquement-un-fichier-excel-vers-un-nouveau-repertoire/"><u>Comment Exporter Automatiquement Un Fichier Excel Vers Un Nouveau Répertoire</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-recuperez-vous-des-videos-de-mariage-supprimees-sur-les-medias-sociaux/"><u>Comment Récupérez-Vous Des Vidéos De Mariage Supprimées Sur Les Médias Sociaux?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparacion-detallada-entre-mkv-y-mp4-para-seleccionar-el-mejor-formato-de-video/"><u>Comparación Detallada Entre MKV Y MP4 Para Seleccionar El Mejor Formato De Vídeo</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortlessly-retrieve-your-lost-word-docs-with-these-simple-strategies/"><u>Effortlessly Retrieve Your Lost Word Docs with These Simple Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-opt-between-bing-chat-and-chatgptkey-decisions/"><u>Freelancers: Opt Between Bing Chat & ChatGPT—Key Decisions</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/importieren-sie-ihre-musiksammlung-zwei-einfache-schritte-um-ihre-itunes-playlists-auf-spotify-einzubinden/"><u>Importieren Sie Ihre Musiksammlung: Zwei Einfache Schritte, Um Ihre iTunes Playlists Auf Spotify Einzubinden</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insider-take-unveiling-key-upgrades-in-feb-update/"><u>Insider Take: Unveiling Key Upgrades in FEB Update</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-safeguarding-your-outlook-emails-using-aomei-backupper/"><u>Step-by-Step Guide: Safeguarding Your Outlook Emails Using AOMEI Backupper</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-real-deal-on-web-safety-do-pornographic-websites-harbor-digital-threats/"><u>The Real Deal on Web Safety: Do Pornographic Websites Harbor Digital Threats?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-windows-11-remains-the-preferred-choice-5-compelling-reasons-to-keep-it-going-on-your-main-machine/"><u>Why Windows 11 Remains the Preferred Choice: 5 Compelling Reasons to Keep It Going on Your Main Machine</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728506941109-windows-11/"><u>Windows 11系统关键进程死机：最终取得胜利的修复技巧</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/zwei-methoden-zur-wiederherstellung-von-pc-backups-unter-windows-11-ein-umfassender-leitfaden/"><u>Zwei Methoden Zur Wiederherstellung Von PC-Backups Unter Windows 11: Ein Umfassender Leitfaden</u></a></li>
 </ul></div>
 
