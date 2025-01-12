@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Intrusive Advertisements: A Comprehensive Guide to Halting Promotions on Facebook & Curbing Targeted Ads in Messenger"
-date: 2024-12-29T16:25:46.164Z
-updated: 2025-01-05T16:42:59.420Z
+date: 2025-01-10T16:53:16.575Z
+updated: 2025-01-11T19:36:55.610Z
 tags:
   - product
   - antivirus
@@ -54,6 +54,10 @@ The process above is done as follows:
 
 [![Newsfeed Ad options](https://www.malwarefox.com/wp-content/uploads/2019/08/Newsfeed-Ad-options.jpg)](https://www.malwarefox.com/wp-content/uploads/2019/08/Newsfeed-Ad-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. When a sponsored Ad appears on your Facebook page, click on the 3 dots button placed on the upper right corner of the post you are viewing  
    1. Click on “Hide Ad” if you don’t want this kind of Ad to appear again  
    2. Alternatively, click on “Report Ad”, if the Ad is offensive to you in any way
@@ -64,7 +68,7 @@ The process above is done as follows:
 [![Report Facebook Ads](https://www.malwarefox.com/wp-content/uploads/2019/08/report-facebook-ads.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/report-facebook-ads.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Furthermore, if you choose to simply adjust the preferences on your profile settings; you can follow the steps outlined below;
@@ -76,6 +80,10 @@ Furthermore, if you choose to simply adjust the preferences on your profile sett
 3. The page should be redirected to your Ad preferences dashboard.  
 [![Facebook Ads Settings](https://www.malwarefox.com/wp-content/uploads/2019/08/Facebook-Ads-Settings.png)](https://www.malwarefox.com/wp-content/uploads/2019/08/Facebook-Ads-Settings.png)
 4. Click on “Your Interests” and check the information to see if it’s accurate. The “Your Interests” section allows you to provide information that reveals and personalizes your interests
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Then, click on “Your Information” to also verify your data as the above step 6\. This part includes your info such as age, job title, etc. This particular section provides information to advertisers for picking their target audience.
 6. Click on “Ad settings” and indicate whether or not you allow Facebook to use your data and behavior on other sites and Apps for advertising purposes
@@ -89,19 +97,11 @@ Top-quality and system-level Ad blockers can completely remove Ads from your Fac
 
 [How to Remove Adware from Google Chrome](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get rid of Ads From Facebook Messenger
 
 You cannot permanently remove ads from the messenger.
 
 There are several options for the ads you see in Messenger Inbox. Tap ![](https://scontent.fpnq2-1.fna.fbcdn.net/v/t39.2365-6/22812342_1589988251066512_1397441818198540288_n.png?_nc_cat=104&_nc_oc=AQlgtcmLnc6UHwPGaH6EoLUA9KAo7zHyuEEh8ElUh2OKUEV4N9zSqEHE1nn5gi3nhN0&_nc_ht=scontent.fpnq2-1.fna&oh=e47529341b51bcf42b7ff31fc9852bf6&oe=5E0A6B97) on the ad to view the following options:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Hide ad**: Hide a specific ad you don’t want to see.
 * **Report ad**: Report an ad that may have offensive content.
@@ -113,7 +113,7 @@ And if you are not so bothered by constant Ads, customizing your settings is als
 [5 Things to do when your Facebook Account is Hacked](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Remove Facebook Adware
@@ -123,7 +123,7 @@ Some rogue applications might take advantage of your need of removing ads and of
 You should get rid of such pesky ads by using a [browser hijacker remover](https://tools.techidaily.com/malwarefox/products/) or [adware removal tool](https://tools.techidaily.com/malwarefox/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -151,24 +151,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>[New] In 2024, Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-strategies-for-storing-real-time-webcam-talks/"><u>[New] In 2024, Strategies for Storing Real-Time Webcam Talks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-space-stewards-premium-service-review/"><u>[New] Optimal Space Stewards Premium Service Review</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mastering-sony-vegas-youtube-video-editing-basics-for-2024/"><u>[Updated] Mastering Sony Vegas YouTube Video Editing Basics for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728504260806-windows-115/"><u>失われたファイルをWindows 11で回収する：検索しやすい5つのテクニック</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/a-guide-to-adjusting-your-file-folders-characteristics-via-the-properties-panel/"><u>A Guide to Adjusting Your File Folders' Characteristics via the Properties Panel</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comment-exporter-automatiquement-un-fichier-excel-vers-un-nouveau-repertoire/"><u>Comment Exporter Automatiquement Un Fichier Excel Vers Un Nouveau Répertoire</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comment-recuperez-vous-des-videos-de-mariage-supprimees-sur-les-medias-sociaux/"><u>Comment Récupérez-Vous Des Vidéos De Mariage Supprimées Sur Les Médias Sociaux?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparacion-detallada-entre-mkv-y-mp4-para-seleccionar-el-mejor-formato-de-video/"><u>Comparación Detallada Entre MKV Y MP4 Para Seleccionar El Mejor Formato De Vídeo</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortlessly-retrieve-your-lost-word-docs-with-these-simple-strategies/"><u>Effortlessly Retrieve Your Lost Word Docs with These Simple Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/freelancers-opt-between-bing-chat-and-chatgptkey-decisions/"><u>Freelancers: Opt Between Bing Chat & ChatGPT—Key Decisions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/importieren-sie-ihre-musiksammlung-zwei-einfache-schritte-um-ihre-itunes-playlists-auf-spotify-einzubinden/"><u>Importieren Sie Ihre Musiksammlung: Zwei Einfache Schritte, Um Ihre iTunes Playlists Auf Spotify Einzubinden</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insider-take-unveiling-key-upgrades-in-feb-update/"><u>Insider Take: Unveiling Key Upgrades in FEB Update</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-safeguarding-your-outlook-emails-using-aomei-backupper/"><u>Step-by-Step Guide: Safeguarding Your Outlook Emails Using AOMEI Backupper</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-real-deal-on-web-safety-do-pornographic-websites-harbor-digital-threats/"><u>The Real Deal on Web Safety: Do Pornographic Websites Harbor Digital Threats?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-windows-11-remains-the-preferred-choice-5-compelling-reasons-to-keep-it-going-on-your-main-machine/"><u>Why Windows 11 Remains the Preferred Choice: 5 Compelling Reasons to Keep It Going on Your Main Machine</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728506941109-windows-11/"><u>Windows 11系统关键进程死机：最终取得胜利的修复技巧</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/zwei-methoden-zur-wiederherstellung-von-pc-backups-unter-windows-11-ein-umfassender-leitfaden/"><u>Zwei Methoden Zur Wiederherstellung Von PC-Backups Unter Windows 11: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728499230135-windows-7-11/"><u>[全新] Windows 7-11電腦用最高級硬碟重建軟件，[今日起免費搶先體驗]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-making-sense-of-creative-commons-licensing-and-usage/"><u>[New] In 2024, Making Sense of Creative Commons Licensing & Usage</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/t-bidirectional-navigating-the-queue-from-the-conclusion-backwards/"><u>[New] YT Bidirectional Navigating the Queue From the Conclusion Backwards</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-turning-shorts-into-cash-youtube-guide-for-2024/"><u>[Updated] Turning Shorts Into Cash YouTube Guide for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/best-free-ai-powered-apps-for-reviving-vintage-photographs/"><u>Best FREE AI-Powered Apps for Reviving Vintage Photographs</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/descubre-como-instalar-windows-11-build-23h2-en-dispositivos-no-oficialmente-compatibles-con-dos-tecnicas-efectivas/"><u>Descubre Cómo Instalar Windows 11 Build 23H2 en Dispositivos No Oficialmente Compatibles Con Dos Técnicas Efectivas</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ejecute-la-copia-de-seguridad-y-restauracion-de-archivos-gratuitamente-usando-aomei-backupper/"><u>Ejecute La Copia De Seguridad Y Restauración De Archivos Gratuitamente Usando AOMEI Backupper</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/framemaster-z-unbeatable-image-quality-at-an-extreme-price/"><u>FrameMaster Z: Unbeatable Image Quality at an Extreme Price</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211239268-9798989011612-heart-sessions-with-jesus/"><u>Heart Sessions with Jesus | Free Book</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-note-30-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Note 30 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/schlusselstrategien-zur-behebung-von-windows-backupfehlern-mit-code-0x817/"><u>Schlüsselstrategien Zur Behebung Von Windows-Backupfehlern Mit Code 0X81^7</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/solve-your-itunes-launch-issues-top-10-solutions-for-windows-11-users/"><u>Solve Your Itunes Launch Issues: Top 10 Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/two-methods-for-crafting-a-restore-disk-for-windows-server-201/"><u>Two Methods for Crafting a Restore Disk for Windows Server 201</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-resolving-crackling-sounds-in-headphones-fast-solutions-inside/"><u>Ultimate Guide to Resolving Crackling Sounds in Headphones – Fast Solutions Inside</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-11-installation-stuck-at-99-discover-3-easy-fix-methods/"><u>Windows 11 Installation Stuck at 99%? Discover 3 Easy Fix Methods</u></a></li>
 </ul></div>
 

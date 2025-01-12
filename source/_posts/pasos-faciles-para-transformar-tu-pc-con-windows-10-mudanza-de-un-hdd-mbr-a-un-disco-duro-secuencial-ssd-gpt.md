@@ -1,7 +1,7 @@
 ---
 title: "Pasos Fáciles Para Transformar Tu PC Con Windows 10: Mudanza De Un HDD MBR a Un Disco Duro Secuencial (SSD) GPT"
-date: 2025-01-03T16:41:26.537Z
-updated: 2025-01-05T16:45:17.390Z
+date: 2025-01-11T04:23:42.014Z
+updated: 2025-01-11T22:52:53.611Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d825914cfbc46b59661d759915d177f1c0fb99c790ab448227f71d61ed6c5f61.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d825914cfbc46b59661d759915d177f1c0fb99c79
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -73,10 +77,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -85,17 +85,21 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -106,7 +110,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -118,7 +122,11 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -137,16 +145,12 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -177,10 +181,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,24 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac/"><u>[Updated] 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac]</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-premier-general-knowledge-trivia-hubs-for-2024/"><u>[Updated] Premier General Knowledge Trivia Hubs for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>[Updated] The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazons-echo-fourth-generation-unveiled-an-in-depth-review/"><u>Amazon's Echo Fourth Generation Unveiled: An In-Depth Review</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comment-resoudre-un-dysfonctionnement-de-ssd-m2-a-travers-le-bios-3-solutions-efficaces/"><u>Comment Résoudre Un Dysfonctionnement De SSD M.2 À Travers Le BIOS: 3 Solutions Efficaces</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/fixing-a-mistakenly-erased-main-hard-drive-partition-a-step-by-step-guide/"><u>Fixing a Mistakenly Erased Main Hard Drive Partition: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/free-vs-paid-antivirus-software-which-offers-better-security/"><u>Free Vs. Paid Antivirus Software: Which Offers Better Security?</u></a></li>
-<li><a href="https://win11.techidaily.com/from-iso-to-reality-how-to-install-windows-11-arm/"><u>From ISO to Reality - How to Install Windows 11 ARM</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/jak-wykorzystac-6-udowodnionych-pomocownikow-do-naprawy-nieudanych-klonow-z-macrium-reflect-98/"><u>Jak Wykorzystać 6 Udowodnionych Pomocowników Do Naprawy Nieudanych Klonów Z Macrium Reflect 9.8</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/leading-crucial-ssd-backup-programs-cost-free-safe-user-friendly-solutions/"><u>Leading Crucial SSD Backup Programs: Cost-Free, Safe, User-Friendly Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/losung-fur-die-nicht-funktionierende-dateisynchronisation-in-windows-betriebssystemen-11-10-8-7/"><u>Lösung Für Die Nicht Funktionierende Dateisynchronisation in Windows-Betriebssystemen (11, 10, 8, 7)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-task-management-transforming-microsoft-word-into-an-effective-bullet-journal-for-personal-goal-tracking/"><u>Mastering Task Management: Transforming Microsoft Word Into an Effective Bullet Journal for Personal Goal Tracking</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/microsoft-synctoy-ersatz-gunstige-und-kostenfreie-optionen-fur-dateisynchronisation/"><u>Microsoft SyncToy Ersatz - Günstige Und Kostenfreie Optionen Für Dateisynchronisation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/premium-window-11-copying-apps-excellent-value-with-absolute-data-security/"><u>Premium Window 11 Copying Apps - Excellent Value with Absolute Data Security!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-for-microsoft-365-setup-on-personal-computers/"><u>Step-by-Step Instructions for Microsoft 365 Setup on Personal Computers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-14-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 14 Activation Lock</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/king-the-potential-of-non-mic-sound-capture-methods/"><u>Unlocking the Potential of Non-Mic Sound Capture Methods</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728484565977-windows-7windows-11/"><u>Windows 7からWindows 11への無償アップグレード：すべてのデータを保護します</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-more-views-the-art-of-editing-your-youtube-content/"><u>[New] In 2024, Unlock More Views The Art of Editing Your YouTube Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-comprehensive-guide-to-discovering-dazzling-and-downloadable-images-on-pexels/"><u>[Updated] In 2024, A Comprehensive Guide to Discovering Dazzling and Downloadable Images on Pexels</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1-eficientemente-compartir-tu-espacio-de-trabajo-tres-metodos-para-la-integracion-automatica-con-microsoft-onedrive/"><u>1. Eficientemente Compartir Tu Espacio De Trabajo: Tres Métodos Para La Integración Automática Con Microsoft OneDrive</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-spontaneous-store-openings-on-pc/"><u>Addressing Spontaneous Store Openings on PC</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-free-software-options-for-reliable-computer-backups-a-comprehensive-guide/"><u>Best Free Software Options for Reliable Computer Backups: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/elevate-your-online-presence-the-ultimate-guide-to-seo-through-advanced-advertising-tools/"><u>Elevate Your Online Presence: The Ultimate Guide to SEO Through Advanced Advertising Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/fastest-way-to-discover-contacts-leveraging-massmail-solutions/"><u>Fastest Way to Discover Contacts: Leveraging MassMail Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/from-script-to-screen-a-production-perspective-on-voice-over-artistry-for-2024/"><u>From Script to Screen A Production Perspective on Voice Over Artistry for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guia-sin-complicaciones-para-clonar-el-sistema-gpt-a-un-disco-ssd-con-interfaz-de-tabla-maestra/"><u>Guía Sin Complicaciones Para Clonar El Sistema GPT a Un Disco SSD Con Interfaz De Tabla Maestra</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/guide-simple-comment-installer-un-serveur-de-point-dacces-a-lextremite-pxe-sur-windows/"><u>Guide Simple : Comment Installer Un Serveur De Point D'Accès À L'Extrémité (PXE) Sur Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-13c-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi 13C 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-deck-to-deck-experience-with-durecorder/"><u>Mastering the Deck-to-Deck Experience with DuRecorder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-your-brand-visibility-with-seo-powersuites-strategic-brand-bidding/"><u>Maximize Your Brand Visibility with SEO PowerSuite's Strategic Brand Bidding</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/schnell-und-sicher-kopieren-von-betriebssystemen-auf-m2-ssds-unter-windows-11-10-8-and-nicht-zu-verpassendes-tutorial/"><u>Schnell Und Sicher Kopieren Von Betriebssystemen Auf M.2-SSDs Unter Windows 11, 10, 8 & Nicht Zu Verpassendes Tutorial</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-your-data-transfer-files-from-a-laptop-to-an-external-hdd-using-windows-1011/"><u>Secure Your Data: Transfer Files From a Laptop to an External HDD Using Windows 10/11</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-retrieving-deleted-information-from-microsoft-word-on-pc-and-mac/"><u>Step-by-Step Guide: Retrieving Deleted Information From Microsoft Word on PC and Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-the-0x800705b4-error-during-windows-11-updates-solved/"><u>The Ultimate Fix Guide for the 0X800705b4 Error During Windows 11 Updates [Solved]</u></a></li>
 </ul></div>
 
