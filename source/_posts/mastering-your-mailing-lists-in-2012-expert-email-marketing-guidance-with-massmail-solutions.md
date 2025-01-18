@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Mailing Lists in 2012: Expert Email Marketing Guidance with MassMail Solutions"
-date: 2024-12-29T16:45:37.863Z
-updated: 2025-01-05T19:28:56.676Z
+date: 2025-01-13T18:07:26.091Z
+updated: 2025-01-17T17:49:28.662Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -37,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -45,7 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -61,6 +61,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -90,17 +94,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,10 +122,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making/"><u>[New] In 2024, How to Create Engaging Visual Hooks A Guide to Video Thumbnail Making</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximize-your-engagement-with-full-screen-facebook-videos-for-2024/"><u>[New] Maximize Your Engagement with Full-Screen Facebook Videos for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728486755194-windows-10/"><u>如何在 Windows 10 上设置备份点——全新的两个方法解锁</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/bring-back-the-sparkle-applying-instagram-effects-retro-style-for-2024/"><u>Bring Back the Sparkle Applying Instagram Effects Retro Style for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comprehensive-guide-eliminating-browser-malware-with-a-chrome-security-check/"><u>Comprehensive Guide: Eliminating Browser Malware with a Chrome Security Check</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-corsair-icue-synchronization-challenges-with-windows-10-and-11/"><u>Expert Tips to Overcome Corsair iCUE Synchronization Challenges with Windows 10 and 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/pantalla-azul-en-windows-11-tus-mejores-estrategias-correctivas-y-soluciones-rapidas-ahora-disponibles/"><u>Pantalla Azul en Windows 11 - Tus Mejores Estrategias Correctivas Y Soluciones Rápidas Ahora Disponibles!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/preserve-your-legacy-transforming-older-images-into-modern-videos-for-2024/"><u>Preserve Your Legacy Transforming Older Images Into Modern Videos for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-guide-preventing-and-fixing-windows-11s-misguided-boot-sequence-to-the-wrong-drive-without-a-hitch/"><u>Quick Guide: Preventing and Fixing Windows 11'S Misguided Boot Sequence to the Wrong Drive Without a Hitch</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-an-absent-printer-windows-solutions/"><u>Restoring an Absent Printer: Windows Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-tutorial-for-successfully-creating-a-windows-amedia-backup-of-windows-11-onto-a-dvd-using-top-techniques-and-software/"><u>Step-by-Step Tutorial for Successfully Creating a Windows Amedia Backup of Windows 11 Onto a DVD Using Top Techniques & Software</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tailored-system-restore-solutions-using-aomeis-expert-recovery-suite/"><u>Tailored System Restore Solutions Using AOMEI's Expert Recovery Suite</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209516541-9781632659576-the-pleiadian-promise/"><u>The Pleiadian Promise | Free Book</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-free-skype-substitutes/"><u>Top 5 Free Skype Substitutes</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/troubleshoot-non-detected-dvd-drives-in-windows-atury-ten-with-these-7-solutions/"><u>Troubleshoot Non-Detected DVD Drives in Windows Atury Ten with These 7 Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/windows-amoeba/"><u>マイドキュメントをWindows Amoebaにシェア用の別ドライブにコピーする方法</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-should-itop-top-your-list-for-screen-recorders-in-2024/"><u>[New] Should ITop Top Your List for Screen Recorders, In 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-verdict-hero4-black-excellence/"><u>[Updated] Full Verdict Hero4 Black Excellence</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlined-approach-for-customizing-snapchat-video-rate/"><u>[Updated] Streamlined Approach for Customizing Snapchat Video Rate</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-maximizing-efficiency-video-capturing-in-adobe-presenter/"><u>2024 Approved Maximizing Efficiency Video Capturing in Adobe Presenter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-ultimate-guide-to-podcast-names/"><u>A Ultimate Guide to Podcast Names</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comment-resoudre-un-dysfonctionnement-de-ssd-m2-a-travers-le-bios-3-solutions-efficaces/"><u>Comment Résoudre Un Dysfonctionnement De SSD M.2 À Travers Le BIOS: 3 Solutions Efficaces</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/fixing-a-mistakenly-erased-main-hard-drive-partition-a-step-by-step-guide/"><u>Fixing a Mistakenly Erased Main Hard Drive Partition: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-vs-paid-antivirus-software-which-offers-better-security/"><u>Free Vs. Paid Antivirus Software: Which Offers Better Security?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-profit-strategies-galore-top-13-income-opportunities-on-reddit/"><u>In 2024, Profit Strategies Galore Top 13 Income Opportunities on Reddit</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/jak-wykorzystac-6-udowodnionych-pomocownikow-do-naprawy-nieudanych-klonow-z-macrium-reflect-98/"><u>Jak Wykorzystać 6 Udowodnionych Pomocowników Do Naprawy Nieudanych Klonów Z Macrium Reflect 9.8</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/premium-window-11-copying-apps-excellent-value-with-absolute-data-security/"><u>Premium Window 11 Copying Apps - Excellent Value with Absolute Data Security!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/quick-and-reliable-image-captures-pcs-top-5-apps/"><u>Quick and Reliable Image Captures PC's Top 5 Apps</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/score-your-tunes-with-our-exclusive-offer-free-music-video-pack-from-the-making-beats-count-challenge-pcdj/"><u>Score Your Tunes with Our Exclusive Offer: Free Music Video Pack From the Making Beats Count Challenge | PCDJ</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728484565977-windows-7windows-11/"><u>Windows 7からWindows 11への無償アップグレード：すべてのデータを保護します</u></a></li>
 </ul></div>
 

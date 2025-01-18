@@ -1,7 +1,7 @@
 ---
 title: "Free Guide: Restoring Lost Data on Your External HDD - Easy Methods Unveiled"
-date: 2024-12-20T07:10:29.724Z
-updated: 2024-12-26T22:52:33.732Z
+date: 2025-01-17T03:27:42.906Z
+updated: 2025-01-18T00:54:48.332Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/22abb9cfe31c7f2c3c7286f2617faed6b91923b5cceec713f8e751d61a458df6.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/22abb9cfe31c7f2c3c7286f2617faed6b91923b5c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
@@ -29,7 +29,7 @@ Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finde
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
@@ -62,6 +62,10 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -71,7 +75,7 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
@@ -79,7 +83,7 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
@@ -87,7 +91,7 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
@@ -95,7 +99,7 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -138,10 +142,6 @@ Sicherer Download
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
 Angesichts der Bedeutung von Sicherheitsmaßnahmen wie regelmäßigen Backups, um Datenverlust zu vermeiden, fragen Sie sich vielleicht, ob es spezielle Software zur Datenverlustprävention für Windows-Computer gibt.
@@ -173,10 +173,6 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
 ## Zusammenfassung
@@ -188,6 +184,10 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -248,7 +248,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
@@ -268,17 +268,16 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-game-on-mobile-funimate-apk-setup-simplified/"><u>[New] Game On Mobile Funimate APK Setup Simplified</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-youtube-shorts-a-step-by-step-creation-guide/"><u>[New] In 2024, Mastering YouTube Shorts A Step-by-Step Creation Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/avoiding-pitfalls-in-your-email-campaigns-insights-from-techniques-2010-common-errors-and-fixes/"><u>Avoiding Pitfalls in Your Email Campaigns: Insights From 'Techniques 2010' – Common Errors and Fixes</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-45-free-rss-feed-sites-for-easy-content-distribution-with-massmail-software/"><u>Best 45 FREE RSS Feed Sites for Easy Content Distribution with MASSMAIL Software</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cybersecurity-breakthroughs-with-ai-how-leading-experts-envision-defeating-digital-threats-zdnet/"><u>Cybersecurity Breakthroughs with AI: How Leading Experts Envision Defeating Digital Threats | ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-ds4-connectivity-and-driver-error-on-windows-devices/"><u>Expert Tips for Resolving DS4 Connectivity and Driver Error on Windows Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-tailor-made-video-cuts-macs-top-mp4-slicers-revealed/"><u>In 2024, Tailor-Made Video Cuts Mac's Top MP4 Slicers Revealed</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/leading-seo-agencies-based-in-chicago-expert-seo-assistance-and-strategies-for-urban-success/"><u>Leading SEO Agencies Based in Chicago | Expert SEO Assistance and Strategies for Urban Success</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-italian-phrases-quickly-the-ultimate-travel-companion/"><u>Learn Italian Phrases Quickly: The Ultimate Travel Companion</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-insiders-guide-to-boosting-roi-in-email-campaigns-using-massmail-data-analytics/"><u>The Insider's Guide to Boosting ROI in Email Campaigns Using MassMail Data Analytics</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unlock-successful-marketing-with-podcasts-mastering-strategies-from-2009-to-present/"><u>Unlock Successful Marketing with Podcasts: Mastering Strategies From 2009 to Present</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/1713965425275-updated-use-your-social-media-app-and-make-slow-motion-videos-by-reading-this-guide-besides-learning-slow-motion-snapchat-get-useful-apps-serving-the-same-p/"><u>Updated Use Your Social Media App and Make Slow-Motion Videos by Reading This Guide. Besides Learning Slow-Motion Snapchat, Get Useful Apps Serving the Same Purposes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-the-secrets-to-amazing-instagram-films-for-2024/"><u>[New] Unlock the Secrets to Amazing Instagram Films for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-filmmaking-made-simple-crafting-an-impactful-youtube-subscribe-button/"><u>[Updated] In 2024, Filmmaking Made Simple Crafting an Impactful YouTube Subscribe Button</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728491631099-sharepoint/"><u>「専門家アドバイス：SharePointで予期せぬ同期障害を解消するコツ」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-dat-file-upgrade-to-premium-mp4-format-on-pc-and-mac-systems/"><u>Effortless DAT File Upgrade to Premium MP4 Format on PC and Mac Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/content-creator-to-earnings-expert-on-youtube/"><u>From Content Creator to Earnings Expert on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-smart-7-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Smart 7 Through Google Earth?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-reno-11-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Reno 11 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/kostenlose-tools-fur-schrittweise-sicherungsprozesse-an-externes-speichermedium/"><u>Kostenlose Tools Für Schrittweise Sicherungsprozesse an Externes Speichermedium</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/niche-specific-insights-on-bounce-open-and-click-through-performance-in-email-marketing-second-quarter-review-for-2011-using-massmail-tech/"><u>Niche-Specific Insights on Bounce, Open, and Click-Through Performance in Email Marketing - Second Quarter Review for 2011 Using MassMail Tech</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/recover-lost-messages-effective-techniques-for-restoring-deleted-emails-from-gmail-yahoo-hotmail-and-outlook/"><u>Recover Lost Messages: Effective Techniques for Restoring Deleted Emails From Gmail, Yahoo, Hotmail, and Outlook</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-noopener-in-seo-definitions-guidelines-and-effective-strategies/"><u>Understanding Noopener in SEO: Definitions, Guidelines & Effective Strategies</u></a></li>
 </ul></div>
 

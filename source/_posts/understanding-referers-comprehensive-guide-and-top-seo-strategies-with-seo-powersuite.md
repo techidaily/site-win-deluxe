@@ -1,7 +1,7 @@
 ---
 title: "Understanding Referers: Comprehensive Guide & Top SEO Strategies with SEO PowerSuite"
-date: 2025-01-06T11:07:21.275Z
-updated: 2025-01-11T21:41:00.064Z
+date: 2025-01-11T19:50:09.352Z
+updated: 2025-01-17T19:02:46.300Z
 tags:
   - wiki
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Referer
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition
@@ -47,6 +47,10 @@ In the context of the web, a referer (comes from the misspelled word _referrer_)
 In [HTML](https://tools.techidaily.com/link-assistant/products/), the referer information is not directly accessible to the webpage itself. Instead, it is passed as a header field in the HTTP request that is sent from the browser to the server when the webpage is requested. The server can then use this information to customize the content or behavior of the webpage in various ways.
 
 One way to access the referer information on the server-side is to use the $\_SERVER\['HTTP\_REFERER'\] variable in PHP, or the request.headers.referer property in Node.js. On the client-side, you can use the Document.referrer property in JavaScript to access the referer information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Example
 
@@ -67,7 +71,7 @@ document.write("Welcome! We're not sure where you came from.");
 Note that the Document.referrer property is not always reliable, as it can be blocked or modified by the browser or by third-party extensions. In addition, it is not available for security reasons when the user navigates to a webpage using a secure (HTTPS) connection from a page with an insecure (HTTP) connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Preventing transmission of the referer information
@@ -79,7 +83,7 @@ There are a few ways that users can stop the transmission of the referer informa
 Many web browsers have a "private" or "incognito" mode that prevents the browser from storing history, search queries, and other data that could be used to track the user's activity. When private browsing mode is enabled, the browser will typically not send a referer header in HTTP requests.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Use a third-party privacy extension
@@ -95,10 +99,6 @@ In some cases, it may be possible to disable the referer header by modifying the
 If you need to access a webpage over a secure (HTTPS) connection, but the referer header is being blocked or modified, you can try using a different protocol, such as HTTP or FTP, to access the webpage. This will bypass the referer header entirely, but it may not be possible in all cases.
 
 Keep in mind that while these methods can help to reduce the transmission of the referer information, they may not be completely effective in all cases, and they may have other trade-offs in terms of privacy and security.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -119,18 +119,18 @@ Keep in mind that while these methods can help to reduce the transmission of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-ideal-techniques-stream-and-store-major-sports-events-online-for-2024/"><u>[Updated] Ideal Techniques Stream & Store Major Sports Events Online for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-perfect-your-video-nine-essential-filters-for-live-streaming/"><u>[Updated] In 2024, Perfect Your Video Nine Essential Filters for Live Streaming</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-rotation-revelations-guide-crafting-captivating-images-on-social-media/"><u>[Updated] The Rotation Revelations Guide Crafting Captivating Images on Social Media</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exposing-the-truth-about-bingchatgpt-scam-tokens-learn-how-to-detect-and-dodge-digital-pickpocketing-in-crypto-transactions/"><u>Exposing the Truth About BingChatGPT Scam Tokens - Learn How to Detect and Dodge Digital Pickpocketing in Crypto Transactions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-k11-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo K11 5G Device SIM</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-instagrams-filters-a-comprehensive-guide-to-enhance-your-posts/"><u>In 2024, Unveiling Instagram's Filters A Comprehensive Guide to Enhance Your Posts</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/by-step-guide-to-incorporating-yt-clips-into-presentations/"><u>Step-by-Step Guide to Incorporating YT Clips Into Presentations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-tecno-spark-go-2023-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Tecno Spark Go (2023) Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unlocking-lost-files-a-step-by-step-guide-to-retrieving-data-from-your-outdated-pc-without-a-password-tech-insights-by-zdnet/"><u>Unlocking Lost Files: A Step-by-Step Guide to Retrieving Data From Your Outdated PC without a Password | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/upgrade-successfully-transitioning-your-eligible-windows-10-system-to-windows-1nk/"><u>Upgrade Successfully: Transitioning Your Eligible Windows 10 System to Windows 1Nk!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-engineers-cant-get-enough-of-windows-11-unveiling-perspectives-on-microsofts-latest-operating-system-zdnet-reports/"><u>Why Engineers Can't Get Enough of Windows 11: Unveiling Perspectives on Microsoft's Latest Operating System (ZDNet Reports)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/why-is-trusted-platform-module-tpm-essential-for-windows-11-security/"><u>Why Is Trusted Platform Module (TPM) Essential for Windows 11 Security?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/zdnets-guide-to-switching-your-ip-address-when-its-beneficial-and-when-it-isnt/"><u>ZDNet’s Guide to Switching Your IP Address: When It's Beneficial and When It Isn’t</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-breaking-down-itunes-video-recording-basics/"><u>[New] Breaking Down iTunes Video Recording Basics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor/"><u>[Updated] 2024 Approved Cutting Edge or Outdated? Full Review & Guide to Vita's Editor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-no-marking-tiktok-mp4-downloader-for-high-quality-clips/"><u>[Updated] In 2024, No Marking TikTok MP4 Downloader for High-Quality Clips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-indoor-android-games-you-can-play-without-a-network/"><u>2024 Approved Indoor Android Games You Can Play Without a Network</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>2024 Approved Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-complete-ginger-island-in-stardew/"><u>2024 Approved The Complete Ginger Island in Stardew</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/demystifying-facebook-the-story-behind-its-creation-appeal-and-important-functions/"><u>Demystifying Facebook: The Story Behind Its Creation, Appeal, and Important Functions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/determine-your-powershell-version-on-windows-11-with-ease/"><u>Determine Your PowerShell Version on Windows 11 with Ease</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expert-email-marketing-mastery-guide-for-2010-unlock-the-power-of-massmail-techniques-and-secrets/"><u>Expert Email Marketing Mastery Guide for 2010 - Unlock the Power of MassMail Techniques & Secrets</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/navigating-cyber-threats-understanding-the-dangers-of-suspicious-pdfs-on-mobile-devices-with-malwarefox-insights/"><u>Navigating Cyber Threats: Understanding the Dangers of Suspicious PDFs on Mobile Devices with MalwareFox Insights</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/reimpostazione-della-tavola-di-partizione-per-windows-1011-metodi-efficaci-e-sicuri/"><u>Reimpostazione Della Tavola Di Partizione per Windows 10/11: Metodi Efficaci E Sicuri</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/starten-mit-ihrem-lenovo-pc-problembehandlung-beim-hochfahren-aus-dem-usb-speicherstick/"><u>Starten Mit Ihrem Lenovo PC: Problembehandlung Beim Hochfahren Aus Dem USB-Speicherstick</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tutorial-approfondito-come-aggiornare-il-tuo-ssd-sullalienware-m17-r5/"><u>Tutorial Approfondito: Come Aggiornare Il Tuo SSD Sull'Alienware M17 R5</u></a></li>
 </ul></div>
 

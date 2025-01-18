@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11'S Issue with Adding Folders in File History Backups
-date: 2025-01-07T18:35:23.661Z
-updated: 2025-01-12T02:03:16.368Z
+date: 2025-01-17T02:10:33.642Z
+updated: 2025-01-18T00:28:03.375Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b0d297df5c97f5c875c0d9e40013c911e8c4f3b18d6fb59abc7ca17939ca2139.jpg
@@ -24,16 +24,12 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -58,11 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -84,10 +76,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -203,6 +191,10 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -217,10 +209,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -230,7 +218,7 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -255,6 +243,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -263,7 +255,15 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-canvas-clearance-techniques-for-uncluttered-image-frames/"><u>[New] 2024 Approved Canvas Clearance Techniques for Uncluttered Image Frames</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-completely-erase-your-connection-with-youtube-shorts/"><u>[Updated] In 2024, Completely Erase Your Connection with YouTube Shorts</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/iso/"><u>创建硬盘ISO镜像文件：四种全新方法</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/er-your-screen-top-10-simple-youtube-projects-for-all-creators/"><u>Conquer Your Screen Top 10 Simple YouTube Projects for All Creators</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ensuring-compatibility-making-your-digital-book-user-friendly-on-ipads-tips-and-tricks-from-flipbuildercom/"><u>Ensuring Compatibility: Making Your Digital Book User-Friendly on iPads - Tips & Tricks From FlipBuilder.com</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-comfortable-reading-with-budget-friendly-2019-amazon-kindle-model/"><u>Experience Comfortable Reading with Budget-Friendly 2019 Amazon Kindle Model</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-create-a-stunning-flipbook-with-dual-layered-backgrounds-using-templates-on-flipbuildercom/"><u>How to Create a Stunning Flipbook with Dual-Layered Backgrounds Using Templates on FlipBuilder.com</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-view-just-10-pages-on-flipbuilder-your-ultimate-guide/"><u>How to View Just 10 Pages on FlipBuilder – Your Ultimate Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-virtual-safari-androids-ultimate-animals-game-list/"><u>In 2024, Virtual Safari Android's Ultimate Animals Game List</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-it-possible-to-transfer-my-flipbook-file-from-flipbuildercom-to-a-cd-rom-detailed-instructions-inside/"><u>Is It Possible to Transfer My Flipbook File From FlipBuilder.com to a CD-ROM? Detailed Instructions Inside</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-through-instagrams-approval-process-achieving-official-recognition/"><u>Navigating Through Instagram's Approval Process: Achieving Official Recognition</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/seamless-audio-experience-on-your-pc-fixing-windows-117-sound-distortion-and-stutter-issues/"><u>Seamless Audio Experience on Your PC: Fixing Windows 11/7 Sound Distortion & Stutter Issues</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
-<li><a href="https://win-info.techidaily.com/windows-defender-vs-traditional-antivirus-programs-what-sets-them-apart/"><u>Windows Defender Vs. Traditional Antivirus Programs: What Sets Them Apart?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-filmoras-most-attractive-edits/"><u>[New] In 2024, Unveiling Filmora's Most Attractive Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-powerpoints-voice-recognition-lands-market/"><u>[Updated] Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-graphic-design-evolution-post-acid-review/"><u>2024 Approved Graphic Design Evolution Post-ACID Review</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/beat-windows-getting-ready-error-in-windows-a-comprehensive-guide-with-9-fixes-for-windows-1187/"><u>Beat 'Windows Getting Ready' Error in WINDOWS: A Comprehensive Guide with 9 Fixes for Windows 11/8/7</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/depannage-rapide-pourquoi-votre-disque-dur-nest-pas-detecte-suite-au-formatage/"><u>Dépannage Rapide : Pourquoi Votre Disque Dur N'est Pas Détecté Suite Au Formatage</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/edit-videos-for-free-top-10-online-editors-with-no-watermark-restrictions-for-2024/"><u>Edit Videos for Free Top 10 Online Editors with No Watermark Restrictions for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/facilita-di-ripristino-dei-tuoi-dati-cloud-in-pochi-passaggi-un-tutorial-rapido-ed-efficiente/"><u>Facilità Di Ripristino Dei Tuoi Dati Cloud in Pochi Passaggi: Un Tutorial Rapido Ed Efficiente</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/free-vs-paid-antivirus-software-which-offers-better-security/"><u>Free Vs. Paid Antivirus Software: Which Offers Better Security?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-swift-and-simple-mac-images-identifying-the-best-5-screenshot-methods/"><u>In 2024, Swift & Simple Mac Images Identifying the Best 5 Screenshot Methods</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/microsoft-synctoy-ersatz-gunstige-und-kostenfreie-optionen-fur-dateisynchronisation/"><u>Microsoft SyncToy Ersatz - Günstige Und Kostenfreie Optionen Für Dateisynchronisation</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ricoh-theta-sc2-handhraning-360-degree-exploration/"><u>Ricoh Theta SC2: Handhraning 360-Degree Exploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta-for-2024/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/turning-onoff-the-touch-typing-feature-on-windows-10-a-step-by-step-guide/"><u>Turning On/Off the Touch Typing Feature on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/zastosowanie-serwera-windows-2019-na-przecietnosc-metali-golej-dopolnikowe-zakresy-kopiowania-zapasowego-i-reanimacji/"><u>Zastosowanie Serwera Windows 2019 Na Przeciętność Metali Gołej: Dopólnikowe Zakresy Kopiowania Zapasowego I Reanimacji</u></a></li>
 </ul></div>
 

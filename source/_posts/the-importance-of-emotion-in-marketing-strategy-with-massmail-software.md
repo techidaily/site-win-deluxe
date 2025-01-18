@@ -1,7 +1,7 @@
 ---
 title: The Importance of Emotion in Marketing Strategy with MassMail Software
-date: 2025-01-04T17:40:51.012Z
-updated: 2025-01-12T05:50:53.428Z
+date: 2025-01-10T16:29:17.196Z
+updated: 2025-01-17T21:09:22.509Z
 tags:
   - product
 categories:
@@ -33,16 +33,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,21 +78,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -106,6 +98,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -113,6 +109,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-learn-to-keep-unwanted-suggestions-away-from-ig/"><u>[New] Learn to Keep Unwanted Suggestions Away From IG</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-choosing-a-win10-video-grabber-tool-for-2024/"><u>[New] The Ultimate Guide to Choosing a Win10 Video Grabber Tool for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience-for-2024/"><u>[Updated] Happy Haven 20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-total-unlinkage-from-youtube-shorts-complete-guide/"><u>[Updated] Total Unlinkage From YouTube Shorts Complete Guide</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1-hiren-boot-cd-disk-erasure-process-explained-in-detail/"><u>1. Hiren Boot CD Disk Erasure Process Explained in Detail</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/2024-valheim-startup-error-solutions-how-to-ensure-smooth-launch-and-gameplay-experience/"><u>2024 Valheim Startup Error Solutions: How to Ensure Smooth Launch and Gameplay Experience</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/9-reliable-substitutes-for-accuranker-that-enhance-your-seo-analysis-discover-the-best-tools/"><u>9 Reliable Substitutes for AccuRanker That Enhance Your SEO Analysis - Discover the Best Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/die-grunde-fur-die-fehlgeschlagene-installation-von-aktualisierungen-bei-einem-ausgeschalteten-pc/"><u>Die Gründe Für Die Fehlgeschlagene Installation Von Aktualisierungen Bei Einem Ausgeschalteten PC</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-strategies-for-handling-partition-issues-using-acronis-disk-director/"><u>Effective Strategies for Handling Partition Issues Using Acronis Disk Director</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/exploring-superior-options-to-buzzsumo-for-in-depth-content-insights-and-effective-seo-techniques-the-ultimate-toolkit/"><u>Exploring Superior Options to BuzzSumo for In-Depth Content Insights and Effective SEO Techniques | The Ultimate Toolkit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-for-armored-core-vi-fires-of-rubicon-players-experience/"><u>Fixing Launch Errors for Armored Core VI: Fires of Rubicon Players Experience</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guia-paso-a-paso-para-crear-una-imagen-del-sistema-con-windows-10/"><u>Guía Paso a Paso Para Crear Una Imagen Del Sistema Con Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-find-x7-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Find X7 Ultra Lock Screen Password?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-your-brands-voice-in-the-online-world-confident-marketing-via-massmail-solutions/"><u>Mastering Your Brand's Voice in the Online World: Confident Marketing via MassMail Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/myspace-revolution-exploring-the-incredible-impact-of-massmailer-apps/"><u>MySpace Revolution: Exploring the Incredible Impact of MassMailer Apps</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728504445523-office/"><u>Office</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/paso-a-paso-facil-transicion-de-windows-server-2019-a-2022/"><u>Paso a Paso: Fácil Transición De Windows Server 2019 a 2022.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/peeling-back-layers-of-ai-security-the-threat-of-prompt-injection-attacks/"><u>Peeling Back Layers of AI Security: The Threat of Prompt Injection Attacks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958824595-quick-access-to-usb-webcam-drivers-start-your-download-today/"><u>Quick Access to USB Webcam Drivers: Start Your Download Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-merge-worlds-easily-linking-instagram-and-facebook-accounts/"><u>[New] In 2024, Merge Worlds Easily Linking Instagram & Facebook Accounts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-next-gen-screen-capture-unleashed-apeaksofts-2023-review/"><u>[New] In 2024, Next-Gen Screen Capture Unleashed Apeaksoft’s 2023 Review</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-channel-control-center-creator-studio-essentials/"><u>[Updated] Channel Control Center Creator Studio Essentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725290141870-dvd-pc/"><u>特定ソフトで簡単DVDコピー完了: 制限無し・PC非必須の全解説！初めてのユーザーから上達者まで安心</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/complete-guide-secure-your-data-by-using-the-built-in-file-history-feature-on-windows-10-and-11-tips-from-zdnet/"><u>Complete Guide: Secure Your Data by Using the Built-In File History Feature on Windows 10 & 11 - Tips From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/defining-desires-discovering-consumer-demands-and-future-prospects-for-microsoft-surface-insights-from-zdnet/"><u>Defining Desires: Discovering Consumer Demands & Future Prospects for Microsoft Surface - Insights From ZDNet</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/get-microsoft-project-and-visio-pro-licenses-now-for-a-steal-only-20-shop-from-trusted-sources-on-zdnet-today/"><u>Get Microsoft Project and Visio Pro Licenses Now for a Steal – Only $20! Shop From Trusted Sources on ZDNET Today.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-2540-driver-installation-guide-and-updates/"><u>HP DeskJet 2540 Driver Installation Guide and Updates</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/microsofts-breakthrough-revelations-at-the-surface-plus-ai-showcase-coverage-on-zdnet/"><u>Microsoft's Breakthrough Revelations at the Surface Plus AI Showcase – Coverage on ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-command-execution-setting-terminal-preference/"><u>Optimize Command Execution: Setting Terminal Preference</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/purchase-microsoft-office-2019-on-pcmac-at-just-under-25-immediate-discounts-available-today/"><u>Purchase Microsoft Office 2019 on PC/Mac at Just Under $25 - Immediate Discounts Available Today!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revive-your-aging-desktop-with-these-5-proven-tricks-for-windows-11-upgrade-most-solutions-gratis/"><u>Revive Your Aging Desktop with These 5 Proven Tricks for Windows 11 Upgrade - Most Solutions Gratis!</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/revolutionizing-on-the-go-guidance-discover-how-microsoft-redefines-windows-copilot-as-a-standalone-app-for-improved-user-experience-zdnet/"><u>Revolutionizing On-the-Go Guidance: Discover How Microsoft Redefines Windows Copilot as a Standalone App for Improved User Experience | ZDNet</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/scambia-facilmente-file-ed-elenchi-di-windows-in-soli-due-pc-mediante-metodi-diversi-and-affidabili/"><u>Scambia Facilmente File Ed Elenchi Di Windows in Soli Due PC Mediante Metodi Diversi & Affidabili</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154460-9781608681617-the-last-frontier/"><u>The Last Frontier | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-stability-glitches-in-total-war-warhammer-ii/"><u>Troubleshooting Guide: Overcoming Stability Glitches in Total War: WARHAMMER II</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/unveiling-of-microsofts-windows-11-se-and-affordable-250-surface-laptop-se-targeting-educators-zdnet-update/"><u>Unveiling of Microsoft's Windows 11 SE and Affordable $250 Surface Laptop SE Targeting Educators – ZDNet Update</u></a></li>
 </ul></div>
 

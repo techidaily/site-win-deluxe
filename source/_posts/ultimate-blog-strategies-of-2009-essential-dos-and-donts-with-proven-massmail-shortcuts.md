@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Blog Strategies of 2009: Essential Do's & Don'ts with Proven MassMail Shortcuts"
-date: 2025-01-07T11:37:47.061Z
-updated: 2025-01-12T02:27:39.310Z
+date: 2025-01-11T16:21:25.151Z
+updated: 2025-01-17T16:40:10.027Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,10 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -67,7 +75,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -78,21 +86,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-ace-3-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus Ace 3 Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/3-ways-to-adjust-the-mouse-double-click-speed-on-windows/"><u>3 Ways to Adjust the Mouse Double-Click Speed on Windows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/exploring-aftermath-unveiling-the-outcomes-of-the-boxer-rebellion-insights-by-yl-computing-and-yl-software/"><u>Exploring Aftermath: Unveiling the Outcomes of the Boxer Rebellion - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-gt-neo-5-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme GT Neo 5 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elite-portable-playstation-storage-best-external-units/"><u>In 2024, Elite Portable PlayStation Storage Best External Units</u></a></li>
-<li><a href="https://fox-http.techidaily.com/pro-level-prowess-the-best-video-editors-for-your-drone-footage/"><u>Pro-Level Prowess The Best Video Editors for Your Drone Footage</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-adjusting-your-windows-defender-preferences-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Windows Defender Preferences - Tips From YL Computing</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/troubleshooting-common-issues-why-your-graphics-card-may-cease-to-work-yl-technology-advice/"><u>Troubleshooting Common Issues: Why Your Graphics Card May Cease to Work - YL Technology Advice</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unraveling-the-reasons-for-constructing-chinas-iconic-great-wall-a-perspective-by-yl-technologies/"><u>Unraveling the Reasons for Constructing China's Iconic Great Wall: A Perspective by YL Technologies</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unveiling-perks-of-digital-assets-a-dive-into-the-impactful-world-of-cryptocurrencies-by-yl-software/"><u>Unveiling Perks of Digital Assets: A Dive Into the Impactful World of Cryptocurrencies by YL Software</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/webcamsavvy-essentialrecordinghacks/"><u>WebCamSavvy EssentialRecordingHacks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-power-of-personal-storytelling-in-video-content/"><u>[New] In 2024, The Power of Personal Storytelling in Video Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-spark-inspiration-free-soundtracks-to-enhance-projects/"><u>[Updated] Spark Inspiration - Free Soundtracks to Enhance Projects!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/come-scegliere-il-migliore-programma-clonadisk-per-windows-11-garantendo-un-avvio-sicuro-e-affidabile/"><u>Come Scegliere Il Migliore Programma ClonaDisk per Windows 11, Garantendo Un Avvio Sicuro E Affidabile</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-tutorial-role-management-for-ad-members-within-vcenter-environment/"><u>Comprehensive Tutorial: Role Management for AD Members Within vCenter Environment</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-steps-for-uninstalling-windows-10-updates/"><u>Effective Steps for Uninstalling Windows 10 Updates</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-full-picture-unraveling-the-google-podcast-application/"><u>In 2024, Full Picture Unraveling the Google Podcast Application</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-iphone-burst-photography-for-2024/"><u>Mastering iPhone Burst Photography for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/metodi-rapidi-per-il-ripristino-dei-dati-risolvi-problemi-di-dischi-duri-non-funzionanti/"><u>Metodi Rapidi per Il Ripristino Dei Dati: Risolvi Problemi Di Dischi Duri Non Funzionanti</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tap-into-ai-bing-search-how-to-sign-up/"><u>Tap Into AI Bing Search: How to Sign Up</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-savings-on-ipads-exclusive-offers-just-for-you/"><u>Top Savings on iPads: Exclusive Offers Just For You</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/wie-man-in-windows-10-versteckte-dateien-anzeigt-problemlosung-und-support/"><u>Wie Man in Windows 10 Versteckte Dateien Anzeigt - Problemlösung Und Support</u></a></li>
 </ul></div>
 
