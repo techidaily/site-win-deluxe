@@ -1,7 +1,7 @@
 ---
 title: "Lead Generation Excellence: Top 15 Proven Strategies From 2012'S Back to Basics Approach | Efficacious Mailers"
-date: 2025-01-13T01:07:16.633Z
-updated: 2025-01-17T16:02:31.649Z
+date: 2025-01-19T00:44:43.765Z
+updated: 2025-01-23T18:00:43.284Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -79,7 +75,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -90,6 +86,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -98,13 +98,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -119,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,24 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nstrumental-showcase-highlighting-the-best-15-video-techniques-for-2024/"><u>[New] Instrumental Showcase Highlighting the Best 15 Video Techniques for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-comprehensive-examination-of-syma-x5c-perfect-for-uav-newbies-for-2024/"><u>[Updated] Comprehensive Examination of Syma X5C Perfect for UAV Newbies for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-streamlining-your-media-mastering-mp4-and-other-formats-in-vlc-for-2024/"><u>[Updated] Streamlining Your Media Mastering MP4 & Other Formats in VLC for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728463188040-sd/"><u>「バッファローSDカードデータ復旧ガイド：ステップバイステップの自力回復方法」</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-techniques-for-crafting-breathtakingly-long-lasting-time-movies-using-photo-apps-and-online-services/"><u>2024 Approved Step by Step Techniques for Crafting Breathtakingly Long Lasting Time Movies Using Photo Apps & Online Services</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>2024 Approved Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/behebe-den-windows-nten-upgrade-stillstand-bei-99-oder-0-erfahre-unsere-top-7-problemlosungsstrategien/"><u>Behebe Den Windows N'ten Upgrade-Stillstand Bei 99% Oder 0% - Erfahre Unsere Top-7 Problemlösungsstrategien!</u></a></li>
-<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comment-reinitialiser-le-bureau-lenovo-thinkcentre-en-mode-de-fabrication-dorigine-methodes-completes/"><u>Comment Réinitialiser Le Bureau Lenovo ThinkCentre en Mode De Fabrication D'Origine? - Méthodes Complètes</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guide-detaille-mettre-en-ordre-le-demarrage-de-windows-server-201solutions-rapides-et-fiables/"><u>Guide Détaillé: Mettre en Ordre Le Démarrage De Windows Server 201_Solutions Rapides Et Fiables</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-realme-c51-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Realme C51</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-narzo-60x-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/insights-into-the-world-of-touch-and-movement-detection/"><u>Insights Into the World of Touch and Movement Detection</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-xiaomi-redmi-k70e-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Xiaomi Redmi K70E has been deleted</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/server-2016-has-been-replaced-with-the-newer-version-server-2019-but-still-maintains-relevance-for-users-who-might-be-updating-their-servers-from-an-older-t157/"><u>Server 2016 Has Been Replaced with the Newer Version, Server 2019, but Still Maintains Relevance for Users Who Might Be Updating Their Servers From an Older to a Newer Model.</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/story-2-the-predator-introduction-pitfall/"><u>Story 2: The Predator Introduction Pitfall</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/successfully-integrating-external-hard-drives-with-windows-server-backups-guide-complete/"><u>Successfully Integrating External Hard Drives with Windows Server Backups - Guide Complete</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-4-simple-strategies-for-effective-mi-to-mi-data-transfers/"><u>Top 4 Simple Strategies for Effective MI-to-MI Data Transfers</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/uskorennaya-migraciya-fajlov-s-hdd-na-ssd-v-windows-1011-dva-sposoba-dlya-polzovatelej/"><u>Ускоренная Миграция Файлов С HDD На SSD В Windows 10/11: Два Способа Для Пользователей</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-beginners-walkthrough-for-screencastify-recorder/"><u>[New] 2024 Approved Beginner's Walkthrough for Screencastify Recorder</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-view-count-prime-hashtags-strategy/"><u>[New] 2024 Approved Elevate View Count Prime Hashtags Strategy</u></a></li>
+<li><a href="https://discover-help.techidaily.com/easy-guide-protect-your-pc-with-windows-antivirus-scanning-expert-advice-from-yl-computing/"><u>Easy Guide: Protect Your PC with Windows Antivirus Scanning - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/natural-language-processing-explained-a-comprehensive-guide-with-essential-seo-strategies/"><u>Natural Language Processing Explained: A Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/retrospective-facebook-viewing-techniques-for-laptops-and-phones-for-2024/"><u>Retrospective Facebook Viewing Techniques for Laptops and Phones for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-device-avoiding-the-risk-of-malware-in-facebook-messenger/"><u>Securing Your Device: Avoiding the Risk of Malware in Facebook Messenger</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/seo-mastery-with-search-engine-ads-discover-the-powersuite-advantages/"><u>SEO Mastery with Search Engine Ads: Discover the PowerSuite Advantages</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/solving-start-menu-issues-17-essential-fixes-for-critical-errors/"><u>Solving Start Menu Issues: 17 Essential Fixes for Critical Errors</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2007-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2007 File Error | Stellar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-zte-nubia-flip-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your ZTE Nubia Flip 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
