@@ -1,7 +1,7 @@
 ---
 title: "The Art of Overcoming Adversity in 2009: Achieving Contentment Through MassMail Applications"
-date: 2025-01-19T05:08:43.417Z
-updated: 2025-01-23T19:43:49.184Z
+date: 2025-01-26T19:26:37.095Z
+updated: 2025-01-31T17:44:11.701Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -32,17 +36,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -78,6 +74,10 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -87,7 +87,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -107,7 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -118,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-appreciation-bundle-ultimate-selection-of-templates/"><u>[New] Appreciation Bundle Ultimate Selection of Templates</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-popular-imagery-origins-decoded-for-2024/"><u>[New] Popular Imagery Origins Decoded for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-simplified-methods-for-recording-successful-online-classes-and-meets/"><u>[Updated] Simplified Methods for Recording Successful Online Classes & Meets</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728502973597-gmail3/"><u>失われたGmailメッセージの取り戻し：3種類のテクニックを解説する</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/discover-the-most-efficient-and-free-solutions-as-substitutes-for-backup4all-in-windows-7-8-and-10-environments/"><u>Discover the Most Efficient and Free Solutions as Substitutes for Backup4all in Windows 7, 8 & 10 Environments</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/dropbox-troubleshooting-guide-steps-to-successfully-restore-missing-files/"><u>Dropbox Troubleshooting Guide: Steps to Successfully Restore Missing Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-windows-1110-mic-issues-solutions-when-zoom-audio-fails/"><u>Fix Your Windows 11/10 Mic Issues: Solutions When Zoom Audio Fails</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-nubia-red-magic-9-proplus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Nubia Red Magic 9 Pro+ Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lava-storm-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lava Storm 5G</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-best-of-home-workouts-top-yoga-channels-online/"><u>In 2024, The Best of Home Workouts Top Yoga Channels Online</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/missing-content-warning-webpage-does-not-exist-error-similar-problem/"><u>Missing Content Warning: Webpage Does Not Exist (Error # Similar Problem)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-expert-recommended-video-animation-apps-for-mobile-for-2024/"><u>New Expert-Recommended Video Animation Apps for Mobile for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/securekey-assessment-utility-ensuring-robustness-of-your-secret-keys-with-professional-analysis/"><u>SecureKey Assessment Utility: Ensuring Robustness of Your Secret Keys with Professional Analysis</u></a></li>
-<li><a href="https://facebook.techidaily.com/shifting-landscape-us-antitrust-laws-targeting-silicon-valley-giants/"><u>Shifting Landscape: U.S. Antitrust Laws Targeting Silicon Valley Giants</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/sichere-speicherung-mit-wd-my-cloud-auf-google-drive-top-freie-software-fur-die-datensicherung/"><u>Sichere Speicherung Mit WD My Cloud Auf Google Drive - Top-Freie Software Für Die Datensicherung</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/solucion-de-errores-en-la-proteccion-de-recursos-de-windows-defender-actualizacion/"><u>Solución De Errores en La Protección De Recursos De Windows Defender - Actualización</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srgb-vs-standard-rgb/"><u>Srgb vs Standard Rgb</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/usb-flash-drive-revival-with-ifind-data-restore-a-step-by-step-tutorial-to-salvage-your-valuable-files/"><u>USB Flash Drive Revival with IFind Data Restore: A Step-by-Step Tutorial to Salvage Your Valuable Files</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728499686729-windows-7-pc/"><u>Windows 7 PC 復活テクニック：データ破棄無しで最適化</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-amusing-clip-loading-appraisal/"><u>[New] 2024 Approved Amusing Clip Loading Appraisal</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-secretly-browse-instagram-stories-on-desktop-and-mobile-devices-for-free/"><u>[New] How to Secretly Browse Instagram Stories on Desktop and Mobile Devices (For Free)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-comprehensive-guide-to-downloading-standardized-youtube-images/"><u>2024 Approved Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-driver-updates-made-simple-how-to-secure-blockchain-functionality-on-your-desktop/"><u>AMD Driver Updates Made Simple: How to Secure Blockchain Functionality on Your Desktop</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/conversion-video-gratuite-fichiers-mov-vers-wma-avec-movexpert/"><u>Conversion Vidéo Gratuite: Fichiers MOV Vers WMA Avec MOVEXPERT</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/dpx-gif-movavi-dpx-gif/"><u>DPX 픽셀을 기반으로 GIF에 전환하는 Movavi의 금세공적인 온라인 DPX GIF 파이어 - 제약 없음</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-boost-engagement-the-science-of-effective-video-captions-on-tiktok-for-2024/"><u>How to Boost Engagement The Science of Effective Video Captions on TikTok for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/i-migliori-8-programmi-free-per-convertire-le-foto-in-cartoni-animati-online/"><u>I Migliori 8 Programmi Free per Convertire Le Foto in Cartoni Animati Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/movavis-ultimate-guide-to-convert-flac-audio-files-at-no-cost/"><u>Movavi's Ultimate Guide to Convert FLAC Audio Files at No Cost</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/tecnicas-facilmente-executaveis-como-alterar-o-tamanho-de-arquivos-de-video-nas-plataformas-do-windows-e-mac/"><u>Técnicas Facilmente Executáveis: Como Alterar O Tamanho De Arquivos De Vídeo Nas Plataformas Do Windows E Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-avi-video-compression-tool-shrink-and-enhance-your-videos-with-unmatched-clarity/"><u>Ultimate AVI Video Compression Tool: Shrink and Enhance Your Videos with Unmatched Clarity</u></a></li>
 </ul></div>
 

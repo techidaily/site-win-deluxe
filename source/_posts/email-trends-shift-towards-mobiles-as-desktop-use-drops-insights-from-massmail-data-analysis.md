@@ -1,7 +1,7 @@
 ---
 title: Email Trends Shift Towards Mobiles as Desktop Use Drops - Insights From Massmail Data Analysis
-date: 2025-01-21T06:08:04.585Z
-updated: 2025-01-24T00:36:16.591Z
+date: 2025-01-26T18:14:46.101Z
+updated: 2025-01-31T16:31:47.865Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -74,41 +70,37 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -122,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/udience-retention-the-key-to-a-great-youtube-conclusion-for-2024/"><u>[New] Audience Retention The Key to a Great YouTube Conclusion for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-video-chatcall-on-snapchat-with-3-steps/"><u>[Updated] In 2024, How to Video Chat/Call on Snapchat with 3 Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-podcast-ideas-into-proficient-scriptwriting-techniques-samples/"><u>[Updated] In 2024, Transform Your Podcast Ideas Into Proficient Scriptwriting (Techniques, Samples)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-plot-puns-on-pop-culture/"><u>2024 Approved Plot Puns on Pop Culture</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-5-sd-card-handlers-for-your-android-device/"><u>Best 5 SD Card Handlers for Your Android Device</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-ios-apps-for-pdf-editing-top-picks-of-2020/"><u>Best iOS Apps for PDF Editing: Top Picks of 2020</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/closer-views-using-videoleap-software-for-2024/"><u>Closer Views Using Videoleap Software for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/discover-the-ultimate-list-of-top-8-live-streaming-apps-for-smartphones-and-tablets/"><u>Discover the Ultimate List of Top 8 Live Streaming Apps for Smartphones and Tablets</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-methods-for-transferring-songs-onto-your-android-device/"><u>Effective Methods for Transferring Songs Onto Your Android Device</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effortless-methods-for-restoring-accidentally-erased-messages-from-your-ipad/"><u>Effortless Methods for Restoring Accidentally Erased Messages From Your iPad</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expert-review-leading-photo-management-software-for-windows-10-users/"><u>Expert Review: Leading Photo Management Software for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-enabledisable-comments-a-youtube-instructional/"><u>In 2024, Enable/Disable Comments A YouTube Instructional</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-exploring-free-screen-capture-tools/"><u>In 2024, Exploring Free Screen Capture Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-iphone-maintenance-comprehensive-troubleshooting-strategies-for-2019-models/"><u>Mastering iPhone Maintenance: Comprehensive Troubleshooting Strategies for 2019 Models</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/meme-matrix-top-10-memes-on-social-media-platforms-for-2024/"><u>Meme Matrix Top 10 Memes on Social Media Platforms for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-best-strategies-for-high-quality-audio-capture-on-microsofts-latest-operating-system-windows-11/"><u>The Best Strategies for High-Quality Audio Capture on Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-ranking-digital-photo-background-eraser-tools/"><u>Top-Ranking Digital Photo Background Eraser Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-audio-recording-the-ultimate-audacity-course/"><u>[New] Pro Audio Recording The Ultimate Audacity Course</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-comparing-tiktok-and-youtube-shorts-for-personal-content-creation/"><u>[Updated] 2024 Approved Comparing TikTok & YouTube Shorts for Personal Content Creation</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/sidaomei-image-deployment/"><u>解決方案：在缺乏SID的情況下執行AOMEI Image Deployment</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/all-about-pubg-mobile-comprehensive-tips-and-tricks-for-top-level-gameplay/"><u>All About PUBG Mobile: Comprehensive Tips & Tricks for Top-Level Gameplay</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/breaking-free-from-persistent-error-loops-on-pc-tips-and-tricks-for-windows-users-versions-10-81-8/"><u>Breaking Free From Persistent Error Loops on PC - Tips & Tricks for Windows Users (Versions 10, 8.1, 8)</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprendre-les-differences-cles-sauvegarde-du-systeme-vs-sauvegarde-sur-disque-dur-guide-complet/"><u>Comprendre Les Différences Clés : Sauvegarde Du Système Vs. Sauvegarde Sur Disque Dur - Guide Complet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-wizardry-and-the-mavic-pro-breakdown/"><u>Drone Wizardry and the Mavic Pro Breakdown</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-pro-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 Pro</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-reliable-is-windows-defender-against-viruses-a-deep-dive-with-malwarefox-perspectives/"><u>How Reliable Is Windows Defender Against Viruses: A Deep Dive with MalwareFox Perspectives</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-recover-accidentally-deleted-drives-on-windows-1011-a-step-by-step-guide/"><u>How to Recover Accidentally Deleted Drives on Windows 10/11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-12-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 12? How to Fix it?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y100-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y100 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-webcampro-recordingstepssimplified/"><u>In 2024, WebCamPro RecordingStepsSimplified</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/navigate-email-campaign-success-discover-our-ultimate-list-of-terminology-tips-and-extras-by-massmail-experts/"><u>Navigate Email Campaign Success: Discover Our Ultimate List of Terminology, Tips, and Extras by MassMail Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-snapchats-new-spotlight-functionality/"><u>Navigating Snapchat's New Spotlight Functionality</u></a></li>
 </ul></div>
 

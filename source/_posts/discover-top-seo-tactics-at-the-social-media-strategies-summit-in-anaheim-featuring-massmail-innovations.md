@@ -1,7 +1,7 @@
 ---
 title: Discover Top SEO Tactics at The Social Media Strategies Summit in Anaheim - Featuring MassMail Innovations
-date: 2025-01-19T04:40:37.664Z
-updated: 2025-01-24T04:50:34.954Z
+date: 2025-01-29T20:55:42.573Z
+updated: 2025-01-31T19:26:34.323Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -51,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -79,7 +79,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -91,7 +91,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -102,6 +102,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -110,13 +114,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-photo-text-editor-to-add-text-on-picture/"><u>[New] Best Photo Text Editor to Add Text on Picture</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-exploring-youtubes-strategy-for-video-short-promotion/"><u>[Updated] Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-designing-with-dirt-incorporating-natural-elements-into-urban-areas/"><u>[Updated] In 2024, Designing with Dirt Incorporating Natural Elements Into Urban Areas</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-renaming-your-podcast-leading-ai-generators-explored/"><u>[Updated] In 2024, Renaming Your Podcast Leading AI Generators Explored</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-docs-with-chatgpt-technology-6-innovative-applications-to-transform-pdfs-into-conversations/"><u>Enhance Your Docs with ChatGPT Technology: 6 Innovative Applications to Transform PDFs Into Conversations</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/exploring-the-future-how-can-cryptocurrencies-be-utilized-in-various-sectors-innovations-by-yl-computing/"><u>Exploring the Future: How Can Cryptocurrencies Be Utilized in Various Sectors? - Innovations by YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme Narzo 60 Pro 5G?</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/identifying-and-resolving-scanning-issues-caused-by-programs-on-your-pc-tips-and-insights-from-yl-software-professionals/"><u>Identifying and Resolving Scanning Issues Caused by Programs on Your PC - Tips & Insights From YL Software Professionals</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/identifying-signs-of-hard-drive-failure-a-comprehensive-guide-by-yl-computing/"><u>Identifying Signs of Hard Drive Failure: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Pro</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/master-updating-driver-software-with-windows-control-panel-insights-by-yl-software/"><u>Master Updating Driver Software with Windows Control Panel Insights by YL Software</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/opening-rar-archives-on-windows-11-a-step-by-step-guide-yl-software-solutions/"><u>Opening RAR Archives on Windows 11: A Step-by-Step Guide - YL Software Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-techniques-converting-visual-content-on-pinterest-to-mp3s-for-2024/"><u>Prime Techniques Converting Visual Content on Pinterest To MP3s for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide-for-2024/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-simplifying-age-confirmation-on-tiktok-for-2024/"><u>[New] Simplifying Age Confirmation on TikTok for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-srt-to-subcap-conversion-techniques/"><u>[Updated] SRT to SUBCAP Conversion Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picscanners-face-blurring-made-easy-for-everyone/"><u>2024 Approved PicScanner's Face-Blurring Made Easy for Everyone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-guardar-de-forma-segura-tu-informacion-en-dropbox-a-un-disco-duro-externo/"><u>Cómo Guardar De Forma Segura Tu Información en Dropbox a Un Disco Duro Externo</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-analysis-of-2010-2011-trends-in-email-open-and-click-through-metrics-with-insights-from-massmail-platform/"><u>Comprehensive Analysis of 2010-2011: Trends in Email Open and Click-Through Metrics with Insights From MassMail Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-youtube-future-scaling-up-or-staying-independent/"><u>Crafting a YouTube Future Scaling Up or Staying Independent?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-free-c-span-video-downloads/"><u>Cutting Edge Techniques for Free C-Span Video Downloads</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-to-safely-replace-your-microsoft-surface-ssd-across-different-windows-environments-7-8-10-11/"><u>How to Safely Replace Your Microsoft Surface SSD Across Different Windows Environments (7, 8, 10, 11)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Identify some outdated your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/seamless-google-drive-integration-for-pc-data-backups-discover-the-2-quick-methods/"><u>Seamless Google Drive Integration for PC Data Backups - Discover the 2 Quick Methods</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-turning-off-inprivate-browsing-in-google-chrome-with-malwarefox/"><u>Step-by-Step Guide: Turning Off InPrivate Browsing in Google Chrome with MalwareFox</u></a></li>
 </ul></div>
 

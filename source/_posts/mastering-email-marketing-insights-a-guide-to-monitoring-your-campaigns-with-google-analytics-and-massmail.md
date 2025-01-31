@@ -1,7 +1,7 @@
 ---
 title: "Mastering Email Marketing Insights: A Guide to Monitoring Your Campaigns with Google Analytics and MassMail"
-date: 2025-01-16T22:15:15.754Z
-updated: 2025-01-24T04:49:52.350Z
+date: 2025-01-24T19:32:01.737Z
+updated: 2025-01-31T18:33:32.039Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -47,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,16 +74,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -94,10 +98,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -110,12 +110,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-how-to-edit-360-degree-video-in-premiere-pro/"><u>[New] In 2024, How to Edit 360 Degree Video in Premiere Pro</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-titans-of-tutorials-youtube-leaders/"><u>[New] The Titans of Tutorials YouTube Leaders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-guide-for-soundless-video-documentation-for-2024/"><u>[Updated] How-To Guide for Soundless Video Documentation for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/u3/"><u>如何找回丢失的U盘数据：科学证实的3个解决手段</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/come-scegliere-il-migliore-programma-clonadisk-per-windows-11-garantendo-un-avvio-sicuro-e-affidabile/"><u>Come Scegliere Il Migliore Programma ClonaDisk per Windows 11, Garantendo Un Avvio Sicuro E Affidabile</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/daftar-resmi-cara-menghilangkan-data-pada-pc-terkini-petualangan-perjalanan-tahun-2024/"><u>Daftar Resmi Cara Menghilangkan Data Pada PC Terkini - Petualangan Perjalanan Tahun 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211345464-9783964464996-die-wahre-schule-ist-das-leben-band-1/"><u>Die wahre Schule ist das Leben - Band 1 | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-sonic-bliss-my-unexpected-switch-from-high-end-soundbar-to-jbl-tech-review/"><u>Discovering Sonic Bliss: My Unexpected Switch From High-End Soundbar to JBL | Tech Review.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-4201-no-more-effective-solutions-to-get-your-genshin-impact-running-smoothly-again/"><u>Error 4201 No More: Effective Solutions to Get Your Genshin Impact Running Smoothly Again</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-future-of-transport-tesla-robotaxi-price-speculations-expected-debut-date-technical-details-and-emerging-rumors/"><u>Exploring the Future of Transport: Tesla Robotaxi Price Speculations, Expected Debut Date, Technical Details, and Emerging Rumors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-rgb-to-srgb-understanding-color-transition-for-2024/"><u>From Rgb to Srgb Understanding Color Transition for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-transfer-your-outlook-contact-list-to-an-exterior-hard-disk/"><u>How to Transfer Your Outlook Contact List to an Exterior Hard Disk</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 3 Ways To Unlock</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/metodi-rapidi-per-il-ripristino-dei-dati-risolvi-problemi-di-dischi-duri-non-funzionanti/"><u>Metodi Rapidi per Il Ripristino Dei Dati: Risolvi Problemi Di Dischi Duri Non Funzionanti</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/pantalla-azul-en-windows-11-tus-mejores-estrategias-correctivas-y-soluciones-rapidas-ahora-disponibles/"><u>Pantalla Azul en Windows 11 - Tus Mejores Estrategias Correctivas Y Soluciones Rápidas Ahora Disponibles!</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/partizionamento-eficiente-con-backupgpt-para-su-systemas-windows-descubre-el-software-esencial/"><u>Partizionamento Eficiente Con BackupGPT Para Su Systemas Windows - Descubre El Software Esencial</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/tailored-system-restore-solutions-using-aomeis-expert-recovery-suite/"><u>Tailored System Restore Solutions Using AOMEI's Expert Recovery Suite</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-the-reasons-behind-your-phone-overheating-and-effective-cooling-techniques/"><u>Understanding the Reasons Behind Your Phone Overheating & Effective Cooling Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-assessment-parrot-ar-drone-20-enhanced-edition/"><u>[New] 2024 Approved Assessment Parrot AR Drone 2.0 Enhanced Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-professionals-approach-to-video-editing-on-youtube-for-2024/"><u>[New] A Professional's Approach to Video Editing on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ackwards-viewing-a-new-lens-for-analyzing-youtube-content-for-2024/"><u>[New] Backwards Viewing A New Lens for Analyzing YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-download-necessary-youtube-to-gif-conversion-made-easy-for-2024/"><u>[New] No Download Necessary YouTube-to-GIF Conversion Made Easy for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tarter-selection-affordable-site-purchases-for-beginners-for-2024/"><u>[New] Starter Selection Affordable Site Purchases for Beginners for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-wechat-photo-frame-specifications-for-2024/"><u>[New] WeChat Photo Frame Specifications for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices/"><u>2024 Approved Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/658286-9781446406748-an-angel-at-my-shoulder/"><u>An Angel At My Shoulder | Free Book</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/como-convertir-video-mp4-a-formato-wmv-sin-coste-con-herramientas-online-de-conversion-gratuita/"><u>Cómo Convertir Video MP4 a Formato WMV Sin Coste Con Herramientas Online De Conversión Gratuita</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/conversion-gratuite-de-fichiers-aac-en-format-aiff-sur-internet-tutomovavi/"><u>Conversion Gratuite De Fichiers AAC en Format AIFF Sur Internet - TutoMovavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/facilidad-al-dominio-de-las-presentaciones-y-slideshow-para-mac-usando-movavi/"><u>Facilidad Al Dominio De Las Presentaciones Y Slideshow Para Mac Usando Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/gratuit-online-omzetten-van-een-pgm-naar-jpeg-met-movavi-direct-en-efficient/"><u>Gratuit Online Omzetten Van Een PGM Naar JPEG Met Movavi - Direct en Efficiënt</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-comprehensive-examination-of-obs-recording-tech/"><u>In 2024, A Comprehensive Examination of OBS Recording Tech</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/montage-de-photos-avance-sur-mac-avec-movavi-photo-retoucher-editeur-graphique-parfait/"><u>Montage De Photos Avancé Sur Mac Avec Movavi Photo Retoucher - Éditeur Graphique Parfait</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transformer-des-fichiers-ts-en-webm-en-ligne-gratuitement-un-guide-complet-avec-movavi/"><u>Transformer Des Fichiers Ts en Webm en Ligne Gratuitement : Un Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/virtueel-omzetten-van-mpeg-4-in-flac-naar-voor-niemand-kosters-hefkeer-movavi-converter/"><u>Virtueel Omzetten Van MPEG-4 in FLAC Naar Voor Niemand Kosters, Hefkeer - Movavi Converter</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/web-mov-mp4-movavi/"><u>Web 콘텐츠를 갱신: 무료 MOV 프리미우트를 MP4로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1726225259767-movavi/"><u>オンラインソリューションが可能! 有料なしで動画からクリアな声を取り出せるMovaviの革新的スキル</u></a></li>
 </ul></div>
 

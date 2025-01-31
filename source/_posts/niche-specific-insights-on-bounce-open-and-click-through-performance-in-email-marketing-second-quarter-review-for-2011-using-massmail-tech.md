@@ -1,7 +1,7 @@
 ---
 title: Niche-Specific Insights on Bounce, Open, and Click-Through Performance in Email Marketing - Second Quarter Review for 2011 Using MassMail Tech
-date: 2025-01-22T21:04:39.019Z
-updated: 2025-01-23T16:14:18.285Z
+date: 2025-01-27T18:08:37.996Z
+updated: 2025-01-31T17:03:17.865Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -43,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -79,7 +83,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -91,36 +95,28 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-captivate-your-imagery-with-illustrators-motion-blur-tricks-for-2024/"><u>[New] Captivate Your Imagery with Illustrator's Motion Blur Tricks for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/humbnail-enhancement-strategies-for-higher-clickthrough-rates-on-youtube-for-2024/"><u>[New] Thumbnail Enhancement Strategies for Higher Clickthrough Rates on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-visual-storytelling-top-4-strategies-for-looped-videos-in-instagram-for-2024/"><u>[Updated] Enhance Visual Storytelling Top 4 Strategies for Looped Videos in Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-master-rapidly-expertise-in-designing-valorant-thumbnails/"><u>[Updated] Master Rapidly Expertise in Designing Valorant Thumbnails</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/text/"><u>/TEXT</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/100-tongue-twisting-challenges-for-exceptional-accent/"><u>100 Tongue-Twisting Challenges for Exceptional Accent</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-free-enterprise-templates-with-dynamic-ideas-for-slideshows/"><u>2024 Approved Free Enterprise Templates with Dynamic Ideas for Slideshows</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728472470281-u/"><u>迅速修复无法在U盘中查看文件问题 - 疑难得解</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-strategies-to-overcome-backup-errors-in-windows-11/"><u>Effective Strategies to Overcome Backup Errors in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/honest-scholarship-steering-clear-from-chatgpt-dependence/"><u>Honest Scholarship: Steering Clear From ChatGPT Dependence</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-intel-integrated-graphics-software-updates-for-windows-10-and-11/"><u>Latest Intel Integrated Graphics Software Updates for Windows 10 & 11</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/quick-guide-transferring-sd-card-data-with-windows-built-in-tools/"><u>Quick Guide: Transferring SD Card Data with Window's Built-In Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/recording-roulette-top-strategies-for-tv-show-capture/"><u>Recording Roulette Top Strategies for TV Show Capture</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/schnell-und-einfach-wiederauffinden-verschwundener-wortdokumente-fuhren-sie-ihre-reparatur-durch-kostenlos/"><u>Schnell Und Einfach: Wiederauffinden Verschwundener Wortdokumente – Führen Sie Ihre Reparatur Durch (Kostenlos)</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-solution-for-backup-issues-with-removable-usb-drives-in-all-windows-os-versions/"><u>Step-by-Step Solution for Backup Issues with Removable USB Drives in All Windows OS Versions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-3-alternatives-to-geek-squad-data-recovery-find-your-perfect-solution/"><u>Top 3 Alternatives to Geek Squad Data Recovery: Find Your Perfect Solution</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728480964449-transcend-hdd/"><u>Transcend HDDの信頼性増加：簡単なバックアップ方法</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-determining-best-free-screen-recorder/"><u>[New] 2024 Approved Determining Best Free Screen Recorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-lut-integration-in-premiere-projects/"><u>[Updated] Expert Tips for LUT Integration in Premiere Projects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-30-beginner-pro-facebook-strategies-for-boosting-sales/"><u>[Updated] Top 30 Beginner-Pro Facebook Strategies for Boosting Sales</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-from-flickering-camera-lights-to-financial-highlights/"><u>2024 Approved From Flickering Camera Lights to Financial Highlights</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-x9a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor X9a</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-decoding-social-medias-new-wave-10-realities-about-reels/"><u>In 2024, Decoding Social Media's New Wave 10 Realities About Reels</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/is-there-expert-assistance-for-horizontal-image-editing-at-flipbuildercom/"><u>Is There Expert Assistance for Horizontal Image Editing at FlipBuilder.com?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-interactive-book-to-slideshows-with-photoslide-ebooks/"><u>Mastering the Art of Interactive Book-to-Slideshows with Photoslide Ebooks</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-the-art-of-setting-bookmarks-in-your-flipbook-a-comprehensive-guide/"><u>Mastering the Art of Setting Bookmarks in Your FlipBook: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/securing-your-digital-content-setting-passwords-for-flipbook-publications-via-flipbuilder/"><u>Securing Your Digital Content: Setting Passwords for FlipBook Publications via FlipBuilder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sightline-synopsis-study-for-2024/"><u>Sightline Synopsis Study for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/transform-book-experience-read-seamlessly-on-desktops-and-smartphones-via-page-flip-ebooks-get-started-at-flipbuilder/"><u>Transform Book Experience: Read Seamlessly on Desktops & Smartphones via Page Flip eBooks | Get Started at FlipBuilder</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-non-functioning-links-in-your-flipboard-ebooks-tips-and-solutions/"><u>Troubleshooting Non-Functioning Links in Your FlipBoard Ebooks: Tips & Solutions</u></a></li>
 </ul></div>
 
