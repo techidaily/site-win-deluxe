@@ -1,7 +1,7 @@
 ---
 title: Techniques Faciles À Succès Pour Recuperer Des Images De Votre Appareil Photo Minolta
-date: 2025-01-27T16:17:11.829Z
-updated: 2025-01-31T18:40:49.262Z
+date: 2025-02-11T04:49:09.845Z
+updated: 2025-02-13T06:48:42.171Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37be4db7347e6bdc7775fbd6e2.jpg
@@ -25,16 +25,12 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -93,12 +89,16 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -109,6 +109,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -116,10 +120,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -138,7 +138,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
@@ -165,10 +165,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -177,10 +173,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -198,16 +198,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-essential-screen-capture-methods-for-rainbow-six-siege/"><u>[Updated] In 2024, Essential Screen Capture Methods for Rainbow Six Siege</u></a></li>
-<li><a href="https://facebook.techidaily.com/bringing-life-to-chats-with-augmented-reality-updates-from-fb/"><u>Bringing Life to Chats with Augmented Reality Updates From FB</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhanced-user-experience-with-dynamic-content-delivery-backed-by-cookiebot-technology/"><u>Enhanced User Experience with Dynamic Content Delivery: Backed by Cookiebot Technology</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/essential-digital-marketing-workshops-not-to-miss-mastering-strategies-with-massmail-tools/"><u>Essential Digital Marketing Workshops Not to Miss: Mastering Strategies with MassMail Tools</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/expertly-ranked-disk-division-repair-applications-for-windows-10-operating-system/"><u>Expertly Ranked Disk Division Repair Applications for Windows 10 Operating System</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-dell-wd19-drivers-step-by-step-installation/"><u>Get the Latest Dell WD19 Drivers: Step-by-Step Installation</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/guida-passo-passo-per-creare-e-utilizzare-le-immagini-iso-del-tuo-hard-disk-in-windows-10-o-11/"><u>Guida Passo-Passo per Creare E Utilizzare Le Immagini ISO Del Tuo Hard Disk in Windows 10 O 11</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transform-your-content-into-conversations-explore-photographic-storytelling-and-brand-growth-using-massmail/"><u>Transform Your Content Into Conversations: Explore Photographic Storytelling & Brand Growth Using Massmail</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-mystery-of-windows-11s-black-display-dilemma/"><u>Ultimate Guide: Resolving the Mystery of Windows 11'S Black Display Dilemma</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-permalinks-in-seo-comprehensive-guide-with-best-practices/"><u>Understanding Permalinks in SEO: Comprehensive Guide with Best Practices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-googles-gemini-potential-comprehensive-instructions-for-activating-gemini-ai-on-android-phones/"><u>Unlocking Google's Gemini Potential: Comprehensive Instructions for Activating Gemini AI on Android Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unparalleled-production-choosing-the-top-webcam-for-podcasts/"><u>[New] Unparalleled Production Choosing the Top Webcam for Podcasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-android-and-ios-users-choice-top-playlist-saving-apps-for-youtube/"><u>[Updated] 2024 Approved Android & iOS Users' Choice Top Playlist Saving Apps for YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-obtain-exclusive-free-media-from-elite-4-youtube-clips/"><u>[Updated] Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/choisir-entre-telecharger-dans-le-nuage-et-installer-localement-conseils-essentiels-pour-la-perennite-des-donnees/"><u>Choisir Entre Télécharger Dans Le Nuage Et Installer Localement: Conseils Essentiels Pour La Pérennité Des Données</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/comprehensive-atomic-lead-harvesting-guide-master-phone-and-email-extraction-with-massmail-tool/"><u>Comprehensive Atomic Lead Harvesting Guide: Master Phone & Email Extraction with MassMail Tool</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/essential-qanda-mastering-your-next-email-marketing-blitz-with-insights-from-massmail/"><u>Essential Q&A: Mastering Your Next Email Marketing Blitz with Insights From MassMail</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a05s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A05s to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/proven-strategies-and-essential-tools-for-boosting-your-b2b-marketing-with-massmail/"><u>Proven Strategies and Essential Tools for Boosting Your B2B Marketing with MassMail</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/quick-fixes-to-keep-your-photos-app-fixed-on-win-11/"><u>Quick Fixes to Keep Your Photos App Fixed on Win 11</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/windows-os-hdd/"><u>Windows OSに最適 HDD損傷時の緊急対策</u></a></li>
 </ul></div>
 

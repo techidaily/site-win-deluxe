@@ -1,7 +1,7 @@
 ---
 title: Modern Approaches to Secure Online Transactions in 2009 - Ensuring Safe Virtual Shopping with MassMail Technology
-date: 2025-01-27T17:33:28.264Z
-updated: 2025-01-31T18:23:22.665Z
+date: 2025-02-12T02:07:44.862Z
+updated: 2025-02-13T01:55:02.833Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,16 +37,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -53,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -82,9 +82,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -103,16 +111,12 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-top-10-open-source-os-friendly-videography-software-for-2024/"><u>[New] Top 10 Open-Source OS-Friendly Videography Software for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-action-camera-showdown-gopro-hero-black-meets-yi-4k-update/"><u>[Updated] 2024 Approved Action Camera Showdown GoPro Hero Black Meets Yi 4K Update</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/1728501841083-windowsmac/"><u>如何從Windows、Mac和手機上回收刪除的照片</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/evolving-blogging-landscapes-mastering-mobile-platforms-via-massmail-solutions/"><u>Evolving Blogging Landscapes: Mastering Mobile Platforms via MassMail Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fast-track-functionality-how-to-setup-custom-shortcuts-for-power-button-on-win11/"><u>Fast-Track Functionality: How to Setup Custom Shortcuts for Power Button on Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-tecno-camon-20-premier-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Tecno Camon 20 Premier 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-5-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT 5 Pro</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-xr21-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia XR21 Phone Pattern Lock</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/mastering-the-move-a-guide-on-relocating-pubg-save-data-between-iphones/"><u>Mastering the Move: A Guide on Relocating PUBG Save Data Between iPhones</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/optimizing-your-supply-chain-how-to-seize-underestimated-growth-opportunities-for-success/"><u>Optimizing Your Supply Chain: How to Seize Underestimated Growth Opportunities for Success</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/schritt-fur-schritt-anleitung-zum-sichern-ihrer-anrufprotokolle-auf-einem-iphone/"><u>Schritt-Für-Schritt-Anleitung Zum Sichern Ihrer Anrufprotokolle Auf Einem iPhone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-guide-to-resolve-mac-noise-issues-successfully/"><u>The Ultimate Guide to Resolve Mac Noise Issues Successfully</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/troubleshooting-a-disconnected-mouse-insights-from-yl-computing-and-yl-software-solutions/"><u>Troubleshooting a Disconnected Mouse: Insights From YL Computing & YL Software Solutions</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/unlocking-linkbait-strategies-comprehensive-guide-with-definitions-and-essential-seo-tactics/"><u>Unlocking Linkbait Strategies: Comprehensive Guide with Definitions and Essential SEO Tactics</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/what-are-manipulative-links-defining-and-overcoming-the-challenge-for-your-websites-seo-success/"><u>What Are Manipulative Links? Defining & Overcoming the Challenge for Your Website's SEO Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-reducing-decibels-gradually-in-fl/"><u>[New] 2024 Approved Reducing Decibels Gradually in FL</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-amplify-audience-response-with-unique-instagram-quiz-features-for-2024/"><u>[New] Amplify Audience Response with Unique Instagram Quiz Features for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-step-by-step-solution-for-non-shown-shorts-thumbnails-on-youtube/"><u>[Updated] In 2024, Step-by-Step Solution for Non-Shown Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-instant-title-insertion-for-your-videos-on-windows-photos/"><u>[Updated] Instant Title Insertion for Your Videos on Windows Photos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-oppo-a1x-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Oppo A1x 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/complete-guide-removing-applications-via-control-panel-tech-solutions-by-yl/"><u>Complete Guide: Removing Applications via Control Panel - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/cpu-overheat-solutions-expert-guide-by-yl-computings-tech-specialists/"><u>CPU Overheat Solutions: Expert Guide by YL Computing's Tech Specialists</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/direct-links-for-samsung-m2020-printer-drivers-downloads/"><u>Direct Links for Samsung M2020 Printer Drivers Downloads</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/easy-steps-to-modify-your-windows-control-panel-preferences-expert-guide-by-yl-computing/"><u>Easy Steps to Modify Your Windows Control Panel Preferences - Expert Guide by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-can-a-wallet-balance-verification-utility-for-encrypted-currencies-like-bitcoin-supply-you-with-essential-details-explained-by-yl-technologies/"><u>How Can a Wallet Balance Verification Utility for Encrypted Currencies, Like Bitcoin, Supply You With Essential Details? - Explained by YL Technologies</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/how-can-i-set-up-extra-displays-with-windows-10-expert-tips-from-yl-computing/"><u>How Can I Set Up Extra Displays with Windows 10? - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-your-cpu-potential-for-ultimate-speed-and-performance-with-yl-solutions/"><u>Maximize Your CPU Potential for Ultimate Speed and Performance with YL Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-vlog-like-a-pro-10-essential-editing-apps-for-mobile-devices-for-2024/"><u>New Vlog Like a Pro 10 Essential Editing Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/yl-softwares-ultimate-walkthrough-protecting-your-system-by-backing-up-the-registry/"><u>YL Software's Ultimate Walkthrough: Protecting Your System by Backing Up the Registry</u></a></li>
 </ul></div>
 
