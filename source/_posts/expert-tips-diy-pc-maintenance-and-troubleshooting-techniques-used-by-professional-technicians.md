@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: DIY PC Maintenance & Troubleshooting Techniques Used by Professional Technicians"
-date: 2025-01-25T20:46:30.877Z
-updated: 2025-01-31T19:21:28.758Z
+date: 2025-03-02T21:17:41.572Z
+updated: 2025-03-03T17:33:49.100Z
 tags:
   - product
   - antivirus
@@ -28,17 +28,9 @@ If something happens to your computer, you call the service repair guys to fix t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Slow Computer Problem?
 
 If your computer is slow and not responding correctly, then you can do a few things to fix it. You need to remove the unnecessary software from your computer. They clogged the hard drive and slowed down your computer. So visit control panel and remove apps that you don’t use. Also, you should delete unnecessary files from your hard drive. If your hard drive is almost full, then your computer is not going to work fast. You can also consider upgrading to SSDs; they are faster than HDD. Your computer saves some temporary files; sometimes when the PC has lots of temporary files it slows down, so delete the temporary files. To do that press the **Windows** button and **R** together to open the run dialogue. Now type **%temp%** and press **enter**.![Delete Temporary Files 1](https://www.malwarefox.com/wp-content/uploads/2019/01/Delete-Temporary-Files-1.jpg)You will see the temporary file window, now **select all files** and the press **Shift key & Del** button together. Lots of startup apps also slow down your computer. They keep running in the background and use the system resources. So, you can remove unnecessary startup application to boost the speed of your computer. **Right click** on the taskbar and choose **Task Manager**.![How to Fix Computer like Service Reapir Guys](https://www.malwarefox.com/wp-content/uploads/2019/01/Launch-Task-Manager-1.jpg)Now click on the **Startup** tab. To disable the startup of an application **select the app** and click on the **Disable** button. You can disable the unnecessary apps but make sure to leave the necessary software like antivirus.![Disable Startup Apps](https://www.malwarefox.com/wp-content/uploads/2019/01/Disable-Startup-Apps.jpg)To increase the speed of your computer you can also run the disk defragment tool. Open **My Computer** and **right-click** on the partition and choose **Properties**.![Disk Optimize](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Optimize-1.jpg)Now click on the **Tools** tab, and then click on **Optimize** under Optimize and defragment the drive.![Defrag the Drive 1](https://www.malwarefox.com/wp-content/uploads/2019/01/Defrag-the-Drive-1.jpg)Now select a drive and click on **Optimize**.![Defrag the Drive 2](https://www.malwarefox.com/wp-content/uploads/2019/01/Defrag-the-Drive-2.jpg)You can also run the Disk Cleanup tool to free some storage so that your PC runs smoothly. To do that again go to My Computer and **right click** on the partition and choose **Properties**.![Disk Optimize](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Optimize-1.jpg)On the **General** tab click on **Disk Cleanup**.![Disk Cleanup 1](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Cleanup-1.jpg)It will analyze the storage that can be free. You can select the files to remove in the next window.![Disk Cleanup 2](https://www.malwarefox.com/wp-content/uploads/2019/01/Disk-Cleanup-2.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Removing Malware or Virus
 
@@ -48,10 +40,6 @@ How many times did you pay someone to remove the virus infection from your PC? R
 
 There are lots of good antivirus and antimalware you can purchase their subscription and clean your PC. All you have to do is to install the antivirus and run the scan. Sometimes, viruses don’t let you download antivirus. To overcome from this situation download the tool on some other computer and then boot your PC in safe mode then install the antivirus. To run the Windows in safe mode press **Ctrl+F8** key during the startup and choose safe mode.![](https://www.malwarefox.com/wp-content/uploads/2017/10/MalwareFox-1.jpg)Install the MalwareFox anti-malware to remove the nasty malware infection from your system. It is capable of eliminating ransomware, spyware, [rootkits](https://tools.techidaily.com/malwarefox/products/), [trojans](https://tools.techidaily.com/malwarefox/products/), [browser hijackers](https://tools.techidaily.com/malwarefox/products/) efficiently. Its interface is simple, and you can operate it smoothly. \[thrive\_link color=’red’ link=’https://www.malwarefox.com/free-download/’ target=’\_blank’ size=’medium’ align=’aligncenter’\]Download MalwareFox\[/thrive\_link\]
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Upgrading or Changing Computer’s Part
 
 If you want to upgrade some part on your machine, then you don’t need to pay for it. You can easily do it. Most of the computer’s components are easy to install and remove. Like if you want to upgrade the RAM in your system, then you just have to insert in its slot. It is similar with the hard drive. To upgrade the RAM, you have to know which type of RAM your PC support. To know that right click on the taskbar and choose Task Manager. Click on the Performance Tab, and then click on the Memory. You will see the RAM type on the upper right corner. Now you know which kind of RAM to purchase. Now decide its size, if you want that your PC has 8 GB of RAM and you have one empty slot of RAM, then you can purchase a 4GB of RAM if there are no empty slots then you have to buy 8GB of RAM. If you are not sure how to remove and insert a new RAM or Hard Drive, you can watch videos online. Tons of tutorials will tell you step by step. If you plan to change the hard drive, then you have to install the Windows again. That takes a little bit more efforts, but that is also not hard. Similarly, you can change other parts like SMPS, optical drive, and even motherboard. You don’t need serviceman to do this job.
@@ -60,17 +48,9 @@ If you want to upgrade some part on your machine, then you don’t need to pay f
 
 When you accidentally deleted an important file, and it is not in the recycle bin, then you call so-called data recovery guys to do the job for you. They don’t have magical powers to recover your files. They use some tools to recover the deleted files. So you can use that yourself.![Recovering Deleted Data](https://www.malwarefox.com/wp-content/uploads/2017/12/6.png)When you delete a file from the hard drive, it doesn’t get removed immediately. The system just removes its name from the index file. So you cannot find it. Some tools scan for such data and help you to recover them. Such a tool is [Recuva](https://www.ccleaner.com/recuva). It is developed by Piriform and comes in free and paid version. For me, its a life saver. If it doesn’t do the job, then you can switch to some paid recovery software. But before investing money research a little bit about the product. There are lots of fake products in the market.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing Windows Errors
 
 If you are getting a windows error, then there is no need to call service repair guys. You can fix those errors with yourself with a little bit of research. When you receive an error window provide an error code to identify it. Note down the error code and search about it on the internet. I am sure you will find a solution.![Windows Repair by Tweaking.com](https://www.malwarefox.com/wp-content/uploads/2017/12/1.png)If you want a more simple solution, then download a system repair tool. [Windows Repair by Tweaking.com](http://www.tweaking.com/) is such a software. It automatically scans for missing system files and registry entry and fixes them. [Iolo System Mechanic](https://www.iolo.com/products/system-mechanic-professional/) is another useful tool in such cases.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Reinstalling the Operating System
 
@@ -117,19 +97,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-maintain-consistency-in-voice-posts-on-instagram/"><u>[New] How to Maintain Consistency in Voice Posts on Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-master-the-art-of-uploading-vimeo-to-instagram/"><u>[New] Master the Art of Uploading Vimeo to Instagram</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-educators-essentials-the-leading-10-devices-for-lecture-recording/"><u>[Updated] 2024 Approved Educators' Essentials The Leading 10 Devices for Lecture Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-enhancing-your-virtual-engagement-through-better-zoomed-views/"><u>[Updated] In 2024, Enhancing Your Virtual Engagement Through Better Zoomed Views</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/u3/"><u>如何找回丢失的U盘数据：科学证实的3个解决手段</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-high-quality-display-on-a-portable-laptop-a-surprising-gem-discovered-by-zdnet/"><u>Affordable High-Quality Display on a Portable Laptop: A Surprising Gem Discovered by ZDNet</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/come-scegliere-il-migliore-programma-clonadisk-per-windows-11-garantendo-un-avvio-sicuro-e-affidabile/"><u>Come Scegliere Il Migliore Programma ClonaDisk per Windows 11, Garantendo Un Avvio Sicuro E Affidabile</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comprehensive-tutorial-role-management-for-ad-members-within-vcenter-environment/"><u>Comprehensive Tutorial: Role Management for AD Members Within vCenter Environment</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/effective-steps-for-uninstalling-windows-10-updates/"><u>Effective Steps for Uninstalling Windows 10 Updates</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/how-to-transfer-your-outlook-contact-list-to-an-exterior-hard-disk/"><u>How to Transfer Your Outlook Contact List to an Exterior Hard Disk</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>In 2024, Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/metodi-rapidi-per-il-ripristino-dei-dati-risolvi-problemi-di-dischi-duri-non-funzionanti/"><u>Metodi Rapidi per Il Ripristino Dei Dati: Risolvi Problemi Di Dischi Duri Non Funzionanti</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-eyesharp-record-chromeos-native-cam/"><u>[New] In 2024, EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-breakthrough-backdoor-facebook-access-restored/"><u>[Updated] In 2024, Breakthrough Backdoor Facebook Access Restored</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-exploring-all-windows-movie-maker-editions/"><u>[Updated] In 2024, Exploring All Windows Movie Maker Editions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tutorial-unmask-your-youtube-audience/"><u>[Updated] Tutorial Unmask Your YouTube Audience</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-video-for-bedtime-stories-elements-and-reviews/"><u>[Updated] Video for Bedtime Stories Elements and Reviews</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/best-ios-apps-for-pdf-editing-top-picks-of-2020/"><u>Best iOS Apps for PDF Editing: Top Picks of 2020</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-15-pro-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 15 Pro without the Previous Owner?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/discover-the-ultimate-list-of-top-8-live-streaming-apps-for-smartphones-and-tablets/"><u>Discover the Ultimate List of Top 8 Live Streaming Apps for Smartphones and Tablets</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effective-methods-for-transferring-songs-onto-your-android-device/"><u>Effective Methods for Transferring Songs Onto Your Android Device</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/effortless-methods-for-restoring-accidentally-erased-messages-from-your-ipad/"><u>Effortless Methods for Restoring Accidentally Erased Messages From Your iPad</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/expert-review-leading-photo-management-software-for-windows-10-users/"><u>Expert Review: Leading Photo Management Software for Windows 10 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-in-touch-with-digiarty-your-gateway-to-exceptional-creative-solutions/"><u>Get in Touch with Digiarty - Your Gateway to Exceptional Creative Solutions</u></a></li>
+<li><a href="https://win-tips.techidaily.com/maximizing-your-hard-drives-performance-expert-tips-from-yl-computing/"><u>Maximizing Your Hard Drive's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-on-personal-dvd-duplication-for-existing-library/"><u>Step-by-Step Tutorial on Personal DVD Duplication for Existing Library</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-ranking-digital-photo-background-eraser-tools/"><u>Top-Ranking Digital Photo Background Eraser Tools</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/top-ranking-instagram-image-enhancement-apps/"><u>Top-Ranking Instagram Image Enhancement Apps</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/zdnets-guide-to-switching-your-ip-address-when-its-beneficial-and-when-it-isnt/"><u>ZDNet’s Guide to Switching Your IP Address: When It's Beneficial and When It Isn’t</u></a></li>
 </ul></div>
 
